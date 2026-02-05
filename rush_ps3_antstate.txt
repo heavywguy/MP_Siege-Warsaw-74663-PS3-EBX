@@ -1,0 +1,7 @@
+d317061d-5e9a-edd9-c33b-41bcfcd1bee9
+AntStateAsset d317061d-5e9a-edd9-c33b-41bcfcd1bee9
+	$::Asset
+		$::DataContainer
+		Name levels/mp/mp_siege/rush_ps3_antstate
+	StreamingGuid *nullGuid*
+	ChunkSize 0

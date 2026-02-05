@@ -1,0 +1,7 @@
+ac30e6f3-4600-9698-2cf7-85c4805d518a
+AntStateAsset ac30e6f3-4600-9698-2cf7-85c4805d518a
+	$::Asset
+		$::DataContainer
+		Name levels/mp/mp_siege/squaddeathmatch0_ps3_antstate
+	StreamingGuid *nullGuid*
+	ChunkSize 0

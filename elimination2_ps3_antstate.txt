@@ -1,0 +1,7 @@
+dbecc3c0-5e94-8b20-71cf-d3ee9b10c2d8
+AntStateAsset dbecc3c0-5e94-8b20-71cf-d3ee9b10c2d8
+	$::Asset
+		$::DataContainer
+		Name levels/mp/mp_siege/elimination2_ps3_antstate
+	StreamingGuid *nullGuid*
+	ChunkSize 0

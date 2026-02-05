@@ -1,0 +1,80 @@
+c3d0c2b4-59c7-477e-b5df-7d3ee2a075bd
+WorldPartData 923f5be8-5a81-4a59-b834-4310ff255b0b
+	$::PrefabBlueprint
+		$::Blueprint
+			$::EntityBusData
+				$::DataBusData
+					$::Asset
+						$::DataContainer
+						Name Levels/MP/MP_Siege/Technical_Gen3
+					PropertyConnections *nullArray*
+					LinkConnections *nullArray*
+					Interface *nullGuid*
+					Flags 0
+				EventConnections *nullArray*
+		Objects::array
+			member(0) 30e4fee8-9c17-410e-961f-bb896d4fff54
+			member(1) 094e28ae-c6e0-4867-89e7-022e24daa84f
+	HackToSolveRealTimeTweakingIssue 642286c6-eef3-19e7-57d0-85c19e25091f
+	Enabled True
+	UseDeferredEntityCreation False
+ReferenceObjectData 094e28ae-c6e0-4867-89e7-022e24daa84f
+	$::GameObjectData
+		$::DataBusPeer
+			$::GameDataContainer
+				$::DataContainer
+			Flags 424552622
+	Blueprint Levels/MP/MP_Siege/Objects/Occluder_01/Occluder_02/5697278f-1880-63ce-b0f7-14dbfa2eda14
+	BlueprintTransform::LinearTransform
+		right::Vec3
+			x 1.0
+			y 0.0
+			z 0.0
+		up::Vec3
+			x 0.0
+			y 1.0
+			z 0.0
+		forward::Vec3
+			x 0.0
+			y 0.0
+			z 1.0
+		trans::Vec3
+			x 187.9019775390625
+			y 62.09564208984375
+			z -267.97589111328125
+	ObjectVariation *nullGuid*
+	StreamRealm StreamRealm_None
+	RadiosityTypeOverride RadiosityTypeOverride_None
+	CastSunShadowEnable True
+	CastReflectionEnable False
+	Excluded False
+ReferenceObjectData 30e4fee8-9c17-410e-961f-bb896d4fff54
+	$::GameObjectData
+		$::DataBusPeer
+			$::GameDataContainer
+				$::DataContainer
+			Flags 417660648
+	Blueprint Levels/MP/MP_Siege/Objects/Occluder_01/Occluder_01/4d2926f8-181b-7654-61fa-54df438a8649
+	BlueprintTransform::LinearTransform
+		right::Vec3
+			x 1.0
+			y 0.0
+			z 0.0
+		up::Vec3
+			x 0.0
+			y 1.0
+			z 0.0
+		forward::Vec3
+			x 0.0
+			y 0.0
+			z 1.0
+		trans::Vec3
+			x 195.59329223632812
+			y 79.8773422241211
+			z -261.16278076171875
+	ObjectVariation *nullGuid*
+	StreamRealm StreamRealm_None
+	RadiosityTypeOverride RadiosityTypeOverride_None
+	CastSunShadowEnable True
+	CastReflectionEnable False
+	Excluded False

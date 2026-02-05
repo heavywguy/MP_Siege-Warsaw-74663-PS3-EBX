@@ -1,0 +1,111 @@
+44e0a972-ef5d-46f3-98f4-712cf37fd4ac
+WorldPartData bef1c337-6be3-45da-81c3-6d253e390422
+	$::PrefabBlueprint
+		$::Blueprint
+			$::EntityBusData
+				$::DataBusData
+					$::Asset
+						$::DataContainer
+						Name Levels/MP/MP_Siege/Base4_Gen3
+					PropertyConnections *nullArray*
+					LinkConnections *nullArray*
+					Interface *nullGuid*
+					Flags 0
+				EventConnections *nullArray*
+		Objects::array
+			member(0) Instance0
+			member(1) Instance1
+			member(2) 79d06682-11a5-4ab6-a35e-1331645caa38
+	HackToSolveRealTimeTweakingIssue 642286c6-eef3-19e7-57d0-85c19e25091f
+	Enabled True
+	UseDeferredEntityCreation False
+ReferenceObjectData 79d06682-11a5-4ab6-a35e-1331645caa38
+	$::GameObjectData
+		$::DataBusPeer
+			$::GameDataContainer
+				$::DataContainer
+			Flags 131098242
+	Blueprint levels/mp/mp_siege/prefabs/pf_skyscraper_setpiece_gen3_nongroupable_autogen_Ps3/3aca455d-d5e7-dfe9-5118-faaed4ba12d1
+	BlueprintTransform::LinearTransform
+		right::Vec3
+			x 1.0
+			y 0.0
+			z 0.0
+		up::Vec3
+			x 0.0
+			y 1.0
+			z 0.0
+		forward::Vec3
+			x 0.0
+			y 0.0
+			z 1.0
+		trans::Vec3
+			x 224.4099884033203
+			y 62.84190368652344
+			z -266.8811340332031
+	ObjectVariation *nullGuid*
+	StreamRealm StreamRealm_None
+	RadiosityTypeOverride RadiosityTypeOverride_None
+	CastSunShadowEnable True
+	CastReflectionEnable True
+	Excluded False
+ReferenceObjectData Instance0
+	$::GameObjectData
+		$::DataBusPeer
+			$::GameDataContainer
+				$::DataContainer
+			Flags 21691823
+	Blueprint Objects/Props/FlagStatue_dest_01/FlagStatue_01_destruct_Gen3/df2019d1-658c-4fcf-28a0-3f449feeb453
+	BlueprintTransform::LinearTransform
+		right::Vec3
+			x -1.0
+			y 0.0
+			z -8.742277657347586e-08
+		up::Vec3
+			x 0.0
+			y 1.0
+			z 0.0
+		forward::Vec3
+			x 8.742277657347586e-08
+			y 0.0
+			z -1.0
+		trans::Vec3
+			x 160.96603393554688
+			y 61.432559967041016
+			z -448.01580810546875
+	ObjectVariation *nullGuid*
+	StreamRealm StreamRealm_None
+	RadiosityTypeOverride RadiosityTypeOverride_None
+	CastSunShadowEnable True
+	CastReflectionEnable True
+	Excluded False
+ReferenceObjectData Instance1
+	$::GameObjectData
+		$::DataBusPeer
+			$::GameDataContainer
+				$::DataContainer
+			Flags 12341212
+	Blueprint Objects/Props/FlagStatue_dest_01/FlagStatue_01_destruct_Gen3/df2019d1-658c-4fcf-28a0-3f449feeb453
+	BlueprintTransform::LinearTransform
+		right::Vec3
+			x -1.0
+			y 0.0
+			z -8.742277657347586e-08
+		up::Vec3
+			x 0.0
+			y 1.0
+			z 0.0
+		forward::Vec3
+			x 8.742277657347586e-08
+			y 0.0
+			z -1.0
+		trans::Vec3
+			x 163.55062866210938
+			y 61.432559967041016
+			z -444.50341796875
+	ObjectVariation *nullGuid*
+	StreamRealm StreamRealm_None
+	RadiosityTypeOverride RadiosityTypeOverride_None
+	CastSunShadowEnable True
+	CastReflectionEnable True
+	Excluded False

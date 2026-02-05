@@ -1,0 +1,3154 @@
+7b78abe5-1773-4e2b-b31c-38f07465ff2a
+WorldPartData 37929acd-5599-4049-834f-6429336a8324
+	$::PrefabBlueprint
+		$::Blueprint
+			$::EntityBusData
+				$::DataBusData
+					$::Asset
+						$::DataContainer
+						Name Levels/MP/MP_Siege/Lights_Gen3
+					PropertyConnections *nullArray*
+					LinkConnections *nullArray*
+					Interface *nullGuid*
+					Flags 0
+				EventConnections *nullArray*
+		Objects::array
+			member(0) Instance4
+			member(1) Instance19
+			member(2) Instance1
+			member(3) Instance23
+			member(4) Instance44
+			member(5) Instance25
+			member(6) Instance17
+			member(7) Instance2
+			member(8) Instance9
+			member(9) Instance22
+			member(10) Instance35
+			member(11) Instance34
+			member(12) Instance20
+			member(13) Instance14
+			member(14) Instance6
+			member(15) Instance39
+			member(16) Instance41
+			member(17) Instance43
+			member(18) Instance21
+			member(19) Instance10
+			member(20) Instance8
+			member(21) Instance47
+			member(22) Instance30
+			member(23) Instance26
+			member(24) Instance32
+			member(25) Instance48
+			member(26) Instance5
+			member(27) Instance45
+			member(28) Instance16
+			member(29) Instance40
+			member(30) Instance33
+			member(31) Instance46
+			member(32) Instance31
+			member(33) Instance24
+			member(34) Instance7
+			member(35) Instance12
+			member(36) Instance0
+			member(37) Instance11
+			member(38) Instance18
+			member(39) Instance36
+			member(40) Instance15
+			member(41) Instance3
+			member(42) Instance37
+			member(43) Instance28
+			member(44) Instance13
+			member(45) Instance38
+			member(46) Instance29
+			member(47) Instance42
+			member(48) Instance27
+	HackToSolveRealTimeTweakingIssue 642286c6-eef3-19e7-57d0-85c19e25091f
+	Enabled True
+	UseDeferredEntityCreation False
+SpotLightEntityData Instance0
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 28659873
+			Transform::LinearTransform
+				right::Vec3
+					x 1.0
+					y 0.0
+					z 0.0
+				up::Vec3
+					x 0.0
+					y -0.314627468585968
+					z -0.9492151737213135
+				forward::Vec3
+					x 0.0
+					y 0.9492151737213135
+					z -0.314627468585968
+				trans::Vec3
+					x 171.960205078125
+					y 74.07523345947266
+					z -415.4421691894531
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 8.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 105.53800201416016
+	FrustumFov 145.58099365234375
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance1
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 30858755
+			Transform::LinearTransform
+				right::Vec3
+					x -0.8642802834510803
+					y 0.2085258513689041
+					z 0.457751601934433
+				up::Vec3
+					x 0.016797704622149467
+					y 0.9214813113212585
+					z -0.38805925846099854
+				forward::Vec3
+					x -0.5027299523353577
+					y -0.3277028203010559
+					z -0.799920916557312
+				trans::Vec3
+					x 192.8363494873047
+					y 61.63998031616211
+					z -449.4596862792969
+		Color::Vec3
+			x 0.6190000176429749
+			y 0.8500000238418579
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 20.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable True
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 55.05799865722656
+	FrustumFov 88.98200225830078
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance2
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 11972679
+			Transform::LinearTransform
+				right::Vec3
+					x 0.9999999403953552
+					y 0.0
+					z 0.0
+				up::Vec3
+					x 0.0
+					y -4.371138118131057e-08
+					z -0.9999998807907104
+				forward::Vec3
+					x 0.0
+					y 1.0
+					z -4.371138828673793e-08
+				trans::Vec3
+					x 207.34481811523438
+					y 281.9655456542969
+					z -243.81809997558594
+		Color::Vec3
+			x 1.0
+			y 0.8899999856948853
+			z 0.7450000047683716
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 10.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable True
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 73.51799774169922
+	FrustumFov 40.0
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture *nullGuid*
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance3
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 24267896
+			Transform::LinearTransform
+				right::Vec3
+					x 0.9431554675102234
+					y -0.33235159516334534
+					z 0.0
+				up::Vec3
+					x -1.4527548941600799e-08
+					y -4.1226627445212216e-08
+					z -0.9999998807907104
+				forward::Vec3
+					x 0.33235156536102295
+					y 0.9431554675102234
+					z -4.371138473402425e-08
+				trans::Vec3
+					x 183.4277801513672
+					y 74.80059051513672
+					z -399.1677551269531
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 6.0
+		Intensity 20.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable True
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 92.22000122070312
+	FrustumFov 102.63099670410156
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance4
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 15011731
+			Transform::LinearTransform
+				right::Vec3
+					x 1.0
+					y 0.0
+					z 0.0
+				up::Vec3
+					x 0.0
+					y -0.0066820671781897545
+					z -0.9999775290489197
+				forward::Vec3
+					x 0.0
+					y 0.9999775290489197
+					z -0.0066820671781897545
+				trans::Vec3
+					x 244.63299560546875
+					y 74.16236114501953
+					z -458.0379333496094
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 3.0
+			y 3.0
+			z 3.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 5.0
+		Intensity 20.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable True
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 40.0
+	FrustumFov 120.0
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance5
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 23542411
+			Transform::LinearTransform
+				right::Vec3
+					x 0.9999999403953552
+					y 0.0
+					z 0.0
+				up::Vec3
+					x 0.0
+					y -4.371138118131057e-08
+					z -0.9999998807907104
+				forward::Vec3
+					x 0.0
+					y 0.9999999403953552
+					z -4.371138473402425e-08
+				trans::Vec3
+					x 209.07537841796875
+					y 74.98343658447266
+					z -408.9906921386719
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 6.0
+		Intensity 30.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable True
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 92.22000122070312
+	FrustumFov 113.59100341796875
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance6
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 23834865
+			Transform::LinearTransform
+				right::Vec3
+					x 0.921506941318512
+					y -2.0746753204292645e-09
+					z -0.3883618414402008
+				up::Vec3
+					x -0.3883618712425232
+					y -4.028034439329531e-08
+					z -0.9215068817138672
+				forward::Vec3
+					x -1.373152347383666e-08
+					y 0.9999999403953552
+					z -3.7924341000916684e-08
+				trans::Vec3
+					x 154.4417266845703
+					y 74.65312957763672
+					z -397.5372009277344
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 7.0
+		Intensity 20.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 144.81700134277344
+	FrustumFov 133.99400329589844
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance7
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 12886459
+			Transform::LinearTransform
+				right::Vec3
+					x 0.993560254573822
+					y -0.11330410093069077
+					z 4.952678711589442e-09
+				up::Vec3
+					x 0.0
+					y -4.371138118131057e-08
+					z -0.9999998807907104
+				forward::Vec3
+					x 0.11330412328243256
+					y 0.993560254573822
+					z -4.342989967653921e-08
+				trans::Vec3
+					x 95.36735534667969
+					y 74.497314453125
+					z -449.4662170410156
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 7.0
+		Intensity 5.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 92.22000122070312
+	FrustumFov 111.26300048828125
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance8
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 743928
+			Transform::LinearTransform
+				right::Vec3
+					x -1.5632409781788162e-14
+					y 0.13894392549991608
+					z 0.990300178527832
+				up::Vec3
+					x 1.0
+					y -4.328739677816884e-08
+					z 6.073448854948538e-09
+				forward::Vec3
+					x 4.371138473402425e-08
+					y 0.990300178527832
+					z -0.13894392549991608
+				trans::Vec3
+					x 184.16859436035156
+					y 70.79788970947266
+					z -125.5398178100586
+		Color::Vec3
+			x 2.7100000381469727
+			y 4.36299991607666
+			z 5.0
+		EnlightenColorScale::Vec3
+			x 20.0
+			y 20.0
+			z 20.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 2.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 90.87899780273438
+	FrustumFov 40.0
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 10.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance9
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 20159037
+			Transform::LinearTransform
+				right::Vec3
+					x 1.0
+					y 0.0
+					z 0.0
+				up::Vec3
+					x 0.0
+					y -4.371138473402425e-08
+					z -0.9999999403953552
+				forward::Vec3
+					x 0.0
+					y 0.9999999403953552
+					z -4.371138473402425e-08
+				trans::Vec3
+					x 164.73098754882812
+					y 69.56109619140625
+					z -117.93665313720703
+		Color::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 20.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 132.46299743652344
+	FrustumFov 40.0
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture *nullGuid*
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance10
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 8915204
+			Transform::LinearTransform
+				right::Vec3
+					x -1.5632409781788162e-14
+					y -0.07132500410079956
+					z 0.9974530339241028
+				up::Vec3
+					x 1.0
+					y -4.3600060450899036e-08
+					z -3.1176992099091194e-09
+				forward::Vec3
+					x 4.371138473402425e-08
+					y 0.9974530339241028
+					z 0.07132500410079956
+				trans::Vec3
+					x 173.50914001464844
+					y 70.9912109375
+					z -125.5398178100586
+		Color::Vec3
+			x 2.7100000381469727
+			y 4.36299991607666
+			z 5.0
+		EnlightenColorScale::Vec3
+			x 20.0
+			y 20.0
+			z 20.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 2.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 90.87899780273438
+	FrustumFov 40.0
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture *nullGuid*
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 10.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance11
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 17109311
+			Transform::LinearTransform
+				right::Vec3
+					x 1.0
+					y 0.0
+					z 0.0
+				up::Vec3
+					x 0.0
+					y -0.06406735628843307
+					z -0.9979455471038818
+				forward::Vec3
+					x 0.0
+					y 0.9979455471038818
+					z -0.06406735628843307
+				trans::Vec3
+					x 202.259521484375
+					y 74.01685333251953
+					z -413.0368957519531
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 5.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 105.53800201416016
+	FrustumFov 136.62899780273438
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance12
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 30509293
+			Transform::LinearTransform
+				right::Vec3
+					x 0.9989731907844543
+					y -0.04530569538474083
+					z 1.9803765294312825e-09
+				up::Vec3
+					x 0.0
+					y -4.371138473402425e-08
+					z -0.9999999403953552
+				forward::Vec3
+					x 0.04530569911003113
+					y 0.9989731311798096
+					z -4.3666503302119963e-08
+				trans::Vec3
+					x -2.8593688011169434
+					y 72.27327728271484
+					z -421.5443420410156
+		Color::Vec3
+			x 0.6520000100135803
+			y 0.9150000214576721
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 10.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 102.177001953125
+	FrustumFov 148.5659942626953
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance13
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 6798343
+			Transform::LinearTransform
+				right::Vec3
+					x 1.0
+					y 0.0
+					z 0.0
+				up::Vec3
+					x 0.0
+					y 0.7257065176963806
+					z -0.6880043148994446
+				forward::Vec3
+					x 0.0
+					y 0.6880043148994446
+					z 0.7257065176963806
+				trans::Vec3
+					x 200.9918975830078
+					y 77.24736785888672
+					z -120.86748504638672
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 10.0
+			y 10.0
+			z 10.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 7.0
+		Intensity 20.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable True
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 121.96399688720703
+	FrustumFov 102.30999755859375
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance14
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 5314193
+			Transform::LinearTransform
+				right::Vec3
+					x 1.0
+					y 0.0
+					z 0.0
+				up::Vec3
+					x 0.0
+					y -0.314627468585968
+					z -0.9492151737213135
+				forward::Vec3
+					x 0.0
+					y 0.9492151737213135
+					z -0.314627468585968
+				trans::Vec3
+					x 193.9068603515625
+					y 74.41181182861328
+					z -414.4267272949219
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 8.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 105.53800201416016
+	FrustumFov 123.19999694824219
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance15
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 30826928
+			Transform::LinearTransform
+				right::Vec3
+					x 0.9827852249145508
+					y 0.1847517192363739
+					z 0.0
+				up::Vec3
+					x 0.016603782773017883
+					y -0.0883236676454544
+					z -0.995953381061554
+				forward::Vec3
+					x -0.18400412797927856
+					y 0.9788082838058472
+					z -0.08987077325582504
+				trans::Vec3
+					x 164.43905639648438
+					y 74.07525634765625
+					z -413.96600341796875
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 3.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 105.53800201416016
+	FrustumFov 129.16799926757812
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance16
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 5138274
+			Transform::LinearTransform
+				right::Vec3
+					x 0.993560254573822
+					y -0.11330410093069077
+					z 4.952678711589442e-09
+				up::Vec3
+					x 0.0
+					y -4.371138118131057e-08
+					z -0.9999998807907104
+				forward::Vec3
+					x 0.11330412328243256
+					y 0.993560254573822
+					z -4.342989967653921e-08
+				trans::Vec3
+					x 155.04991149902344
+					y 75.01102447509766
+					z -416.6940612792969
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 7.0
+		Intensity 20.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable True
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 92.22000122070312
+	FrustumFov 102.63099670410156
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance17
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 19621879
+			Transform::LinearTransform
+				right::Vec3
+					x 0.9974486827850342
+					y -0.05646014213562012
+					z -0.04368576407432556
+				up::Vec3
+					x -0.041180241852998734
+					y 0.044803764671087265
+					z -0.9981465935707092
+				forward::Vec3
+					x 0.05831278860569
+					y 0.9973990321159363
+					z 0.04236438497900963
+				trans::Vec3
+					x 167.09942626953125
+					y 65.84257507324219
+					z -420.8355407714844
+		Color::Vec3
+			x 0.7319999933242798
+			y 0.8870000243186951
+			z 0.9829999804496765
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 2.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable True
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 163.61599731445312
+	FrustumFov 40.0
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture *nullGuid*
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance18
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 27630714
+			Transform::LinearTransform
+				right::Vec3
+					x 1.0
+					y 0.0
+					z 0.0
+				up::Vec3
+					x 0.0
+					y 0.004378854762762785
+					z -0.9999904036521912
+				forward::Vec3
+					x 0.0
+					y 0.9999904036521912
+					z 0.004378854762762785
+				trans::Vec3
+					x 200.9652557373047
+					y 74.0157241821289
+					z -407.3412170410156
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 3.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 105.53800201416016
+	FrustumFov 150.05799865722656
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance19
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 1369036
+			Transform::LinearTransform
+				right::Vec3
+					x 1.0
+					y 0.0
+					z 0.0
+				up::Vec3
+					x 0.0
+					y 0.021483926102519035
+					z -0.9997691512107849
+				forward::Vec3
+					x 0.0
+					y 0.9997691512107849
+					z 0.021483926102519035
+				trans::Vec3
+					x 184.76571655273438
+					y 65.91117095947266
+					z -459.6842041015625
+		Color::Vec3
+			x 0.6940000057220459
+			y 0.8450000286102295
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 20.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 153.45899963378906
+	FrustumFov 40.0
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture *nullGuid*
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance20
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 5978594
+			Transform::LinearTransform
+				right::Vec3
+					x 1.0
+					y 0.0
+					z 0.0
+				up::Vec3
+					x 0.0
+					y 0.414913535118103
+					z -0.9098606705665588
+				forward::Vec3
+					x 0.0
+					y 0.9098606705665588
+					z 0.414913535118103
+				trans::Vec3
+					x -13.183366775512695
+					y 72.10037994384766
+					z -440.59063720703125
+		Color::Vec3
+			x 1.0
+			y 0.7319999933242798
+			z 0.49399998784065247
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 10.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 76.26899719238281
+	FrustumFov 111.26300048828125
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance21
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 12573186
+			Transform::LinearTransform
+				right::Vec3
+					x -1.6913043410227147e-08
+					y -0.2828000485897064
+					z 0.9591788053512573
+				up::Vec3
+					x 1.0
+					y -4.3444394748348714e-08
+					z 4.823880406235048e-09
+				forward::Vec3
+					x 4.030675171406983e-08
+					y 0.9591788053512573
+					z 0.2828000485897064
+				trans::Vec3
+					x 103.68524169921875
+					y 72.055908203125
+					z -111.24996948242188
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 20.0
+			y 20.0
+			z 20.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 12.0
+		Intensity 10.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 90.87899780273438
+	FrustumFov 123.19999694824219
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 10.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance22
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 24058939
+			Transform::LinearTransform
+				right::Vec3
+					x 0.9989731907844543
+					y -0.04530569538474083
+					z 1.9803765294312825e-09
+				up::Vec3
+					x 0.0
+					y -4.371138473402425e-08
+					z -0.9999999403953552
+				forward::Vec3
+					x 0.04530569911003113
+					y 0.9989731311798096
+					z -4.3666503302119963e-08
+				trans::Vec3
+					x 7.320886135101318
+					y 72.45237731933594
+					z -431.9644470214844
+		Color::Vec3
+			x 0.6520000100135803
+			y 0.9150000214576721
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 10.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 102.177001953125
+	FrustumFov 141.10499572753906
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance23
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 8475827
+			Transform::LinearTransform
+				right::Vec3
+					x 0.9990735054016113
+					y 0.004492067266255617
+					z -0.04281124845147133
+				up::Vec3
+					x -0.010255980305373669
+					y -0.9410595893859863
+					z -0.33808475732803345
+				forward::Vec3
+					x -0.041806478053331375
+					y 0.3382106423377991
+					z -0.9401409029960632
+				trans::Vec3
+					x 168.7389678955078
+					y 63.942138671875
+					z -468.6180725097656
+		Color::Vec3
+			x 0.2540000081062317
+			y 0.47999998927116394
+			z 0.6460000276565552
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 9.0
+		Intensity 60.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable False
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 113.0510025024414
+	FrustumFov 65.87999725341797
+	FrustumAspect 2.0
+	OrthoWidth 12.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_StoreShutter_gobo/d5b6882a-4e98-4714-df1b-e654ed4c59e9
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 7.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance24
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 32967027
+			Transform::LinearTransform
+				right::Vec3
+					x 0.993560254573822
+					y -0.11330410093069077
+					z 4.952678711589442e-09
+				up::Vec3
+					x 0.0
+					y -4.371138118131057e-08
+					z -0.9999998807907104
+				forward::Vec3
+					x 0.11330412328243256
+					y 0.993560254573822
+					z -4.342989967653921e-08
+				trans::Vec3
+					x 101.529296875
+					y 74.37931823730469
+					z -463.9591369628906
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 7.0
+		Intensity 30.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 92.22000122070312
+	FrustumFov 126.18399810791016
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance25
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 16631919
+			Transform::LinearTransform
+				right::Vec3
+					x 0.9974486827850342
+					y 0.0
+					z -0.0713876262307167
+				up::Vec3
+					x -0.041180241852998734
+					y 0.8168472051620483
+					z -0.5753821730613708
+				forward::Vec3
+					x 0.05831278860569
+					y 0.5768539309501648
+					z 0.8147631287574768
+				trans::Vec3
+					x 155.31951904296875
+					y 64.92306518554688
+					z -416.69818115234375
+		Color::Vec3
+			x 0.7319999933242798
+			y 0.8870000243186951
+			z 0.9829999804496765
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 0.25
+			y 0.25
+			z 0.25
+		Radius 25.0
+		Intensity 20.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable True
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 68.62799835205078
+	FrustumFov 40.0
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture *nullGuid*
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 25.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance26
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 33238688
+			Transform::LinearTransform
+				right::Vec3
+					x 1.0
+					y 0.0
+					z 0.0
+				up::Vec3
+					x 0.0
+					y 0.0
+					z -0.9999998807907104
+				forward::Vec3
+					x 0.0
+					y 0.9999998807907104
+					z 0.0
+				trans::Vec3
+					x 29.824138641357422
+					y 73.4178237915039
+					z -122.24253845214844
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 10.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 108.48999786376953
+	FrustumFov 136.62899780273438
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance27
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 12102559
+			Transform::LinearTransform
+				right::Vec3
+					x 1.0
+					y 0.0
+					z 0.0
+				up::Vec3
+					x 0.0
+					y 0.0
+					z -0.9999998807907104
+				forward::Vec3
+					x 0.0
+					y 0.9999998807907104
+					z 0.0
+				trans::Vec3
+					x -18.10225486755371
+					y 71.38130187988281
+					z -74.0121078491211
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 5.0
+		Intensity 35.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable True
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 108.48999786376953
+	FrustumFov 136.62899780273438
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 10.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance28
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 15769728
+			Transform::LinearTransform
+				right::Vec3
+					x 1.0
+					y 0.0
+					z 0.0
+				up::Vec3
+					x 0.0
+					y 0.3156249523162842
+					z -0.9488839507102966
+				forward::Vec3
+					x 0.0
+					y 0.9488839507102966
+					z 0.3156249523162842
+				trans::Vec3
+					x 190.008056640625
+					y 76.40702056884766
+					z -120.86748504638672
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 10.0
+			y 10.0
+			z 10.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 7.0
+		Intensity 20.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable True
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 121.96399688720703
+	FrustumFov 97.83399963378906
+	FrustumAspect 2.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance29
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 30643962
+			Transform::LinearTransform
+				right::Vec3
+					x 1.0
+					y 0.0
+					z 0.0
+				up::Vec3
+					x 0.0
+					y 0.0
+					z -0.9999998807907104
+				forward::Vec3
+					x 0.0
+					y 0.9999998807907104
+					z 0.0
+				trans::Vec3
+					x -26.854354858398438
+					y 78.03356170654297
+					z -75.49844360351562
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 6.0
+		Intensity 20.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable True
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 108.48999786376953
+	FrustumFov 120.0
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 10.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance30
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 19557704
+			Transform::LinearTransform
+				right::Vec3
+					x 1.0
+					y 0.0
+					z 0.0
+				up::Vec3
+					x 0.0
+					y 0.3156249523162842
+					z -0.9488839507102966
+				forward::Vec3
+					x 0.0
+					y 0.9488839507102966
+					z 0.3156249523162842
+				trans::Vec3
+					x 180.83103942871094
+					y 76.40702056884766
+					z -120.86748504638672
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 10.0
+			y 10.0
+			z 10.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 7.0
+		Intensity 20.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable True
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 121.96399688720703
+	FrustumFov 97.83399963378906
+	FrustumAspect 2.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance31
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 7326953
+			Transform::LinearTransform
+				right::Vec3
+					x 1.0
+					y 0.0
+					z 0.0
+				up::Vec3
+					x 0.0
+					y -0.13162826001644135
+					z -0.9912990927696228
+				forward::Vec3
+					x 0.0
+					y 0.9912990927696228
+					z -0.13162826001644135
+				trans::Vec3
+					x 107.2007064819336
+					y 72.0788803100586
+					z -87.18416595458984
+		Color::Vec3
+			x 0.8119999766349792
+			y 0.9520000219345093
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 40.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 97.75
+	FrustumFov 127.6760025024414
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance32
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 14488413
+			Transform::LinearTransform
+				right::Vec3
+					x 0.921506941318512
+					y -2.0746753204292645e-09
+					z -0.3883618414402008
+				up::Vec3
+					x -0.3883618712425232
+					y -4.028034439329531e-08
+					z -0.9215068817138672
+				forward::Vec3
+					x -1.373152347383666e-08
+					y 0.9999999403953552
+					z -3.7924341000916684e-08
+				trans::Vec3
+					x 176.11509704589844
+					y 75.29509735107422
+					z -397.5372009277344
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 9.0
+		Intensity 20.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 144.81700134277344
+	FrustumFov 113.59100341796875
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance33
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 11023605
+			Transform::LinearTransform
+				right::Vec3
+					x 1.0
+					y 0.0
+					z 0.0
+				up::Vec3
+					x 0.0
+					y 0.0
+					z -0.9999998807907104
+				forward::Vec3
+					x 0.0
+					y 0.9999998807907104
+					z 0.0
+				trans::Vec3
+					x 36.668609619140625
+					y 73.4178237915039
+					z -106.76696014404297
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 10.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 108.48999786376953
+	FrustumFov 136.62899780273438
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance34
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 7519999
+			Transform::LinearTransform
+				right::Vec3
+					x 0.9989731907844543
+					y -0.04530569538474083
+					z 1.9803765294312825e-09
+				up::Vec3
+					x 0.0
+					y -4.371138473402425e-08
+					z -0.9999999403953552
+				forward::Vec3
+					x 0.04530569911003113
+					y 0.9989731311798096
+					z -4.3666503302119963e-08
+				trans::Vec3
+					x 17.507646560668945
+					y 72.35104370117188
+					z -441.13983154296875
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 10.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable True
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 128.08399963378906
+	FrustumFov 154.53399658203125
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance35
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 16315021
+			Transform::LinearTransform
+				right::Vec3
+					x 0.9989731907844543
+					y -0.04530569538474083
+					z 1.9803765294312825e-09
+				up::Vec3
+					x 0.0
+					y -4.371138473402425e-08
+					z -0.9999999403953552
+				forward::Vec3
+					x 0.04530569911003113
+					y 0.9989731311798096
+					z -4.3666503302119963e-08
+				trans::Vec3
+					x -28.416885375976562
+					y 72.65673065185547
+					z -412.84375
+		Color::Vec3
+			x 0.6520000100135803
+			y 0.9150000214576721
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 40.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable True
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 134.302001953125
+	FrustumFov 40.0
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture *nullGuid*
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance36
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 10101405
+			Transform::LinearTransform
+				right::Vec3
+					x 1.0
+					y 0.0
+					z 0.0
+				up::Vec3
+					x 0.0
+					y -0.7049590945243835
+					z -0.7092479467391968
+				forward::Vec3
+					x 0.0
+					y 0.7092479467391968
+					z -0.7049590945243835
+				trans::Vec3
+					x 143.7104034423828
+					y 74.07525634765625
+					z -409.57568359375
+		Color::Vec3
+			x 0.5419999957084656
+			y 0.8730000257492065
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 3.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 105.53800201416016
+	FrustumFov 111.13200378417969
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance37
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 6671332
+			Transform::LinearTransform
+				right::Vec3
+					x 1.0
+					y 0.0
+					z 0.0
+				up::Vec3
+					x 0.0
+					y 0.47009772062301636
+					z -0.8826143145561218
+				forward::Vec3
+					x 0.0
+					y 0.8826143145561218
+					z 0.47009772062301636
+				trans::Vec3
+					x 244.63299560546875
+					y 74.66949462890625
+					z -451.7365417480469
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 3.0
+			y 3.0
+			z 3.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 10.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable True
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 40.0
+	FrustumFov 130.66000366210938
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance38
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 26835569
+			Transform::LinearTransform
+				right::Vec3
+					x 0.8189657926559448
+					y 0.5738421082496643
+					z 0.0
+				up::Vec3
+					x 2.5083437549255905e-08
+					y -3.5798123576569196e-08
+					z -0.9999998807907104
+				forward::Vec3
+					x -0.5738422274589539
+					y 0.8189657330513
+					z -4.371138473402425e-08
+				trans::Vec3
+					x 183.4277801513672
+					y 74.70258331298828
+					z -406.1917724609375
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 6.0
+		Intensity 20.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable True
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 92.22000122070312
+	FrustumFov 102.63099670410156
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance39
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 3080879
+			Transform::LinearTransform
+				right::Vec3
+					x 1.0
+					y 0.0
+					z 0.0
+				up::Vec3
+					x 0.0
+					y -0.13162826001644135
+					z -0.9912990927696228
+				forward::Vec3
+					x 0.0
+					y 0.9912990927696228
+					z -0.13162826001644135
+				trans::Vec3
+					x 96.48060607910156
+					y 71.31396484375
+					z -87.81773376464844
+		Color::Vec3
+			x 0.8119999766349792
+			y 0.9520000219345093
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 10.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 97.75
+	FrustumFov 130.66000366210938
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance40
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 28534928
+			Transform::LinearTransform
+				right::Vec3
+					x 1.0
+					y 0.0
+					z 0.0
+				up::Vec3
+					x 0.0
+					y 0.0
+					z -0.9999998807907104
+				forward::Vec3
+					x 0.0
+					y 0.9999998807907104
+					z 0.0
+				trans::Vec3
+					x 29.824138641357422
+					y 73.4178237915039
+					z -114.05168151855469
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 10.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 108.48999786376953
+	FrustumFov 136.62899780273438
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance41
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 8043644
+			Transform::LinearTransform
+				right::Vec3
+					x -4.368222050743498e-08
+					y -1.5964171096172208e-09
+					z 0.9999999403953552
+				up::Vec3
+					x 0.9993329048156738
+					y 0.036521609872579575
+					z 4.371138473402425e-08
+				forward::Vec3
+					x -0.03652161359786987
+					y 0.999332845211029
+					z 3.4437325139826313e-15
+				trans::Vec3
+					x 98.90042114257812
+					y 71.97247314453125
+					z -118.9975814819336
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 8.0
+		Intensity 10.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable True
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 103.38899993896484
+	FrustumFov 112.75499725341797
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 10.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance42
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 21399839
+			Transform::LinearTransform
+				right::Vec3
+					x 1.0
+					y 0.0
+					z 0.0
+				up::Vec3
+					x 0.0
+					y 0.0
+					z -0.9999998807907104
+				forward::Vec3
+					x 0.0
+					y 0.9999998807907104
+					z 0.0
+				trans::Vec3
+					x -19.667659759521484
+					y 71.38130187988281
+					z -82.27439880371094
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 5.0
+		Intensity 30.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable True
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 108.48999786376953
+	FrustumFov 136.62899780273438
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 10.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance43
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 22098898
+			Transform::LinearTransform
+				right::Vec3
+					x -8.563723064014539e-09
+					y -0.08649960905313492
+					z 0.9962517619132996
+				up::Vec3
+					x 1.0
+					y -4.3444394748348714e-08
+					z 4.823879962145838e-09
+				forward::Vec3
+					x 4.286429700073313e-08
+					y 0.9962517619132996
+					z 0.08649960905313492
+				trans::Vec3
+					x 96.60162353515625
+					y 71.46211242675781
+					z -90.70051574707031
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 20.0
+			y 20.0
+			z 20.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 10.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 90.87899780273438
+	FrustumFov 144.08900451660156
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 10.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance44
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 27290927
+			Transform::LinearTransform
+				right::Vec3
+					x 1.0
+					y 0.0
+					z -4.656932062196972e-10
+				up::Vec3
+					x -4.65693150708546e-10
+					y 0.0
+					z -0.9999997615814209
+				forward::Vec3
+					x -1.3877787807814457e-17
+					y 0.9999998807907104
+					z 0.0
+				trans::Vec3
+					x 208.5561981201172
+					y 70.65398406982422
+					z -448.73590087890625
+		Color::Vec3
+			x 1.0
+			y 0.6470000147819519
+			z 0.3109999895095825
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 13.0
+		Intensity 10.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable True
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 87.01799774169922
+	FrustumFov 108.48999786376953
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 13.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance45
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 5192647
+			Transform::LinearTransform
+				right::Vec3
+					x 0.9876847267150879
+					y 0.1564568728208542
+					z -6.838947630427583e-09
+				up::Vec3
+					x 0.0
+					y -4.371138118131057e-08
+					z -0.9999998807907104
+				forward::Vec3
+					x -0.15645690262317657
+					y 0.9876847267150879
+					z -4.317307045198504e-08
+				trans::Vec3
+					x 151.4875946044922
+					y 74.65718078613281
+					z -409.27947998046875
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 7.0
+		Intensity 30.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable True
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 92.22000122070312
+	FrustumFov 102.63099670410156
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance46
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 6754611
+			Transform::LinearTransform
+				right::Vec3
+					x 1.0
+					y 0.0
+					z 0.0
+				up::Vec3
+					x 0.0
+					y 0.0
+					z -0.9999998807907104
+				forward::Vec3
+					x 0.0
+					y 0.9999998807907104
+					z 0.0
+				trans::Vec3
+					x 46.55171203613281
+					y 73.4178237915039
+					z -106.76696014404297
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 10.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 108.48999786376953
+	FrustumFov 136.62899780273438
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance47
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 21335597
+			Transform::LinearTransform
+				right::Vec3
+					x 1.0
+					y 0.0
+					z 0.0
+				up::Vec3
+					x 0.0
+					y 0.20928852260112762
+					z -0.9778538346290588
+				forward::Vec3
+					x 0.0
+					y 0.9778538346290588
+					z 0.20928852260112762
+				trans::Vec3
+					x 147.7488555908203
+					y 74.14996337890625
+					z -399.18646240234375
+		Color::Vec3
+			x 2.7100000381469727
+			y 4.36299991607666
+			z 5.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 10.0
+		Intensity 5.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 97.75
+	FrustumFov 40.0
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture *nullGuid*
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+SpotLightEntityData Instance48
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 28920989
+			Transform::LinearTransform
+				right::Vec3
+					x 0.9431554675102234
+					y -0.33235159516334534
+					z 0.0
+				up::Vec3
+					x -1.4527548941600799e-08
+					y -4.1226627445212216e-08
+					z -0.9999998807907104
+				forward::Vec3
+					x 0.33235156536102295
+					y 0.9431554675102234
+					z -4.371138473402425e-08
+				trans::Vec3
+					x 183.4277801513672
+					y 74.70258331298828
+					z -392.0406799316406
+		Color::Vec3
+			x 0.7739999890327454
+			y 0.9409999847412109
+			z 1.0
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 6.0
+		Intensity 20.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable True
+		EnlightenEnable True
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 92.22000122070312
+	FrustumFov 102.63099670410156
+	FrustumAspect 1.0
+	OrthoWidth 5.0
+	OrthoHeight 5.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True

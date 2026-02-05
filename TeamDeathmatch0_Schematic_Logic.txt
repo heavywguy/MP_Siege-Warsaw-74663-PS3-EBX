@@ -1,0 +1,18 @@
+45e70208-1184-4745-a145-f70be7b29e4e
+WorldPartData 0398cd78-5cf4-4824-991a-fcf95e2c6338
+	$::PrefabBlueprint
+		$::Blueprint
+			$::EntityBusData
+				$::DataBusData
+					$::Asset
+						$::DataContainer
+						Name Levels/MP/MP_Siege/TeamDeathmatch0_Schematic_Logic
+					PropertyConnections *nullArray*
+					LinkConnections *nullArray*
+					Interface *nullGuid*
+					Flags 0
+				EventConnections *nullArray*
+		Objects *nullArray*
+	HackToSolveRealTimeTweakingIssue *nullGuid*
+	Enabled True
+	UseDeferredEntityCreation False

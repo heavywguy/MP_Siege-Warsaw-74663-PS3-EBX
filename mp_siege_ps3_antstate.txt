@@ -1,0 +1,7 @@
+0be56d8d-24dc-795b-3f64-0a10d012325f
+AntStateAsset 0be56d8d-24dc-795b-3f64-0a10d012325f
+	$::Asset
+		$::DataContainer
+		Name levels/mp/mp_siege/mp_siege_ps3_antstate
+	StreamingGuid *nullGuid*
+	ChunkSize 0

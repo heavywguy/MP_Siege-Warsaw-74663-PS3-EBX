@@ -1,0 +1,18 @@
+133aad49-8e07-42a5-bc4b-f315376d0246
+WorldPartData f38dea0f-6ed2-47d7-8a06-afab3b646788
+	$::PrefabBlueprint
+		$::Blueprint
+			$::EntityBusData
+				$::DataBusData
+					$::Asset
+						$::DataContainer
+						Name Levels/MP/MP_Siege/Water_Schematic
+					PropertyConnections *nullArray*
+					LinkConnections *nullArray*
+					Interface *nullGuid*
+					Flags 0
+				EventConnections *nullArray*
+		Objects *nullArray*
+	HackToSolveRealTimeTweakingIssue bebf491b-9fa0-708f-e8c7-2abc8dc8489e
+	Enabled True
+	UseDeferredEntityCreation False

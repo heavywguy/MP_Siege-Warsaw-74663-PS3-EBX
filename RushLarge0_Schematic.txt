@@ -1,0 +1,118 @@
+97e79011-8f2d-4a01-84e7-a2767a9b18c7
+WorldPartData bc54c87f-4fd0-44b2-bfcb-0b1f579e1321
+	$::PrefabBlueprint
+		$::Blueprint
+			$::EntityBusData
+				$::DataBusData
+					$::Asset
+						$::DataContainer
+						Name Levels/MP/MP_Siege/RushLarge0_Schematic
+					PropertyConnections *nullArray*
+					LinkConnections *nullArray*
+					Interface *nullGuid*
+					Flags 0
+				EventConnections *nullArray*
+		Objects::array
+			member(0) a98837bf-1972-417f-97ad-62d2b60f44e3
+			member(1) 45917eac-cd27-4f1b-bfcc-f33798b59fea
+			member(2) Instance0
+			member(3) a6822abf-cfd0-4d08-82c5-a3a8a5895e40
+			member(4) 38c02194-e4a3-409e-842e-cd201c914d81
+			member(5) cb266ca1-bdb3-4fa9-91a1-db12756a0ee2
+			member(6) 3e5bba1f-a7e0-45da-b152-134c564c6c58
+			member(7) ceba707b-761b-41a4-86b9-5cf026b9f7af
+			member(8) d9430bd8-687a-4dbb-8b7a-621b531bb7a5
+	HackToSolveRealTimeTweakingIssue 243bd946-3eb6-2be2-ed06-be604891ebe7
+	Enabled True
+	UseDeferredEntityCreation False
+BoolEntityData 38c02194-e4a3-409e-842e-cd201c914d81
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 12591508
+	Realm Realm_ClientAndServer
+	DefaultValue True
+BoolEntityData 3e5bba1f-a7e0-45da-b152-134c564c6c58
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 6011423
+	Realm Realm_ClientAndServer
+	DefaultValue True
+DelayEntityData 45917eac-cd27-4f1b-bfcc-f33798b59fea
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 126975660
+	Delay 10.0
+	Realm Realm_ClientAndServer
+	AutoStart False
+	RunOnce False
+	RemoveDuplicateEvents True
+DelayEntityData a6822abf-cfd0-4d08-82c5-a3a8a5895e40
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 75639487
+	Delay 35.0
+	Realm Realm_Server
+	AutoStart False
+	RunOnce True
+	RemoveDuplicateEvents True
+IntEntityData a98837bf-1972-417f-97ad-62d2b60f44e3
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 25704383
+	Realm Realm_ClientAndServer
+	DefaultValue 5
+	IncDecValue 0
+BoolEntityData cb266ca1-bdb3-4fa9-91a1-db12756a0ee2
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 19295393
+	Realm Realm_ClientAndServer
+	DefaultValue True
+BoolEntityData ceba707b-761b-41a4-86b9-5cf026b9f7af
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 12218491
+	Realm Realm_ClientAndServer
+	DefaultValue True
+BoolEntityData d9430bd8-687a-4dbb-8b7a-621b531bb7a5
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 21171160
+	Realm Realm_ClientAndServer
+	DefaultValue True
+DelayEntityData Instance0
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 3840800
+	Delay 5.0
+	Realm Realm_Server
+	AutoStart True
+	RunOnce True
+	RemoveDuplicateEvents True

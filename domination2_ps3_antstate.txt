@@ -1,0 +1,7 @@
+5cfcca10-7ae9-9bff-cd4d-b618243a1db9
+AntStateAsset 5cfcca10-7ae9-9bff-cd4d-b618243a1db9
+	$::Asset
+		$::DataContainer
+		Name levels/mp/mp_siege/domination2_ps3_antstate
+	StreamingGuid *nullGuid*
+	ChunkSize 0

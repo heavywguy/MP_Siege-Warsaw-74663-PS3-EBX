@@ -1,0 +1,7 @@
+02a2e91c-f55e-26ca-cd5a-a3891f5e10fc
+NetworkRegistryAsset 02a2e91c-f55e-26ca-cd5a-a3891f5e10fc
+	$::Asset
+		$::DataContainer
+		Name levels/mp/mp_siege/rush_networkregistry_Ps3
+	Objects::array
+		member(0) Levels/MP/MP_Siege/RUSH/b176e917-4c29-4355-980e-5c7e52f3e467

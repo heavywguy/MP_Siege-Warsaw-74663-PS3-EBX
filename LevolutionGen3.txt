@@ -1,0 +1,37 @@
+ba4ddbf8-9566-471e-ab59-702287a77b91
+WorldPartData c809a088-3170-49ea-85a6-468efd56c445
+	$::PrefabBlueprint
+		$::Blueprint
+			$::EntityBusData
+				$::DataBusData
+					$::Asset
+						$::DataContainer
+						Name Levels/MP/MP_Siege/LevolutionGen3
+					PropertyConnections *nullArray*
+					LinkConnections *nullArray*
+					Interface *nullGuid*
+					Flags 0
+				EventConnections *nullArray*
+		Objects::array
+			member(0) 9baabf91-da38-4bec-83f9-9acc69e62328
+			member(1) 1bbd3b94-815c-4a7a-b996-d11e192e0338
+	HackToSolveRealTimeTweakingIssue 642286c6-eef3-19e7-57d0-85c19e25091f
+	Enabled True
+	UseDeferredEntityCreation False
+NotEntityData 1bbd3b94-815c-4a7a-b996-d11e192e0338
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 431831956
+	Realm Realm_ClientAndServer
+	In False
+SyncedBoolEntityData 9baabf91-da38-4bec-83f9-9acc69e62328
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 95076241
+	In True

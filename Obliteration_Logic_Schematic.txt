@@ -1,0 +1,562 @@
+d0a4a7b8-af1d-4769-b442-f59b5887f87d
+WorldPartData aa51ecb1-e6f4-4539-b98f-e43d909e0d50
+	$::PrefabBlueprint
+		$::Blueprint
+			$::EntityBusData
+				$::DataBusData
+					$::Asset
+						$::DataContainer
+						Name Levels/MP/MP_Siege/Obliteration_Logic_Schematic
+					PropertyConnections *nullArray*
+					LinkConnections *nullArray*
+					Interface *nullGuid*
+					Flags 0
+				EventConnections *nullArray*
+		Objects::array
+			member(0) 7a568580-b147-4bcc-aeff-4dbfb538b27d
+			member(1) fe25418b-0889-49bf-9c6d-2fa5ea3c0b9c
+			member(2) c00ba3ef-19f4-474d-99c0-18fe8ac6177c
+			member(3) 7638dbab-d7da-4de0-83a5-d5421dfcbfab
+			member(4) ea58c95c-4c42-4926-b65d-be5418a3aa4b
+			member(5) c255b0b1-912b-4d65-9e7c-507990e77ade
+			member(6) 673d4034-8a1f-47a2-8cce-f4f39c5e94cc
+			member(7) e8b45a0f-8329-496b-af82-3b7de5733533
+			member(8) 7a000e6e-72f9-4c10-bc59-b6632ad446f7
+			member(9) 4c5d2337-fb90-45e7-a2ce-397779d5e6b3
+			member(10) c66c406b-ea1e-4032-b595-7252f25cab3f
+			member(11) 6966c5d3-d5d8-4eb6-bc4c-b16b49df385e
+			member(12) 47ef1168-2fe5-4bf8-a975-b131b481ded1
+			member(13) 950389d9-be5a-4544-b26f-bddd9dd2a448
+			member(14) a47aeb60-f8d3-4e6d-a0dd-f1cf929629b7
+			member(15) 6805b8d5-5b69-44f7-a466-8e279ce8f0ea
+			member(16) 9566f138-5b30-4bd9-a51a-0f4ebba540b0
+			member(17) 2e7cf7b2-55e0-4a0c-98ff-58d8930905b1
+			member(18) 9acc8cff-a747-457d-ba34-8d0e7cfbb8b7
+			member(19) d664b51b-372f-4fc9-90f1-3fa981e3ed2d
+			member(20) e67e3d82-dc0b-4a93-9a39-102a2ea0f887
+			member(21) f5195c13-3e9e-4dad-95e6-9f8b62d3652c
+			member(22) bcdc85ec-cc93-43ca-91c6-ab9df260ad1f
+			member(23) 2d5086c7-bf50-463b-874b-74a808fe33cd
+			member(24) f66e3195-c484-481e-8cc7-cd57131a2567
+			member(25) 656b5ed2-c14c-49f0-86c3-5d96f789c031
+	HackToSolveRealTimeTweakingIssue cb1f899d-eaf2-ab62-927f-8129798f3445
+	Enabled True
+	UseDeferredEntityCreation False
+SyncedBoolEntityData 2d5086c7-bf50-463b-874b-74a808fe33cd
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 89163463
+	In False
+SyncedBoolEntityData 2e7cf7b2-55e0-4a0c-98ff-58d8930905b1
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 75298738
+	In True
+CommanderAssetData 47ef1168-2fe5-4bf8-a975-b131b481ded1
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 2045710696
+	ActionType CommanderActionType_InfantryScan
+	Team Team1
+	Enabled False
+DelayEntityData 4c5d2337-fb90-45e7-a2ce-397779d5e6b3
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 6103863
+	Delay 5.0
+	Realm Realm_Server
+	AutoStart True
+	RunOnce True
+	RemoveDuplicateEvents True
+DelayEntityData 656b5ed2-c14c-49f0-86c3-5d96f789c031
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 23813842
+	Delay 0.0
+	Realm Realm_Server
+	AutoStart True
+	RunOnce True
+	RemoveDuplicateEvents True
+SyncedBoolEntityData 673d4034-8a1f-47a2-8cce-f4f39c5e94cc
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 87900212
+	In False
+CommanderAssetData 6805b8d5-5b69-44f7-a466-8e279ce8f0ea
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 2013640917
+	ActionType CommanderActionType_LaunchTomahawk
+	Team Team1
+	Enabled False
+CommanderAssetData 6966c5d3-d5d8-4eb6-bc4c-b16b49df385e
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 2036778451
+	ActionType CommanderActionType_InfantryScan
+	Team Team2
+	Enabled False
+SyncedSequenceEntityData 7638dbab-d7da-4de0-83a5-d5421dfcbfab
+	$::SequenceEntityData
+		$::EntityData
+			$::GameObjectData
+				$::DataBusPeer
+					$::GameDataContainer
+						$::DataContainer
+					Flags 104389547
+		Events *nullArray*
+		SequenceStartTime 0
+		SequenceLength 20000
+		Realm Realm_ClientAndServer
+		PropertyTracks::array
+			member(0) Instance3
+			member(1) Instance7
+			member(2) Instance9
+			member(3) Instance4
+			member(4) Instance5
+			member(5) Instance6
+		CustomSequenceTracks *nullArray*
+		ClientUpdatePass UpdatePass_PostSim
+		ServerUpdatePass UpdatePass_PostSim
+		ExternalTime 0.0
+		PlaybackSpeed 1.0
+		Looping False
+		AutoStart False
+		AutoPlayFirstFrame True
+		PlayInReverse False
+	InterpolateTime True
+SyncedTransformEntityData 7a000e6e-72f9-4c10-bc59-b6632ad446f7
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 402656878
+	Interpolate False
+	In::LinearTransform
+		right::Vec3
+			x 1.0
+			y 0.0
+			z 0.0
+		up::Vec3
+			x 0.0
+			y 1.0
+			z 0.0
+		forward::Vec3
+			x 0.0
+			y 0.0
+			z 1.0
+		trans::Vec3
+			x 0.0
+			y 0.0
+			z 0.0
+LogicReferenceObjectData 7a568580-b147-4bcc-aeff-4dbfb538b27d
+	$::ReferenceObjectData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 5670272
+		Blueprint Gameplay/Gamemodes/Conquest/Components/ConquestTeamsSmall/6ee0d11f-b81b-4441-a0dd-a10f91816d48
+		BlueprintTransform::LinearTransform
+			right::Vec3
+				x 1.0
+				y 0.0
+				z 0.0
+			up::Vec3
+				x 0.0
+				y 1.0
+				z 0.0
+			forward::Vec3
+				x 0.0
+				y 0.0
+				z 1.0
+			trans::Vec3
+				x 0.0
+				y 0.0
+				z 0.0
+		ObjectVariation *nullGuid*
+		StreamRealm StreamRealm_None
+		RadiosityTypeOverride RadiosityTypeOverride_None
+		CastSunShadowEnable False
+		CastReflectionEnable False
+		Excluded False
+	SubRealm SubRealm_All
+CommanderAssetData 950389d9-be5a-4544-b26f-bddd9dd2a448
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 2030275033
+	ActionType CommanderActionType_VehicleScan
+	Team Team2
+	Enabled False
+CommanderAssetData 9566f138-5b30-4bd9-a51a-0f4ebba540b0
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 2036789560
+	ActionType CommanderActionType_LaunchTomahawk
+	Team Team2
+	Enabled False
+SyncedBoolEntityData 9acc8cff-a747-457d-ba34-8d0e7cfbb8b7
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 80514303
+	In True
+CommanderAssetData a47aeb60-f8d3-4e6d-a0dd-f1cf929629b7
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 2021321568
+	ActionType CommanderActionType_VehicleScan
+	Team Team1
+	Enabled False
+SyncedBoolEntityData bcdc85ec-cc93-43ca-91c6-ab9df260ad1f
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 81561068
+	In True
+IntEntityData c00ba3ef-19f4-474d-99c0-18fe8ac6177c
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 762863
+	Realm Realm_Server
+	DefaultValue 3
+	IncDecValue 1
+EventSplitterEntityData c255b0b1-912b-4d65-9e7c-507990e77ade
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 72724657
+	Realm Realm_Server
+	RunOnce False
+DelayEntityData c66c406b-ea1e-4032-b595-7252f25cab3f
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 107757675
+	Delay 35.0
+	Realm Realm_ClientAndServer
+	AutoStart False
+	RunOnce False
+	RemoveDuplicateEvents True
+SyncedBoolEntityData d664b51b-372f-4fc9-90f1-3fa981e3ed2d
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 73708827
+	In True
+SyncedBoolEntityData e67e3d82-dc0b-4a93-9a39-102a2ea0f887
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 75382146
+	In True
+SyncedTransformEntityData e8b45a0f-8329-496b-af82-3b7de5733533
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 414472719
+	Interpolate False
+	In::LinearTransform
+		right::Vec3
+			x 1.0
+			y 0.0
+			z 0.0
+		up::Vec3
+			x 0.0
+			y 1.0
+			z 0.0
+		forward::Vec3
+			x 0.0
+			y 0.0
+			z 1.0
+		trans::Vec3
+			x 0.0
+			y 0.0
+			z 0.0
+SyncedSequenceEntityData ea58c95c-4c42-4926-b65d-be5418a3aa4b
+	$::SequenceEntityData
+		$::EntityData
+			$::GameObjectData
+				$::DataBusPeer
+					$::GameDataContainer
+						$::DataContainer
+					Flags 106482012
+		Events *nullArray*
+		SequenceStartTime 0
+		SequenceLength 20000
+		Realm Realm_ClientAndServer
+		PropertyTracks::array
+			member(0) Instance0
+			member(1) Instance1
+			member(2) Instance10
+			member(3) Instance8
+			member(4) Instance2
+			member(5) Instance11
+		CustomSequenceTracks *nullArray*
+		ClientUpdatePass UpdatePass_PostSim
+		ServerUpdatePass UpdatePass_PostSim
+		ExternalTime 0.0
+		PlaybackSpeed 1.0
+		Looping False
+		AutoStart False
+		AutoPlayFirstFrame True
+		PlayInReverse False
+	InterpolateTime True
+SyncedBoolEntityData f5195c13-3e9e-4dad-95e6-9f8b62d3652c
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 85548051
+	In True
+PlatformSplitterEntityData f66e3195-c484-481e-8cc7-cd57131a2567
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 74330517
+	Realm Realm_Server
+	RunOnce False
+IntEntityData fe25418b-0889-49bf-9c6d-2fa5ea3c0b9c
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 2441611
+	Realm Realm_Server
+	DefaultValue 3
+	IncDecValue 1
+TransformPartPropertyTrackData Instance0
+	$::PropertyTrackData
+		$::DataContainer
+		Id -1550534883
+		Times *nullArray*
+	Resource 10856305469756679897 #levels/mp/mp_siege/animtrackdata/ea58c95c-4c42-4926-b65d-be5418a3aa4b_movewithcollapse
+	TransformPart TransformPart_TranslationX
+	PreInfinity CurveInfinityType_Constant
+	PostInfinity CurveInfinityType_Constant
+	Values *nullArray*
+	EvaluatorFps 1.0
+	KeyStartIndex 0
+	KeyCount 5
+	Weighted False
+	IsStatic False
+TransformPartPropertyTrackData Instance1
+	$::PropertyTrackData
+		$::DataContainer
+		Id -1550534883
+		Times *nullArray*
+	Resource 10856305469756679897 #levels/mp/mp_siege/animtrackdata/ea58c95c-4c42-4926-b65d-be5418a3aa4b_movewithcollapse
+	TransformPart TransformPart_TranslationY
+	PreInfinity CurveInfinityType_Constant
+	PostInfinity CurveInfinityType_Constant
+	Values *nullArray*
+	EvaluatorFps 1.0
+	KeyStartIndex 5
+	KeyCount 5
+	Weighted False
+	IsStatic False
+TransformPartPropertyTrackData Instance2
+	$::PropertyTrackData
+		$::DataContainer
+		Id -1550534883
+		Times *nullArray*
+	Resource 10856305469756679897 #levels/mp/mp_siege/animtrackdata/ea58c95c-4c42-4926-b65d-be5418a3aa4b_movewithcollapse
+	TransformPart TransformPart_RotationY
+	PreInfinity CurveInfinityType_Constant
+	PostInfinity CurveInfinityType_Constant
+	Values *nullArray*
+	EvaluatorFps 1.0
+	KeyStartIndex 20
+	KeyCount 5
+	Weighted False
+	IsStatic False
+TransformPartPropertyTrackData Instance3
+	$::PropertyTrackData
+		$::DataContainer
+		Id -1550534883
+		Times *nullArray*
+	Resource 7768904439760510545 #levels/mp/mp_siege/animtrackdata/7638dbab-d7da-4de0-83a5-d5421dfcbfab_movewithcollapse
+	TransformPart TransformPart_TranslationX
+	PreInfinity CurveInfinityType_Constant
+	PostInfinity CurveInfinityType_Constant
+	Values *nullArray*
+	EvaluatorFps 1.0
+	KeyStartIndex 0
+	KeyCount 7
+	Weighted False
+	IsStatic False
+TransformPartPropertyTrackData Instance4
+	$::PropertyTrackData
+		$::DataContainer
+		Id -1550534883
+		Times *nullArray*
+	Resource 7768904439760510545 #levels/mp/mp_siege/animtrackdata/7638dbab-d7da-4de0-83a5-d5421dfcbfab_movewithcollapse
+	TransformPart TransformPart_RotationX
+	PreInfinity CurveInfinityType_Constant
+	PostInfinity CurveInfinityType_Constant
+	Values *nullArray*
+	EvaluatorFps 1.0
+	KeyStartIndex 21
+	KeyCount 7
+	Weighted False
+	IsStatic True
+TransformPartPropertyTrackData Instance5
+	$::PropertyTrackData
+		$::DataContainer
+		Id -1550534883
+		Times *nullArray*
+	Resource 7768904439760510545 #levels/mp/mp_siege/animtrackdata/7638dbab-d7da-4de0-83a5-d5421dfcbfab_movewithcollapse
+	TransformPart TransformPart_RotationY
+	PreInfinity CurveInfinityType_Constant
+	PostInfinity CurveInfinityType_Constant
+	Values *nullArray*
+	EvaluatorFps 1.0
+	KeyStartIndex 28
+	KeyCount 7
+	Weighted False
+	IsStatic True
+TransformPartPropertyTrackData Instance6
+	$::PropertyTrackData
+		$::DataContainer
+		Id -1550534883
+		Times *nullArray*
+	Resource 7768904439760510545 #levels/mp/mp_siege/animtrackdata/7638dbab-d7da-4de0-83a5-d5421dfcbfab_movewithcollapse
+	TransformPart TransformPart_RotationZ
+	PreInfinity CurveInfinityType_Constant
+	PostInfinity CurveInfinityType_Constant
+	Values *nullArray*
+	EvaluatorFps 1.0
+	KeyStartIndex 35
+	KeyCount 7
+	Weighted False
+	IsStatic True
+TransformPartPropertyTrackData Instance7
+	$::PropertyTrackData
+		$::DataContainer
+		Id -1550534883
+		Times *nullArray*
+	Resource 7768904439760510545 #levels/mp/mp_siege/animtrackdata/7638dbab-d7da-4de0-83a5-d5421dfcbfab_movewithcollapse
+	TransformPart TransformPart_TranslationY
+	PreInfinity CurveInfinityType_Constant
+	PostInfinity CurveInfinityType_Constant
+	Values *nullArray*
+	EvaluatorFps 1.0
+	KeyStartIndex 7
+	KeyCount 7
+	Weighted False
+	IsStatic False
+TransformPartPropertyTrackData Instance8
+	$::PropertyTrackData
+		$::DataContainer
+		Id -1550534883
+		Times *nullArray*
+	Resource 10856305469756679897 #levels/mp/mp_siege/animtrackdata/ea58c95c-4c42-4926-b65d-be5418a3aa4b_movewithcollapse
+	TransformPart TransformPart_RotationX
+	PreInfinity CurveInfinityType_Constant
+	PostInfinity CurveInfinityType_Constant
+	Values *nullArray*
+	EvaluatorFps 1.0
+	KeyStartIndex 15
+	KeyCount 5
+	Weighted False
+	IsStatic True
+TransformPartPropertyTrackData Instance9
+	$::PropertyTrackData
+		$::DataContainer
+		Id -1550534883
+		Times *nullArray*
+	Resource 7768904439760510545 #levels/mp/mp_siege/animtrackdata/7638dbab-d7da-4de0-83a5-d5421dfcbfab_movewithcollapse
+	TransformPart TransformPart_TranslationZ
+	PreInfinity CurveInfinityType_Constant
+	PostInfinity CurveInfinityType_Constant
+	Values *nullArray*
+	EvaluatorFps 1.0
+	KeyStartIndex 14
+	KeyCount 7
+	Weighted False
+	IsStatic False
+TransformPartPropertyTrackData Instance10
+	$::PropertyTrackData
+		$::DataContainer
+		Id -1550534883
+		Times *nullArray*
+	Resource 10856305469756679897 #levels/mp/mp_siege/animtrackdata/ea58c95c-4c42-4926-b65d-be5418a3aa4b_movewithcollapse
+	TransformPart TransformPart_TranslationZ
+	PreInfinity CurveInfinityType_Constant
+	PostInfinity CurveInfinityType_Constant
+	Values *nullArray*
+	EvaluatorFps 1.0
+	KeyStartIndex 10
+	KeyCount 5
+	Weighted False
+	IsStatic False
+TransformPartPropertyTrackData Instance11
+	$::PropertyTrackData
+		$::DataContainer
+		Id -1550534883
+		Times *nullArray*
+	Resource 10856305469756679897 #levels/mp/mp_siege/animtrackdata/ea58c95c-4c42-4926-b65d-be5418a3aa4b_movewithcollapse
+	TransformPart TransformPart_RotationZ
+	PreInfinity CurveInfinityType_Constant
+	PostInfinity CurveInfinityType_Constant
+	Values *nullArray*
+	EvaluatorFps 1.0
+	KeyStartIndex 25
+	KeyCount 5
+	Weighted False
+	IsStatic True

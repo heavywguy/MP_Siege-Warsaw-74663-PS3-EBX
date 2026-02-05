@@ -1,0 +1,7 @@
+cd461726-e9f1-f140-421d-62c12fa17365
+AntStateAsset cd461726-e9f1-f140-421d-62c12fa17365
+	$::Asset
+		$::DataContainer
+		Name levels/mp/mp_siege/gameplay_ps3_antstate
+	StreamingGuid *nullGuid*
+	ChunkSize 0

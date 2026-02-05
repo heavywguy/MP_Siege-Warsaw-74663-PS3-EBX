@@ -1,0 +1,51 @@
+ef6332a5-8b17-51b8-dc96-13eb0c2ec441
+NetworkRegistryAsset ef6332a5-8b17-51b8-dc96-13eb0c2ec441
+	$::Asset
+		$::DataContainer
+		Name levels/mp/mp_siege/gen3_content_networkregistry_Ps3
+	Objects::array
+		member(0) levels/mp/mp_siege/prefabs/pf_skyscraper_setpiece_gen3_nongroupable_autogen_Ps3/bfca9c05-9716-4bc2-ae36-f063d183fbf2
+		member(1) objects/props/slidingdoor_01/pf_slidingdoor_01_automatic_nongroupable_autogen_Ps3/c07dc806-ee10-0052-679e-aa5fd97f3cce
+		member(2) levels/mp/mp_siege/prefabs/pf_skyscraper_setpiece_gen3_nongroupable_autogen_Ps3/dd719307-68f0-453d-908a-2beb1f25a460
+		member(3) Levels/MP/MP_Siege/Prefabs/PF_Skyscraper_Elevators_Gen3/6c92d90b-7a07-46ac-af3d-a9e1c469dc97
+		member(4) Objects/Props/Elevator_02/PF_Elevator_03_Door/0a192211-f521-4984-aff4-6021eb659452
+		member(5) FX/Destruction/PropDest/FX_PropDest_Sprinkler_GroundPrefab/35003b12-12d3-0b52-770b-bacdc1a6d394
+		member(6) Objects/Props/Elevator_02/PF_Elevator_03/048f9315-81f3-4fb5-acbf-9a7da0fabca3
+		member(7) Objects/Props/Elevator_02/PF_Elevator_03_Doors/17553329-bbc8-4e6a-98fe-2a83b9de7536
+		member(8) Objects/Props/Elevator_02/PF_Elevator_03_Teleport/10a3b72e-b13f-407a-beb4-437a65dbecea
+		member(9) Objects/Props/Elevator_02/PF_Elevator_03_Doors/1a528d31-d22c-4eca-8b07-c501dd404aa7
+		member(10) objects/props/sprinkler_01/pf_sprinkler_01_water_nongroupable_autogen_Ps3/7202f534-19f8-63f8-034a-b654f98fa718
+		member(11) levels/mp/mp_siege/prefabs/pf_skyscraper_setpiece_gen3_nongroupable_autogen_Ps3/314d8d37-5d74-4c37-b9e2-78dddc377368
+		member(12) Levels/MP/MP_Siege/Prefabs/PF_Skyscraper_Elevators_Gen3/96eeee4b-1d57-44aa-92a5-7731dac0a5a6
+		member(13) objects/props/slidingdoor_01/pf_slidingdoor_01_automatic_nongroupable_autogen_Ps3/10ea354d-9c70-42a4-b531-61d537f29617
+		member(14) objects/props/sprinkler_01/pf_sprinkler_01_water_nongroupable_autogen_Ps3/b0952558-503c-4481-b55b-c9a0692933e2
+		member(15) Objects/Props/Elevator_02/PF_Elevator_03_Teleport/86f33859-b370-4ded-89b7-13926102d5a5
+		member(16) levels/mp/mp_siege/prefabs/pf_skyscraper_setpiece_gen3_nongroupable_autogen_Ps3/3aca455d-d5e7-dfe9-5118-faaed4ba12d1
+		member(17) Levels/MP/MP_Siege/Prefabs/PF_Skyscraper_Elevators_Gen3/59ed1e5f-0eb9-4ee5-a5fd-d5fbc27f5d28
+		member(18) Levels/MP/MP_Siege/Prefabs/PF_Skyscraper_Elevators_Gen3/457c3861-ac82-47e9-bcaf-72eaa1262c38
+		member(19) levels/mp/mp_siege/prefabs/pf_skyscraper_setpiece_gen3_nongroupable_autogen_Ps3/c6087b79-174a-41e4-ab4a-f54afba3f777
+		member(20) Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+		member(21) Objects/Props/Elevator_02/PF_Elevator_03_Door/3eeb6982-dc84-4ef7-982f-6e7b42865353
+		member(22) Levels/MP/MP_Siege/Prefabs/Skyscraper_Base_Upper_Gen3/122edc83-a48f-446d-971a-788d07565759
+		member(23) Levels/MP/MP_Siege/LevolutionGen3/9baabf91-da38-4bec-83f9-9acc69e62328
+		member(24) Objects/Props/Elevator_02/PF_Elevator_03_Door/34755ea0-6664-4eb0-a970-80fdeaad27f1
+		member(25) Objects/Props/Elevator_02/PF_Elevator_03_Door/ab39bea7-2dc9-420b-851c-b26fdd1eff41
+		member(26) Objects/Props/Elevator_02/PF_Elevator_03/436c10aa-5400-4592-80a1-6b2881cb4ed3
+		member(27) Objects/Props/Elevator_02/PF_Elevator_03_Teleport/a0b5b8ab-e4a1-4e4f-8c54-e180c28a4d32
+		member(28) Levels/MP/MP_Siege/Prefabs/Skyscraper_Base_Upper_Gen3/206ebaac-76f6-41a3-8343-91a557db98d8
+		member(29) Objects/Props/Elevator_02/PF_Elevator_03_Teleport/57bd36b8-3999-4cac-9376-1e9b30a1c648
+		member(30) levels/mp/mp_siege/prefabs/pf_skyscraper_setpiece_gen3_nongroupable_autogen_Ps3/2d3987be-294e-4ac4-90e5-9bcf02a975c9
+		member(31) Objects/Props/Elevator_02/PF_Elevator_03/a65921c2-8e1d-4aa7-9900-588a8de7829f
+		member(32) Levels/MP/MP_Siege/Prefabs/PF_Skyscraper_Elevators_Gen3/f71071c2-969c-4690-9077-f8bd36e39fc4
+		member(33) levels/mp/mp_siege/prefabs/pf_skyscraper_setpiece_gen3_nongroupable_autogen_Ps3/0dc134c5-6d96-45d8-9205-3dfc3628f18b
+		member(34) levels/mp/mp_siege/prefabs/pf_skyscraper_setpiece_gen3_nongroupable_autogen_Ps3/863566c7-162d-4a54-85e9-118a84133264
+		member(35) Levels/MP/MP_Siege/Prefabs/PF_Skyscraper_Elevators_Gen3/0d6481d2-4452-4e34-aecd-f049ecb08648
+		member(36) Objects/Props/Elevator_02/PF_Elevator_03_Teleport/abfe8cd8-8c28-4060-9000-9a29dac6109b
+		member(37) Levels/MP/MP_Siege/Prefabs/Skyscraper_Base_Upper_Gen3/d25ff7e3-e998-4660-b1d7-800a577e4130
+		member(38) Objects/Props/Elevator_02/PF_Elevator_03_Teleport/cc773de6-7527-43e6-9e57-c52ffd8dabc6
+		member(39) levels/mp/mp_siege/prefabs/pf_skyscraper_setpiece_gen3_nongroupable_autogen_Ps3/cd307fec-1b45-4b10-b29e-20df954a94fe
+		member(40) Sound/Levels/MP_Siege/SFX/Siege_Fake_Collapse_Prefab/66036bf4-05e3-3ddd-1ce5-69b8e271abea
+		member(41) Levels/MP/MP_Siege/Prefabs/PF_Skyscraper_Elevators_Gen3/9d69b8f4-2b60-483a-9018-d42825a6a762
+		member(42) Levels/MP/MP_Siege/Prefabs/PF_Skyscraper_Elevators_Gen3/1f1b08f9-c991-4d7b-880e-cfa12299ee31
+		member(43) Objects/Props/Elevator_02/PF_Elevator_03_Doors/2d25bdfb-f2c6-4cba-a6c1-a63d31369836
+		member(44) Levels/MP/MP_Siege/Prefabs/PF_Skyscraper_Elevators_Gen3/6862b1fd-09d0-4bed-9bd4-d20033832d63

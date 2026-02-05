@@ -1,0 +1,588 @@
+a656a9e5-095c-4ff7-be87-135c0e777734
+WorldPartData cfaa0082-0127-4bbb-b2c9-de195728c3b4
+	$::PrefabBlueprint
+		$::Blueprint
+			$::EntityBusData
+				$::DataBusData
+					$::Asset
+						$::DataContainer
+						Name Levels/MP/MP_Siege/Collision
+					PropertyConnections *nullArray*
+					LinkConnections *nullArray*
+					Interface *nullGuid*
+					Flags 0
+				EventConnections *nullArray*
+		Objects::array
+			member(0) Instance7
+			member(1) Instance14
+			member(2) Instance2
+			member(3) Instance8
+			member(4) Instance0
+			member(5) Instance11
+			member(6) Instance4
+			member(7) Instance10
+			member(8) Instance12
+			member(9) Instance3
+			member(10) Instance5
+			member(11) Instance13
+			member(12) Instance9
+			member(13) Instance1
+			member(14) Instance6
+	HackToSolveRealTimeTweakingIssue bebf491b-9fa0-708f-e8c7-2abc8dc8489e
+	Enabled True
+	UseDeferredEntityCreation False
+OBBCollisionEntityData Instance0
+	$::GameComponentEntityData
+		$::ComponentEntityData
+			$::SpatialEntityData
+				$::EntityData
+					$::GameObjectData
+						$::DataBusPeer
+							$::GameDataContainer
+								$::DataContainer
+							Flags 29475879
+				Transform::LinearTransform
+					right::Vec3
+						x 0.9999741911888123
+						y 0.0
+						z -0.007189387455582619
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.007189413066953421
+						y 0.0
+						z 0.9999741315841675
+					trans::Vec3
+						x 141.1951904296875
+						y 71.92678833007812
+						z -736.72509765625
+			Components *nullArray*
+			ClientRuntimeComponentCount 0
+			ServerRuntimeComponentCount 0
+			ClientRuntimeTransformationCount 0
+			ServerRuntimeTransformationCount 0
+		Enabled True
+	HalfExtents::Vec3
+		x 206.88412475585938
+		y 3.439232110977173
+		z 149.76617431640625
+OBBCollisionEntityData Instance1
+	$::GameComponentEntityData
+		$::ComponentEntityData
+			$::SpatialEntityData
+				$::EntityData
+					$::GameObjectData
+						$::DataBusPeer
+							$::GameDataContainer
+								$::DataContainer
+							Flags 27265086
+				Transform::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x 154.61143493652344
+						y 75.27801513671875
+						z -405.09429931640625
+			Components *nullArray*
+			ClientRuntimeComponentCount 0
+			ServerRuntimeComponentCount 0
+			ClientRuntimeTransformationCount 0
+			ServerRuntimeTransformationCount 0
+		Enabled True
+	HalfExtents::Vec3
+		x 26.94060707092285
+		y 0.37607336044311523
+		z 20.634124755859375
+OBBCollisionEntityData Instance2
+	$::GameComponentEntityData
+		$::ComponentEntityData
+			$::SpatialEntityData
+				$::EntityData
+					$::GameObjectData
+						$::DataBusPeer
+							$::GameDataContainer
+								$::DataContainer
+							Flags 22617160
+				Transform::LinearTransform
+					right::Vec3
+						x 0.99959397315979
+						y 0.0
+						z -0.028494367375969887
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.028494328260421753
+						y 0.0
+						z 0.99959397315979
+					trans::Vec3
+						x 231.50244140625
+						y 71.13098907470703
+						z -509.8079528808594
+			Components *nullArray*
+			ClientRuntimeComponentCount 0
+			ServerRuntimeComponentCount 0
+			ClientRuntimeTransformationCount 0
+			ServerRuntimeTransformationCount 0
+		Enabled True
+	HalfExtents::Vec3
+		x 10.052963256835938
+		y 7.837709903717041
+		z 0.5253724455833435
+OBBCollisionEntityData Instance3
+	$::GameComponentEntityData
+		$::ComponentEntityData
+			$::SpatialEntityData
+				$::EntityData
+					$::GameObjectData
+						$::DataBusPeer
+							$::GameDataContainer
+								$::DataContainer
+							Flags 18417450
+				Transform::LinearTransform
+					right::Vec3
+						x 0.585777223110199
+						y 0.0
+						z 0.8104721903800964
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x -0.8104722499847412
+						y 0.0
+						z 0.5857770442962646
+					trans::Vec3
+						x 158.46817016601562
+						y 72.39644622802734
+						z 214.75848388671875
+			Components *nullArray*
+			ClientRuntimeComponentCount 0
+			ServerRuntimeComponentCount 0
+			ClientRuntimeTransformationCount 0
+			ServerRuntimeTransformationCount 0
+		Enabled True
+	HalfExtents::Vec3
+		x 3.0323352813720703
+		y 2.0143508911132812
+		z 4.779813289642334
+OBBCollisionEntityData Instance4
+	$::GameComponentEntityData
+		$::ComponentEntityData
+			$::SpatialEntityData
+				$::EntityData
+					$::GameObjectData
+						$::DataBusPeer
+							$::GameDataContainer
+								$::DataContainer
+							Flags 19884588
+				Transform::LinearTransform
+					right::Vec3
+						x 0.9999741315841675
+						y 0.0
+						z -0.007189386058598757
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.007189411669969559
+						y 0.0
+						z 0.9999741315841675
+					trans::Vec3
+						x 305.6259765625
+						y 71.92678833007812
+						z -596.55615234375
+			Components *nullArray*
+			ClientRuntimeComponentCount 0
+			ServerRuntimeComponentCount 0
+			ClientRuntimeTransformationCount 0
+			ServerRuntimeTransformationCount 0
+		Enabled True
+	HalfExtents::Vec3
+		x 141.0275421142578
+		y 3.439232110977173
+		z 73.4136734008789
+OBBCollisionEntityData Instance5
+	$::GameComponentEntityData
+		$::ComponentEntityData
+			$::SpatialEntityData
+				$::EntityData
+					$::GameObjectData
+						$::DataBusPeer
+							$::GameDataContainer
+								$::DataContainer
+							Flags 12279405
+				Transform::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x 140.24920654296875
+						y 106.81438446044922
+						z -385.5032043457031
+			Components *nullArray*
+			ClientRuntimeComponentCount 0
+			ServerRuntimeComponentCount 0
+			ClientRuntimeTransformationCount 0
+			ServerRuntimeTransformationCount 0
+		Enabled True
+	HalfExtents::Vec3
+		x 12.662549018859863
+		y 31.120643615722656
+		z 1.0
+OBBCollisionEntityData Instance6
+	$::GameComponentEntityData
+		$::ComponentEntityData
+			$::SpatialEntityData
+				$::EntityData
+					$::GameObjectData
+						$::DataBusPeer
+							$::GameDataContainer
+								$::DataContainer
+							Flags 14559761
+				Transform::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 0.9999999403953552
+					trans::Vec3
+						x 197.10926818847656
+						y 75.27801513671875
+						z -410.4726867675781
+			Components *nullArray*
+			ClientRuntimeComponentCount 0
+			ServerRuntimeComponentCount 0
+			ClientRuntimeTransformationCount 0
+			ServerRuntimeTransformationCount 0
+		Enabled True
+	HalfExtents::Vec3
+		x 16.256336212158203
+		y 0.37607336044311523
+		z 15.255751609802246
+OBBCollisionEntityData Instance7
+	$::GameComponentEntityData
+		$::ComponentEntityData
+			$::SpatialEntityData
+				$::EntityData
+					$::GameObjectData
+						$::DataBusPeer
+							$::GameDataContainer
+								$::DataContainer
+							Flags 32618396
+				Transform::LinearTransform
+					right::Vec3
+						x 0.9995743036270142
+						y 0.0
+						z 0.029178684577345848
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x -0.029178708791732788
+						y 0.0
+						z 0.9995742440223694
+					trans::Vec3
+						x 161.28298950195312
+						y 76.2019271850586
+						z -526.2425537109375
+			Components *nullArray*
+			ClientRuntimeComponentCount 0
+			ServerRuntimeComponentCount 0
+			ClientRuntimeTransformationCount 0
+			ServerRuntimeTransformationCount 0
+		Enabled True
+	HalfExtents::Vec3
+		x 6.070279121398926
+		y 9.523712158203125
+		z 0.4304209351539612
+OBBCollisionEntityData Instance8
+	$::GameComponentEntityData
+		$::ComponentEntityData
+			$::SpatialEntityData
+				$::EntityData
+					$::GameObjectData
+						$::DataBusPeer
+							$::GameDataContainer
+								$::DataContainer
+							Flags 26576072
+				Transform::LinearTransform
+					right::Vec3
+						x 0.6964998841285706
+						y 0.0
+						z 0.7175569534301758
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x -0.7175570726394653
+						y 0.0
+						z 0.6964997053146362
+					trans::Vec3
+						x 175.9970703125
+						y 74.08517456054688
+						z 169.543701171875
+			Components *nullArray*
+			ClientRuntimeComponentCount 0
+			ServerRuntimeComponentCount 0
+			ClientRuntimeTransformationCount 0
+			ServerRuntimeTransformationCount 0
+		Enabled True
+	HalfExtents::Vec3
+		x 15.617303848266602
+		y 2.2128992080688477
+		z 0.5851230621337891
+OBBCollisionEntityData Instance9
+	$::GameComponentEntityData
+		$::ComponentEntityData
+			$::SpatialEntityData
+				$::EntityData
+					$::GameObjectData
+						$::DataBusPeer
+							$::GameDataContainer
+								$::DataContainer
+							Flags 18877356
+				Transform::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x 154.92718505859375
+						y 106.81438446044922
+						z -387.1273193359375
+			Components *nullArray*
+			ClientRuntimeComponentCount 0
+			ServerRuntimeComponentCount 0
+			ClientRuntimeTransformationCount 0
+			ServerRuntimeTransformationCount 0
+		Enabled True
+	HalfExtents::Vec3
+		x 2.815495252609253
+		y 31.120643615722656
+		z 1.0
+OBBCollisionEntityData Instance10
+	$::GameComponentEntityData
+		$::ComponentEntityData
+			$::SpatialEntityData
+				$::EntityData
+					$::GameObjectData
+						$::DataBusPeer
+							$::GameDataContainer
+								$::DataContainer
+							Flags 25182922
+				Transform::LinearTransform
+					right::Vec3
+						x 0.00718934228643775
+						y 0.0
+						z 0.9999741315841675
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x -0.9999741315841675
+						y 0.0
+						z 0.007189367897808552
+					trans::Vec3
+						x 461.7510986328125
+						y 64.42140197753906
+						z -263.8070068359375
+			Components *nullArray*
+			ClientRuntimeComponentCount 0
+			ServerRuntimeComponentCount 0
+			ClientRuntimeTransformationCount 0
+			ServerRuntimeTransformationCount 0
+		Enabled True
+	HalfExtents::Vec3
+		x 141.0275421142578
+		y 3.439232110977173
+		z 73.4136734008789
+OBBCollisionEntityData Instance11
+	$::GameComponentEntityData
+		$::ComponentEntityData
+			$::SpatialEntityData
+				$::EntityData
+					$::GameObjectData
+						$::DataBusPeer
+							$::GameDataContainer
+								$::DataContainer
+							Flags 9244951
+				Transform::LinearTransform
+					right::Vec3
+						x 0.9494889974594116
+						y 0.0
+						z -0.3138003647327423
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.31380054354667664
+						y 0.0
+						z 0.9494889974594116
+					trans::Vec3
+						x -82.0250244140625
+						y 71.92678833007812
+						z -746.1763916015625
+			Components *nullArray*
+			ClientRuntimeComponentCount 0
+			ServerRuntimeComponentCount 0
+			ClientRuntimeTransformationCount 0
+			ServerRuntimeTransformationCount 0
+		Enabled True
+	HalfExtents::Vec3
+		x 48.511474609375
+		y 3.439232110977173
+		z 117.00363159179688
+OBBCollisionEntityData Instance12
+	$::GameComponentEntityData
+		$::ComponentEntityData
+			$::SpatialEntityData
+				$::EntityData
+					$::GameObjectData
+						$::DataBusPeer
+							$::GameDataContainer
+								$::DataContainer
+							Flags 19267019
+				Transform::LinearTransform
+					right::Vec3
+						x 0.8097984194755554
+						y 0.0
+						z 0.5867082476615906
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x -0.5867084860801697
+						y 0.0
+						z 0.8097981810569763
+					trans::Vec3
+						x 173.78610229492188
+						y 72.39644622802734
+						z 194.95774841308594
+			Components *nullArray*
+			ClientRuntimeComponentCount 0
+			ServerRuntimeComponentCount 0
+			ClientRuntimeTransformationCount 0
+			ServerRuntimeTransformationCount 0
+		Enabled True
+	HalfExtents::Vec3
+		x 3.0323352813720703
+		y 2.0143508911132812
+		z 20.391246795654297
+OBBCollisionEntityData Instance13
+	$::GameComponentEntityData
+		$::ComponentEntityData
+			$::SpatialEntityData
+				$::EntityData
+					$::GameObjectData
+						$::DataBusPeer
+							$::GameDataContainer
+								$::DataContainer
+							Flags 10372195
+				Transform::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x 168.88949584960938
+						y 106.81438446044922
+						z -385.5032043457031
+			Components *nullArray*
+			ClientRuntimeComponentCount 0
+			ServerRuntimeComponentCount 0
+			ClientRuntimeTransformationCount 0
+			ServerRuntimeTransformationCount 0
+		Enabled True
+	HalfExtents::Vec3
+		x 12.662549018859863
+		y 31.120643615722656
+		z 1.0
+OBBCollisionEntityData Instance14
+	$::GameComponentEntityData
+		$::ComponentEntityData
+			$::SpatialEntityData
+				$::EntityData
+					$::GameObjectData
+						$::DataBusPeer
+							$::GameDataContainer
+								$::DataContainer
+							Flags 33267222
+				Transform::LinearTransform
+					right::Vec3
+						x 0.05468491092324257
+						y 0.0
+						z 0.9985036253929138
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x -0.9985036849975586
+						y 0.0
+						z 0.05468487739562988
+					trans::Vec3
+						x 245.54698181152344
+						y 71.52168273925781
+						z -480.52874755859375
+			Components *nullArray*
+			ClientRuntimeComponentCount 0
+			ServerRuntimeComponentCount 0
+			ClientRuntimeTransformationCount 0
+			ServerRuntimeTransformationCount 0
+		Enabled True
+	HalfExtents::Vec3
+		x 10.052964210510254
+		y 9.523712158203125
+		z 1.4629755020141602

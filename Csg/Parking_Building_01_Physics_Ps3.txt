@@ -1,0 +1,10 @@
+4f7b8abd-576d-92dd-ea7b-e6c6698eb60b
+HavokAsset 4f7b8abd-576d-92dd-ea7b-e6c6698eb60b
+	$::Asset
+		$::DataContainer
+		Name Levels/MP/MP_Siege/Csg/Parking_Building_01_Physics_Ps3
+	NumShapeKeysInContactPointProperties::array
+		member(0) 2
+		member(1) 2
+	Resource 15612953040027304499 #levels/mp/mp_siege/csg/parking_building_01_physics_ps3
+	ExternalAssets *nullArray*

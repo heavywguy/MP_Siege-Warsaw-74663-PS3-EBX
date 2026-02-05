@@ -1,0 +1,18 @@
+813710ad-e1a4-4376-86de-c5d87ee03742
+WorldPartData 29752a93-2741-455f-ba8b-d923da6c6b4e
+	$::PrefabBlueprint
+		$::Blueprint
+			$::EntityBusData
+				$::DataBusData
+					$::Asset
+						$::DataContainer
+						Name Levels/MP/MP_Siege/Gameplay_Common_Schematic
+					PropertyConnections *nullArray*
+					LinkConnections *nullArray*
+					Interface *nullGuid*
+					Flags 0
+				EventConnections *nullArray*
+		Objects *nullArray*
+	HackToSolveRealTimeTweakingIssue *nullGuid*
+	Enabled True
+	UseDeferredEntityCreation False
