@@ -1,0 +1,8 @@
+f785991a-bbc4-11e2-b52e-cbc20bf47ad5
+ShaderGraph 8a9ff2df-7676-069e-e66a-4ad785c88282
+	$::SurfaceShaderBaseAsset
+		$::Asset
+			$::DataContainer
+			Name Levels/MP/MP_Siege/Variations/SS_MP_Siege_BackdropMountain_01
+	MaxSubMaterialCount 8
+	GammaCorrectionEnable True

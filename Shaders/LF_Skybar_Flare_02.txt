@@ -1,0 +1,8 @@
+eff47f38-cd64-437a-8957-ad77cf39c820
+ShaderGraph cc907473-0bec-44e5-b422-6a496d034b53
+	$::SurfaceShaderBaseAsset
+		$::Asset
+			$::DataContainer
+			Name Levels/MP/MP_Siege/Shaders/LF_Skybar_Flare_02
+	MaxSubMaterialCount 8
+	GammaCorrectionEnable True

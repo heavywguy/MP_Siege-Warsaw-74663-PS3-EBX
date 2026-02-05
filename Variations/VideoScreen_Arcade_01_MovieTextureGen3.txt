@@ -1,0 +1,54 @@
+d4f79f80-08fc-474e-adfc-db4d06c9a728
+ObjectVariation b94ae443-3839-4091-8bcc-0100e56341ac
+	$::Asset
+		$::DataContainer
+		Name Levels/MP/MP_Siege/Variations/VideoScreen_Arcade_01_MovieTextureGen3
+	NameHash 455156139
+MeshMaterialVariation 08863ce6-bd62-4189-b263-6cae840d346d
+	$::DataContainer
+	Shader::SurfaceShaderInstanceDataStruct
+		Shader Levels/MP/MP_Siege/VideoTextures/SS_MovieTexture_01_Broken/bd0925d7-4816-4453-8ca1-92f2fe411e0b
+		BoolParameters *nullArray*
+		VectorParameters::array
+			member(0)::VectorShaderParameter
+				Value::Vec4
+					x 75.0
+					y 10.0
+					z 0.0
+					w 0.0
+				ParameterName pixeltiling
+				ParameterType ShaderParameterType_Vec2
+		VectorArrayParameters *nullArray*
+		TextureParameters *nullArray*
+MeshMaterialVariation 53d08710-d585-4a29-82ed-7039e4685ac0
+	$::DataContainer
+	Shader::SurfaceShaderInstanceDataStruct
+		Shader Levels/MP/MP_Siege/VideoTextures/SS_MovieTextureGen3_01/a22a16de-2870-4e40-8e54-d68425c570ba
+		BoolParameters *nullArray*
+		VectorParameters::array
+			member(0)::VectorShaderParameter
+				Value::Vec4
+					x 0.003000000026077032
+					y -0.009999999776482582
+					z 0.0
+					w 0.0
+				ParameterName Offset
+				ParameterType ShaderParameterType_Vec2
+			member(1)::VectorShaderParameter
+				Value::Vec4
+					x 75.0
+					y 10.0
+					z 0.0
+					w 0.0
+				ParameterName pixeltiling
+				ParameterType ShaderParameterType_Vec2
+			member(2)::VectorShaderParameter
+				Value::Vec4
+					x 0.3499999940395355
+					y -0.125
+					z 0.0
+					w 0.0
+				ParameterName Tiling
+				ParameterType ShaderParameterType_Vec2
+		VectorArrayParameters *nullArray*
+		TextureParameters *nullArray*

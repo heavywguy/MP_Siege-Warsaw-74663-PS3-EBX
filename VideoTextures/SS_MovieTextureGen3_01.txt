@@ -1,0 +1,8 @@
+61e15e1e-4ffb-4476-8a48-0ed15fae30df
+ShaderGraph a22a16de-2870-4e40-8e54-d68425c570ba
+	$::SurfaceShaderBaseAsset
+		$::Asset
+			$::DataContainer
+			Name Levels/MP/MP_Siege/VideoTextures/SS_MovieTextureGen3_01
+	MaxSubMaterialCount 8
+	GammaCorrectionEnable True

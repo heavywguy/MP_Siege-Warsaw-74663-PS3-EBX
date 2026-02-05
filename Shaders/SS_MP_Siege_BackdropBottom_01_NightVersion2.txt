@@ -1,0 +1,8 @@
+8ce8ed60-efc9-4cf6-898d-400309d5d053
+ShaderGraph 83aa5f53-5fed-4330-b428-d8a140a53cad
+	$::SurfaceShaderBaseAsset
+		$::Asset
+			$::DataContainer
+			Name Levels/MP/MP_Siege/Shaders/SS_MP_Siege_BackdropBottom_01_NightVersion2
+	MaxSubMaterialCount 8
+	GammaCorrectionEnable True

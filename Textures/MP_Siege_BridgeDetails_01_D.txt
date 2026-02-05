@@ -1,0 +1,7 @@
+4d2a3aae-714e-11e2-bda6-aef5ad0271cf
+TextureAsset 8545dda4-6ef2-2036-5ed5-6ce66befbde6
+	$::TextureBaseAsset
+		$::Asset
+			$::DataContainer
+			Name Levels/MP/MP_Siege/Textures/MP_Siege_BridgeDetails_01_D
+		Resource 17798733512738423097 #levels/mp/mp_siege/textures/mp_siege_bridgedetails_01_d

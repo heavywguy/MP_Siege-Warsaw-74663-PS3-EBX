@@ -1,0 +1,7 @@
+d207d43e-059d-11e2-941f-edb8f83be87a
+TextureAsset 42065b53-caa0-e663-180b-e370c1b71614
+	$::TextureBaseAsset
+		$::Asset
+			$::DataContainer
+			Name Levels/MP/MP_Siege/Textures/MP_Siege_Window_02_Pannels_M
+		Resource 14823657290641024723 #levels/mp/mp_siege/textures/mp_siege_window_02_pannels_m

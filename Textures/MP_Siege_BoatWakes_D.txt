@@ -1,0 +1,7 @@
+508b0984-c2ce-11e2-a35a-b7a5a2c54252
+TextureAsset ef3fcc65-f5f2-85a8-ddcf-6dab8940f7d3
+	$::TextureBaseAsset
+		$::Asset
+			$::DataContainer
+			Name Levels/MP/MP_Siege/Textures/MP_Siege_BoatWakes_D
+		Resource 3744189847085538643 #levels/mp/mp_siege/textures/mp_siege_boatwakes_d

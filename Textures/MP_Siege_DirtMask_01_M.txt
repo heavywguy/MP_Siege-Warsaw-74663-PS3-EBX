@@ -1,0 +1,7 @@
+4e0b8a8b-6fb1-11e2-bc09-83a34163fc0f
+TextureAsset 6c8f8b16-7937-1f9f-0c68-52e568b74590
+	$::TextureBaseAsset
+		$::Asset
+			$::DataContainer
+			Name Levels/MP/MP_Siege/Textures/MP_Siege_DirtMask_01_M
+		Resource 15234785585046299601 #levels/mp/mp_siege/textures/mp_siege_dirtmask_01_m

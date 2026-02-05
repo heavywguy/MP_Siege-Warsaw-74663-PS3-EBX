@@ -1,0 +1,7 @@
+4780137a-b8d4-4744-907b-3c3256210fc1
+TextureAsset 10587d4b-80df-4349-a235-b142d3c6d3b9
+	$::TextureBaseAsset
+		$::Asset
+			$::DataContainer
+			Name Levels/MP/MP_Siege/Textures/Decal_BulletHoles_01_D
+		Resource 1305747410003662109 #levels/mp/mp_siege/textures/decal_bulletholes_01_d

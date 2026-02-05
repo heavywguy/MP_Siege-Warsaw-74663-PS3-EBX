@@ -1,0 +1,7 @@
+f0d1704e-fd9c-11e2-8afa-99a45a196ff7
+TextureAsset fff2301a-6fd2-3f58-b601-698696eefdb3
+	$::TextureBaseAsset
+		$::Asset
+			$::DataContainer
+			Name Levels/MP/MP_Siege/VideoTexture_Gen3/T_News_02_D
+		Resource 452279389913140161 #levels/mp/mp_siege/videotexture_gen3/t_news_02_d

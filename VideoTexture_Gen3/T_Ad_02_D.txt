@@ -1,0 +1,7 @@
+c934576e-10ab-11e3-8a25-9950c188aac4
+TextureAsset e92117d1-d5e4-0666-c2be-5231f927c210
+	$::TextureBaseAsset
+		$::Asset
+			$::DataContainer
+			Name Levels/MP/MP_Siege/VideoTexture_Gen3/T_Ad_02_D
+		Resource 11701420316005173507 #levels/mp/mp_siege/videotexture_gen3/t_ad_02_d

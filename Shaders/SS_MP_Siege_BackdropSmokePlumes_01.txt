@@ -1,0 +1,8 @@
+61d9876d-c475-11e2-85c1-894beb4d707d
+ShaderGraph 47097a79-1b1a-9ae5-f828-a3290d36f5b1
+	$::SurfaceShaderBaseAsset
+		$::Asset
+			$::DataContainer
+			Name Levels/MP/MP_Siege/Shaders/SS_MP_Siege_BackdropSmokePlumes_01
+	MaxSubMaterialCount 8
+	GammaCorrectionEnable True

@@ -1,0 +1,10 @@
+3be23237-2f19-4343-bc65-3a2676f84d83
+HavokAsset 3be23237-2f19-4343-bc65-3a2676f84d83
+	$::Asset
+		$::DataContainer
+		Name Levels/MP/MP_Siege/PlaceHolders/ChineseSign_02_Physics_Ps3
+	NumShapeKeysInContactPointProperties::array
+		member(0) 2
+		member(1) 2
+	Resource 2711407562957306273 #levels/mp/mp_siege/placeholders/chinesesign_02_physics_ps3
+	ExternalAssets *nullArray*

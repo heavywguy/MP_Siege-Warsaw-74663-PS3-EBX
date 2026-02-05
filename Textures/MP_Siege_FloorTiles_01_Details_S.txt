@@ -1,0 +1,7 @@
+52599cfc-6afd-11e2-9859-a8cac97d2e17
+TextureAsset 781d63cf-011e-a638-d53c-e84899d588ae
+	$::TextureBaseAsset
+		$::Asset
+			$::DataContainer
+			Name Levels/MP/MP_Siege/Textures/MP_Siege_FloorTiles_01_Details_S
+		Resource 13020023796528031391 #levels/mp/mp_siege/textures/mp_siege_floortiles_01_details_s

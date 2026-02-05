@@ -1,0 +1,7 @@
+20f9fd76-0261-11e3-902b-cdaf51ec2187
+TextureAsset 35674d9b-0c24-f17d-b740-941471abcb19
+	$::TextureBaseAsset
+		$::Asset
+			$::DataContainer
+			Name Levels/MP/MP_Siege/VideoTexture_Gen3/T_NewsOverlay_01_D
+		Resource 12782751111821274271 #levels/mp/mp_siege/videotexture_gen3/t_newsoverlay_01_d

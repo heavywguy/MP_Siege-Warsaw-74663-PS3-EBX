@@ -1,0 +1,7 @@
+fae413b9-75e3-11e2-bed5-df29a3e6bd40
+TextureAsset 3816a3e7-b02c-21b5-f068-856a477a9e78
+	$::TextureBaseAsset
+		$::Asset
+			$::DataContainer
+			Name Levels/MP/MP_Siege/Skyscraper_Terrain/Textures/T_FineGravel_01_N
+		Resource 13030823961142662273 #levels/mp/mp_siege/skyscraper_terrain/textures/t_finegravel_01_n

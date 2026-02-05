@@ -1,0 +1,138 @@
+543e62d0-46a2-8958-aa9b-6be9946e29d4
+SpatialPrefabBlueprint 99eff979-578d-8788-32c8-72c635182e46
+	$::PrefabBlueprint
+		$::Blueprint
+			$::EntityBusData
+				$::DataBusData
+					$::Asset
+						$::DataContainer
+						Name levels/mp/mp_siege/prefabs/pf_exteriorwalllight_02_nongroupable_autogen_Ps3
+					PropertyConnections::array
+						member(0)::PropertyConnection
+							Source Instance2
+							Target Instance2
+							SourceFieldId 2662400
+							TargetFieldId 1000
+							ShouldNetworkValue False
+						member(1)::PropertyConnection
+							Source Instance2
+							Target Instance1
+							SourceFieldId 2662400
+							TargetFieldId 2088812747
+							ShouldNetworkValue False
+					LinkConnections *nullArray*
+					Interface Instance2
+					Flags 0
+				EventConnections::array
+					member(0)::EventConnection
+						Source Instance1
+						Target Instance0
+						SourceEvent::EventSpec
+							Id -1433512622
+						TargetEvent::EventSpec
+							Id -1952177180
+						TargetType EventConnectionTargetType_Client
+					member(1)::EventConnection
+						Source Instance1
+						Target Instance0
+						SourceEvent::EventSpec
+							Id -81881639
+						TargetEvent::EventSpec
+							Id -117303631
+						TargetType EventConnectionTargetType_Client
+		Objects::array
+			member(0) Instance1
+			member(1) Instance0
+SpotLightEntityData Instance0
+	$::LocalLightEntityData
+		$::SpatialEntityData
+			$::EntityData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 60098891
+			Transform::LinearTransform
+				right::Vec3
+					x 2.087213317736314e-07
+					y 3.310743323936549e-08
+					z 0.9999998807907104
+				up::Vec3
+					x 0.9025667905807495
+					y -0.430549681186676
+					z -1.7881393432617188e-07
+				forward::Vec3
+					x 0.4305494427680969
+					y 0.9025665521621704
+					z -8.940696716308594e-08
+				trans::Vec3
+					x 1.6717462539672852
+					y 0.2802715301513672
+					z 0.0016302913427352905
+		Color::Vec3
+			x 2.0
+			y 1.4670000076293945
+			z 0.9070000052452087
+		EnlightenColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		ParticleColorScale::Vec3
+			x 1.0
+			y 1.0
+			z 1.0
+		Radius 5.0
+		Intensity 60.0
+		AttenuationOffset 0.009999999776482582
+		EnlightenColorMode EnlightenColorMode_Multiply
+		Visible True
+		DirectLightEnable True
+		SpecularEnable False
+		EnlightenEnable False
+	Shape SpotLightShape_Cone
+	ConeInnerAngle 0.0
+	ConeOuterAngle 90.0
+	FrustumFov 92.7239990234375
+	FrustumAspect 2.0
+	OrthoWidth 8.0
+	OrthoHeight 8.0
+	NearPlane 0.0
+	Texture Levels/MP/MP_Siege/Lighting/T_Spotlight_01_gobo/0ad4ade9-f5b2-6bfa-c547-abf18cfaaa68
+	CastShadows QualityScalableEnabled_Disabled
+	ShadowRadius 0.0
+	ShadowCullDistance 0.0
+	FrustumAsCone QualityScalableEnabled_Disabled
+	FrustumAsConeIntensityScale 1.0
+	CastShadowsMinLevel QualityLevel_Low
+	FrustumAsConeAngle True
+	CastShadowsEnable True
+CompareBoolEntityData Instance1
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 416858154
+	Realm Realm_Client
+	Bool False
+	TriggerOnPropertyChange True
+	TriggerOnStart True
+	AlwaysSend False
+InterfaceDescriptorData Instance2
+	$::DynamicDataContainer
+		$::DataContainer
+		Fields::array
+			member(0)::DataField
+				Value *nullString*
+				ValueRef *nullGuid*
+				Id 2662400
+				AccessType FieldAccessType_Target
+			member(1)::DataField
+				Value *nullString*
+				ValueRef *nullGuid*
+				Id 1000
+				AccessType FieldAccessType_Source
+	InputEvents *nullArray*
+	OutputEvents *nullArray*
+	InputLinks *nullArray*
+	OutputLinks *nullArray*

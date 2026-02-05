@@ -1,0 +1,7 @@
+12d09871-c46f-11e2-85c1-894beb4d707d
+TextureAsset 6e361906-86bb-41cc-fb1f-0d492bc1223f
+	$::TextureBaseAsset
+		$::Asset
+			$::DataContainer
+			Name Levels/MP/MP_Siege/Textures/MP_Siege_BackdropSmokePlumes_01_D
+		Resource 1757726994097476105 #levels/mp/mp_siege/textures/mp_siege_backdropsmokeplumes_01_d

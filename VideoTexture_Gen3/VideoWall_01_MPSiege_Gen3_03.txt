@@ -1,0 +1,70 @@
+40739da6-55aa-4fd7-a3e4-20c39a337ee2
+ObjectVariation 79e5381b-9d8a-4f05-a412-5b2d68cec4a5
+	$::Asset
+		$::DataContainer
+		Name Levels/MP/MP_Siege/VideoTexture_Gen3/VideoWall_01_MPSiege_Gen3_03
+	NameHash 3908962166
+MeshMaterialVariation 3982a119-e62f-49d1-bbc2-3b58be4d440a
+	$::DataContainer
+	Shader::SurfaceShaderInstanceDataStruct
+		Shader Objects/Shaders/Presets/ObjectPreset_DNS/dfdb4379-bf5f-453f-ba40-644913701858
+		BoolParameters *nullArray*
+		VectorParameters::array
+			member(0)::VectorShaderParameter
+				Value::Vec4
+					x 0.30000001192092896
+					y 0.0
+					z 0.0
+					w 0.0
+				ParameterName FresnelBias
+				ParameterType ShaderParameterType_Scalar
+			member(1)::VectorShaderParameter
+				Value::Vec4
+					x 4.0
+					y 0.0
+					z 0.0
+					w 0.0
+				ParameterName FresnelExponent
+				ParameterType ShaderParameterType_Scalar
+		VectorArrayParameters *nullArray*
+		TextureParameters *nullArray*
+MeshMaterialVariation 5f924aeb-a142-44ea-9a65-eb8cb6bf7d0c
+	$::DataContainer
+	Shader::SurfaceShaderInstanceDataStruct
+		Shader Levels/MP/MP_Siege/VideoTexture_Gen3/SS_TV_Art_02/f38bb808-f4f9-44e3-8a46-4790900e6529
+		BoolParameters *nullArray*
+		VectorParameters::array
+			member(0)::VectorShaderParameter
+				Value::Vec4
+					x 30.0
+					y 15.0
+					z 0.0
+					w 0.0
+				ParameterName pixeltiling
+				ParameterType ShaderParameterType_Vec2
+		VectorArrayParameters *nullArray*
+		TextureParameters *nullArray*
+MeshMaterialVariation 6a478712-79ce-4fa9-aec5-349c245bfb14
+	$::DataContainer
+	Shader::SurfaceShaderInstanceDataStruct
+		Shader Objects/Shaders/Presets/ObjectPreset_D/28f7de62-6606-46ce-93e6-4878a21af4c1
+		BoolParameters *nullArray*
+		VectorParameters::array
+			member(0)::VectorShaderParameter
+				Value::Vec4
+					x 0.6000000238418579
+					y 0.0
+					z 0.0
+					w 0.0
+				ParameterName SmoothnessScale
+				ParameterType ShaderParameterType_Scalar
+			member(1)::VectorShaderParameter
+				Value::Vec4
+					x 0.800000011920929
+					y 0.0
+					z 0.0
+					w 0.0
+				ParameterName SpecularScale
+				ParameterType ShaderParameterType_Scalar
+		VectorArrayParameters *nullArray*
+		TextureParameters *nullArray*

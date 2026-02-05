@@ -1,0 +1,7 @@
+ff1b7bda-75e3-11e2-bed5-df29a3e6bd40
+TextureAsset 5d4f56b3-f4e0-8742-5cd8-c48121faec0f
+	$::TextureBaseAsset
+		$::Asset
+			$::DataContainer
+			Name Levels/MP/MP_Siege/Skyscraper_Terrain/Textures/T_Grass_03_C
+		Resource 851682540957430093 #levels/mp/mp_siege/skyscraper_terrain/textures/t_grass_03_c
