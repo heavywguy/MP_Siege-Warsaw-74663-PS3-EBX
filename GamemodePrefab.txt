@@ -1,0 +1,382 @@
+5d67c4d6-0fc1-4f9f-8cf8-5aa0182482f3
+WorldPartData c3ea4aa6-e569-49cd-be89-939a42710210
+	$::PrefabBlueprint
+		$::Blueprint
+			$::EntityBusData
+				$::DataBusData
+					$::Asset
+						$::DataContainer
+						Name Levels/MP/MP_Siege/GamemodePrefab
+					PropertyConnections *nullArray*
+					LinkConnections *nullArray*
+					Interface *nullGuid*
+					Flags 0
+				EventConnections *nullArray*
+		Objects::array
+			member(0) d5a85d64-0a69-45ff-9a43-39bef19b3ff0
+			member(1) 5b5fa4eb-b5b2-4a7f-856c-0c1b8babe981
+			member(2) 476a8684-60f9-4828-b2a0-e275bf8627b6
+			member(3) 229955db-9caf-42be-8ca4-767ad5819947
+			member(4) 184673ca-273c-40df-a472-e10ebe8671f9
+			member(5) ddc0da3a-cdb5-465d-8756-c9a0a4f7d334
+			member(6) 89880e7c-4fcc-4e15-9fa7-6b19789d6990
+			member(7) 31cde927-5457-4f52-85cb-00ae7c072f37
+			member(8) f9656a79-8b14-4506-94ff-b094315f3923
+			member(9) 31549ea0-afde-4fdc-941f-97420ad86309
+			member(10) c84c9ba8-6c53-4455-a5a5-62110a0ef80a
+			member(11) 028bf154-8fac-4ef7-8497-611d312b32ba
+	HackToSolveRealTimeTweakingIssue cb1f899d-eaf2-ab62-927f-8129798f3445
+	Enabled True
+	UseDeferredEntityCreation False
+ReferenceObjectData 028bf154-8fac-4ef7-8497-611d312b32ba
+	$::GameObjectData
+		$::DataBusPeer
+			$::GameDataContainer
+				$::DataContainer
+			Flags 76280148
+	Blueprint gameplay/miscprefabs/battlepickup_m82_mediumrange_nongroupable_autogen_Ps3/1eb540a1-1869-b9a1-3a39-43e830ad38c4
+	BlueprintTransform::LinearTransform
+		right::Vec3
+			x 1.0
+			y 0.0
+			z 0.0
+		up::Vec3
+			x 0.0
+			y 1.0
+			z 0.0
+		forward::Vec3
+			x 0.0
+			y 0.0
+			z 1.0
+		trans::Vec3
+			x 169.35226440429688
+			y 279.3857727050781
+			z -242.50320434570312
+	ObjectVariation *nullGuid*
+	StreamRealm StreamRealm_None
+	RadiosityTypeOverride RadiosityTypeOverride_None
+	CastSunShadowEnable True
+	CastReflectionEnable False
+	Excluded False
+ReferenceObjectData 184673ca-273c-40df-a472-e10ebe8671f9
+	$::GameObjectData
+		$::DataBusPeer
+			$::GameDataContainer
+				$::DataContainer
+			Flags 4617162
+	Blueprint Gameplay/VehicleSpawnerPrefabs/SpawnerPrefab_Static_AT/1cc0c3a9-ebb5-460e-addc-32de2fb8b0c2
+	BlueprintTransform::LinearTransform
+		right::Vec3
+			x 0.927827775478363
+			y 0.0
+			z -0.37300893664360046
+		up::Vec3
+			x 0.0
+			y 1.0
+			z 0.0
+		forward::Vec3
+			x 0.37300893664360046
+			y 0.0
+			z 0.927827775478363
+		trans::Vec3
+			x 219.39703369140625
+			y 69.25001525878906
+			z -406.9436950683594
+	ObjectVariation *nullGuid*
+	StreamRealm StreamRealm_None
+	RadiosityTypeOverride RadiosityTypeOverride_None
+	CastSunShadowEnable True
+	CastReflectionEnable False
+	Excluded False
+ReferenceObjectData 229955db-9caf-42be-8ca4-767ad5819947
+	$::GameObjectData
+		$::DataBusPeer
+			$::GameDataContainer
+				$::DataContainer
+			Flags 412702171
+	Blueprint Gameplay/VehicleSpawnerPrefabs/SpawnerPrefab_Static_MG/3bc06c5e-097d-4ecd-a045-f3d2f9915baa
+	BlueprintTransform::LinearTransform
+		right::Vec3
+			x -0.5833490490913391
+			y 0.0
+			z -0.8122215270996094
+		up::Vec3
+			x 0.0
+			y 1.0
+			z 0.0
+		forward::Vec3
+			x 0.8122215270996094
+			y 0.0
+			z -0.5833490490913391
+		trans::Vec3
+			x 134.68312072753906
+			y 66.35152435302734
+			z -133.6800079345703
+	ObjectVariation *nullGuid*
+	StreamRealm StreamRealm_None
+	RadiosityTypeOverride RadiosityTypeOverride_None
+	CastSunShadowEnable True
+	CastReflectionEnable False
+	Excluded False
+ReferenceObjectData 31549ea0-afde-4fdc-941f-97420ad86309
+	$::GameObjectData
+		$::DataBusPeer
+			$::GameDataContainer
+				$::DataContainer
+			Flags 89431712
+	Blueprint gameplay/miscprefabs/battlepickup_mgl_nongroupable_autogen_Ps3/e438c5f7-c9b1-fbce-d64e-202fcc3f4ef0
+	BlueprintTransform::LinearTransform
+		right::Vec3
+			x 1.0
+			y 0.0
+			z 0.0
+		up::Vec3
+			x 0.0
+			y 1.0
+			z 0.0
+		forward::Vec3
+			x 0.0
+			y 0.0
+			z 1.0
+		trans::Vec3
+			x 145.61563110351562
+			y 64.9134521484375
+			z -262.9328918457031
+	ObjectVariation *nullGuid*
+	StreamRealm StreamRealm_None
+	RadiosityTypeOverride RadiosityTypeOverride_None
+	CastSunShadowEnable True
+	CastReflectionEnable False
+	Excluded False
+LocatorEntityData 31cde927-5457-4f52-85cb-00ae7c072f37
+	$::SpatialEntityData
+		$::EntityData
+			$::GameObjectData
+				$::DataBusPeer
+					$::GameDataContainer
+						$::DataContainer
+					Flags 30271783
+		Transform::LinearTransform
+			right::Vec3
+				x -0.2958759367465973
+				y -0.44613227248191833
+				z -0.8446439504623413
+			up::Vec3
+				x -0.8443615436553955
+				y 0.53561931848526
+				z 0.012868388555943966
+			forward::Vec3
+				x 0.44666650891304016
+				y 0.7169923782348633
+				z -0.5351738333702087
+			trans::Vec3
+				x -634.9290771484375
+				y 42.31364440917969
+				z 250.2576904296875
+	Realm Realm_ClientAndServer
+ReferenceObjectData 476a8684-60f9-4828-b2a0-e275bf8627b6
+	$::GameObjectData
+		$::DataBusPeer
+			$::GameDataContainer
+				$::DataContainer
+			Flags 23758468
+	Blueprint Gameplay/VehicleSpawnerPrefabs/SpawnerPrefab_Static_AT/1cc0c3a9-ebb5-460e-addc-32de2fb8b0c2
+	BlueprintTransform::LinearTransform
+		right::Vec3
+			x 0.5199005603790283
+			y 0.0
+			z -0.85422682762146
+		up::Vec3
+			x 0.0
+			y 1.0
+			z 0.0
+		forward::Vec3
+			x 0.85422682762146
+			y 0.0
+			z 0.5199005603790283
+		trans::Vec3
+			x 17.089778900146484
+			y 73.14115142822266
+			z -411.44842529296875
+	ObjectVariation *nullGuid*
+	StreamRealm StreamRealm_None
+	RadiosityTypeOverride RadiosityTypeOverride_None
+	CastSunShadowEnable True
+	CastReflectionEnable False
+	Excluded False
+ReferenceObjectData 5b5fa4eb-b5b2-4a7f-856c-0c1b8babe981
+	$::GameObjectData
+		$::DataBusPeer
+			$::GameDataContainer
+				$::DataContainer
+			Flags 425698539
+	Blueprint Gameplay/VehicleSpawnerPrefabs/SpawnerPrefab_Static_MG/3bc06c5e-097d-4ecd-a045-f3d2f9915baa
+	BlueprintTransform::LinearTransform
+		right::Vec3
+			x -0.9226065874099731
+			y 0.0
+			z -0.3857422471046448
+		up::Vec3
+			x 0.0
+			y 1.0
+			z 0.0
+		forward::Vec3
+			x 0.3857422471046448
+			y 0.0
+			z -0.9226065874099731
+		trans::Vec3
+			x 56.13554000854492
+			y 68.16000366210938
+			z -148.81784057617188
+	ObjectVariation *nullGuid*
+	StreamRealm StreamRealm_None
+	RadiosityTypeOverride RadiosityTypeOverride_None
+	CastSunShadowEnable True
+	CastReflectionEnable False
+	Excluded False
+ReferenceObjectData 89880e7c-4fcc-4e15-9fa7-6b19789d6990
+	$::GameObjectData
+		$::DataBusPeer
+			$::GameDataContainer
+				$::DataContainer
+			Flags 25693820
+	Blueprint Gameplay/VehicleSpawnerPrefabs/SpawnerPrefab_Static_MG/3bc06c5e-097d-4ecd-a045-f3d2f9915baa
+	BlueprintTransform::LinearTransform
+		right::Vec3
+			x 0.9228688478469849
+			y 0.0
+			z -0.3851144015789032
+		up::Vec3
+			x 0.0
+			y 1.0
+			z 0.0
+		forward::Vec3
+			x 0.3851144015789032
+			y 0.0
+			z 0.9228688478469849
+		trans::Vec3
+			x -92.63716888427734
+			y 67.43234252929688
+			z -387.3871154785156
+	ObjectVariation *nullGuid*
+	StreamRealm StreamRealm_None
+	RadiosityTypeOverride RadiosityTypeOverride_None
+	CastSunShadowEnable True
+	CastReflectionEnable False
+	Excluded False
+ReferenceObjectData c84c9ba8-6c53-4455-a5a5-62110a0ef80a
+	$::GameObjectData
+		$::DataBusPeer
+			$::GameDataContainer
+				$::DataContainer
+			Flags 72129448
+	Blueprint gameplay/miscprefabs/battlepickup_starstreak_nongroupable_autogen_Ps3/d0d8db1a-87ce-5c32-7489-59eb597464aa
+	BlueprintTransform::LinearTransform
+		right::Vec3
+			x 1.0
+			y 0.0
+			z 0.0
+		up::Vec3
+			x 0.0
+			y 1.0
+			z 0.0
+		forward::Vec3
+			x 0.0
+			y 0.0
+			z 1.0
+		trans::Vec3
+			x 219.5366973876953
+			y 279.37896728515625
+			z -281.8155212402344
+	ObjectVariation *nullGuid*
+	StreamRealm StreamRealm_None
+	RadiosityTypeOverride RadiosityTypeOverride_None
+	CastSunShadowEnable True
+	CastReflectionEnable False
+	Excluded False
+ReferenceObjectData d5a85d64-0a69-45ff-9a43-39bef19b3ff0
+	$::GameObjectData
+		$::DataBusPeer
+			$::GameDataContainer
+				$::DataContainer
+			Flags 2141740388
+	Blueprint Gameplay/GameModes/Obliteration/Components/Obliteration_Level_Logic/2cf7bc78-a350-492a-b3d4-c2ab4d550c3b
+	BlueprintTransform::LinearTransform
+		right::Vec3
+			x 1.0
+			y 0.0
+			z 0.0
+		up::Vec3
+			x 0.0
+			y 1.0
+			z 0.0
+		forward::Vec3
+			x 0.0
+			y 0.0
+			z 1.0
+		trans::Vec3
+			x -136.1227569580078
+			y 64.0
+			z -30.001083374023438
+	ObjectVariation *nullGuid*
+	StreamRealm StreamRealm_None
+	RadiosityTypeOverride RadiosityTypeOverride_None
+	CastSunShadowEnable True
+	CastReflectionEnable True
+	Excluded False
+ReferenceObjectData ddc0da3a-cdb5-465d-8756-c9a0a4f7d334
+	$::GameObjectData
+		$::DataBusPeer
+			$::GameDataContainer
+				$::DataContainer
+			Flags 432069178
+	Blueprint Gameplay/VehicleSpawnerPrefabs/SpawnerPrefab_Static_AT/1cc0c3a9-ebb5-460e-addc-32de2fb8b0c2
+	BlueprintTransform::LinearTransform
+		right::Vec3
+			x -0.9363517761230469
+			y 0.0
+			z -0.3510633111000061
+		up::Vec3
+			x 0.0
+			y 1.0
+			z 0.0
+		forward::Vec3
+			x 0.3510633111000061
+			y 0.0
+			z -0.9363517761230469
+		trans::Vec3
+			x 215.1221160888672
+			y 66.37382507324219
+			z -151.04124450683594
+	ObjectVariation *nullGuid*
+	StreamRealm StreamRealm_None
+	RadiosityTypeOverride RadiosityTypeOverride_None
+	CastSunShadowEnable True
+	CastReflectionEnable False
+	Excluded False
+LocatorEntityData f9656a79-8b14-4506-94ff-b094315f3923
+	$::SpatialEntityData
+		$::EntityData
+			$::GameObjectData
+				$::DataBusPeer
+					$::GameDataContainer
+						$::DataContainer
+					Flags 23423609
+		Transform::LinearTransform
+			right::Vec3
+				x -0.2958759367465973
+				y -0.44613227248191833
+				z -0.8446439504623413
+			up::Vec3
+				x -0.8443615436553955
+				y 0.53561931848526
+				z 0.012868388555943966
+			forward::Vec3
+				x 0.44666650891304016
+				y 0.7169923782348633
+				z -0.5351738333702087
+			trans::Vec3
+				x -634.9290771484375
+				y 42.31364440917969
+				z -799.0477294921875
+	Realm Realm_ClientAndServer

@@ -1,0 +1,7 @@
+f27d07fb-20eb-6f21-199f-5466afcbda8a
+AntStateAsset f27d07fb-20eb-6f21-199f-5466afcbda8a
+	$::Asset
+		$::DataContainer
+		Name levels/mp/mp_siege/conquestsmall0_ps3_antstate
+	StreamingGuid *nullGuid*
+	ChunkSize 0

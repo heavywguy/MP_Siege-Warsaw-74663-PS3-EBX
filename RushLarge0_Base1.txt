@@ -1,0 +1,1002 @@
+85fb8c64-bb94-4094-94d8-bd5e8ec3bd88
+WorldPartData 31aa7635-daa5-4504-86bd-277bff9b72c0
+	$::PrefabBlueprint
+		$::Blueprint
+			$::EntityBusData
+				$::DataBusData
+					$::Asset
+						$::DataContainer
+						Name Levels/MP/MP_Siege/RushLarge0_Base1
+					PropertyConnections *nullArray*
+					LinkConnections *nullArray*
+					Interface *nullGuid*
+					Flags 0
+				EventConnections *nullArray*
+		Objects::array
+			member(0) 95fa3641-b9ca-4744-9585-d945f58746b5
+			member(1) 94651d53-aca8-4311-9422-0c552c805e51
+			member(2) 1927430d-da08-41d8-8520-dc37aebc306a
+			member(3) 954244be-9cc8-4fa9-8c01-8de26d21a128
+			member(4) 1a5dece6-6f0d-4b12-a182-27cfbf75cb4e
+			member(5) 8d9f6c67-ad82-4ddf-939a-72ec2ed23d7c
+			member(6) 1baba3c7-f544-4bd3-9c7e-0a64f3cbcdf2
+			member(7) 27d085a9-42da-4644-b661-eeb0da850b60
+			member(8) 929e5ecc-74f5-4dc3-b333-782c6d4734a7
+			member(9) 05833350-7359-4019-82cc-116532e2c196
+	HackToSolveRealTimeTweakingIssue 243bd946-3eb6-2be2-ed06-be604891ebe7
+	Enabled True
+	UseDeferredEntityCreation False
+ReferenceObjectData 05833350-7359-4019-82cc-116532e2c196
+	$::GameObjectData
+		$::DataBusPeer
+			$::GameDataContainer
+				$::DataContainer
+			Flags 428028752
+	Blueprint Gameplay/GameModes/Rush/LevelSetups/LevelSetupComponents/Rush_CustomCamera/d504c1d6-4106-a3df-0366-c51ac1030965
+	BlueprintTransform::LinearTransform
+		right::Vec3
+			x 0.027343809604644775
+			y -1.5079975128173828e-05
+			z -0.999626100063324
+		up::Vec3
+			x -0.7434462904930115
+			y 0.6684860587120056
+			z -0.020346373319625854
+		forward::Vec3
+			x 0.6682364344596863
+			y 0.7437247037887573
+			z 0.01826775074005127
+		trans::Vec3
+			x 124.80320739746094
+			y 109.24958038330078
+			z -404.97430419921875
+	ObjectVariation *nullGuid*
+	StreamRealm StreamRealm_None
+	RadiosityTypeOverride RadiosityTypeOverride_None
+	CastSunShadowEnable True
+	CastReflectionEnable True
+	Excluded False
+AlternateSpawnEntityData 064713cb-0521-4421-85cf-177cebe6a9b0
+	$::SpatialEntityData
+		$::EntityData
+			$::GameObjectData
+				$::DataBusPeer
+					$::GameDataContainer
+						$::DataContainer
+					Flags 100663296
+		Transform::LinearTransform
+			right::Vec3
+				x 0.5161064863204956
+				y 0.0
+				z -0.8565243482589722
+			up::Vec3
+				x 0.0
+				y 1.0
+				z 0.0
+			forward::Vec3
+				x 0.8565243482589722
+				y 0.0
+				z 0.5161064863204956
+			trans::Vec3
+				x -184.8513946533203
+				y 67.80158233642578
+				z -576.3944091796875
+	Team Team1
+	Priority 1.0
+	Enabled True
+AlternateSpawnEntityData 0b62aed7-fc52-465a-83a5-a96d2117f44d
+	$::SpatialEntityData
+		$::EntityData
+			$::GameObjectData
+				$::DataBusPeer
+					$::GameDataContainer
+						$::DataContainer
+					Flags 100663296
+		Transform::LinearTransform
+			right::Vec3
+				x 0.18045765161514282
+				y 0.0
+				z 0.9835828542709351
+			up::Vec3
+				x 0.0
+				y 1.0
+				z 0.0
+			forward::Vec3
+				x -0.9835828542709351
+				y 0.0
+				z 0.18045765161514282
+			trans::Vec3
+				x 109.07942962646484
+				y 69.24933624267578
+				z -394.7635498046875
+	Team Team2
+	Priority 1.0
+	Enabled True
+AlternateSpawnEntityData 0caaddd9-8f65-45cb-a72b-1b07429d73bf
+	$::SpatialEntityData
+		$::EntityData
+			$::GameObjectData
+				$::DataBusPeer
+					$::GameDataContainer
+						$::DataContainer
+					Flags 100663296
+		Transform::LinearTransform
+			right::Vec3
+				x 0.8479138612747192
+				y 0.0
+				z -0.5301340222358704
+			up::Vec3
+				x 0.0
+				y 1.0
+				z 0.0
+			forward::Vec3
+				x 0.5301340222358704
+				y 0.0
+				z 0.8479138612747192
+			trans::Vec3
+				x -173.05938720703125
+				y 69.31501770019531
+				z -617.6865234375
+	Team Team1
+	Priority 1.0
+	Enabled True
+ReferenceObjectData 1927430d-da08-41d8-8520-dc37aebc306a
+	$::GameObjectData
+		$::DataBusPeer
+			$::GameDataContainer
+				$::DataContainer
+			Flags 522666765
+	Blueprint gameplay/vehiclespawnerprefabs/SpawnerPrefab_Tank_MBT/bbad7662-a310-4dbe-8a17-cc76af3b2a10
+	BlueprintTransform::LinearTransform
+		right::Vec3
+			x -0.999389111995697
+			y 1.032097429742862e-08
+			z -0.03494957834482193
+		up::Vec3
+			x 1.0044622911209444e-08
+			y 1.0
+			z 8.082739810788553e-09
+		forward::Vec3
+			x 0.03494957834482193
+			y 7.726750794745385e-09
+			z -0.999389111995697
+		trans::Vec3
+			x 81.85173797607422
+			y 69.1104507446289
+			z -454.16815185546875
+	ObjectVariation *nullGuid*
+	StreamRealm StreamRealm_None
+	RadiosityTypeOverride RadiosityTypeOverride_None
+	CastSunShadowEnable True
+	CastReflectionEnable True
+	Excluded False
+ReferenceObjectData 1a5dece6-6f0d-4b12-a182-27cfbf75cb4e
+	$::GameObjectData
+		$::DataBusPeer
+			$::GameDataContainer
+				$::DataContainer
+			Flags 408808678
+	Blueprint Gameplay/VehicleSpawnerPrefabs/SpawnerPrefab_Static_MG/3bc06c5e-097d-4ecd-a045-f3d2f9915baa
+	BlueprintTransform::LinearTransform
+		right::Vec3
+			x -0.0005221804021857679
+			y 0.0
+			z 0.9999998807907104
+		up::Vec3
+			x 0.0
+			y 1.0
+			z 0.0
+		forward::Vec3
+			x -0.9999998807907104
+			y 0.0
+			z -0.0005221804021857679
+		trans::Vec3
+			x -39.67582321166992
+			y 73.14115142822266
+			z -429.2552185058594
+	ObjectVariation *nullGuid*
+	StreamRealm StreamRealm_None
+	RadiosityTypeOverride RadiosityTypeOverride_None
+	CastSunShadowEnable True
+	CastReflectionEnable False
+	Excluded False
+ReferenceObjectData 1baba3c7-f544-4bd3-9c7e-0a64f3cbcdf2
+	$::GameObjectData
+		$::DataBusPeer
+			$::GameDataContainer
+				$::DataContainer
+			Flags 531342279
+	Blueprint Gameplay/VehicleSpawnerPrefabs/SpawnerPrefab_Heli_Transport/7293d7b3-b7aa-42df-9bdc-760810fc74fa
+	BlueprintTransform::LinearTransform
+		right::Vec3
+			x 0.9800079464912415
+			y 0.0
+			z -0.19895857572555542
+		up::Vec3
+			x 0.0
+			y 1.0
+			z 0.0
+		forward::Vec3
+			x 0.19895857572555542
+			y 0.0
+			z 0.9800079464912415
+		trans::Vec3
+			x -129.89271545410156
+			y 150.3566436767578
+			z -625.3340454101562
+	ObjectVariation *nullGuid*
+	StreamRealm StreamRealm_None
+	RadiosityTypeOverride RadiosityTypeOverride_None
+	CastSunShadowEnable True
+	CastReflectionEnable True
+	Excluded False
+AlternateSpawnEntityData 1fbe7f0c-3a10-4ac2-beaa-ca746c2df9ac
+	$::SpatialEntityData
+		$::EntityData
+			$::GameObjectData
+				$::DataBusPeer
+					$::GameDataContainer
+						$::DataContainer
+					Flags 100663296
+		Transform::LinearTransform
+			right::Vec3
+				x 0.46541011333465576
+				y 0.0
+				z 0.8850950002670288
+			up::Vec3
+				x 0.0
+				y 1.0
+				z 0.0
+			forward::Vec3
+				x -0.8850950002670288
+				y 0.0
+				z 0.46541011333465576
+			trans::Vec3
+				x 68.62261199951172
+				y 69.2589111328125
+				z -426.3724365234375
+	Team Team2
+	Priority 1.0
+	Enabled True
+ReferenceObjectData 27d085a9-42da-4644-b661-eeb0da850b60
+	$::GameObjectData
+		$::DataBusPeer
+			$::GameDataContainer
+				$::DataContainer
+			Flags 433096105
+	Blueprint Gameplay/VehicleSpawnerPrefabs/SpawnerPrefab_Static_MG/3bc06c5e-097d-4ecd-a045-f3d2f9915baa
+	BlueprintTransform::LinearTransform
+		right::Vec3
+			x -0.08216634392738342
+			y 0.0
+			z 0.9966186285018921
+		up::Vec3
+			x 0.0
+			y 1.0
+			z 0.0
+		forward::Vec3
+			x -0.9966186285018921
+			y 0.0
+			z -0.08216634392738342
+		trans::Vec3
+			x -40.07998275756836
+			y 73.19116973876953
+			z -417.6039123535156
+	ObjectVariation *nullGuid*
+	StreamRealm StreamRealm_None
+	RadiosityTypeOverride RadiosityTypeOverride_None
+	CastSunShadowEnable True
+	CastReflectionEnable False
+	Excluded False
+AlternateSpawnEntityData 31f5ad5f-a354-4beb-8653-7390def9dfad
+	$::SpatialEntityData
+		$::EntityData
+			$::GameObjectData
+				$::DataBusPeer
+					$::GameDataContainer
+						$::DataContainer
+					Flags 100663296
+		Transform::LinearTransform
+			right::Vec3
+				x 0.8342980146408081
+				y 0.0
+				z 0.5513137578964233
+			up::Vec3
+				x 0.0
+				y 1.0
+				z 0.0
+			forward::Vec3
+				x -0.5513137578964233
+				y 0.0
+				z 0.8342980146408081
+			trans::Vec3
+				x 53.040924072265625
+				y 69.2589111328125
+				z -420.82208251953125
+	Team Team2
+	Priority 1.0
+	Enabled True
+AlternateSpawnEntityData 4454271f-bcc9-44ea-a816-1d9ff029575b
+	$::SpatialEntityData
+		$::EntityData
+			$::GameObjectData
+				$::DataBusPeer
+					$::GameDataContainer
+						$::DataContainer
+					Flags 100663296
+		Transform::LinearTransform
+			right::Vec3
+				x -0.9884598255157471
+				y 0.0
+				z 0.15148399770259857
+			up::Vec3
+				x 0.0
+				y 1.0
+				z 0.0
+			forward::Vec3
+				x -0.15148399770259857
+				y 0.0
+				z -0.9884598255157471
+			trans::Vec3
+				x 38.19298553466797
+				y 64.50454711914062
+				z -364.32293701171875
+	Team Team2
+	Priority 1.0
+	Enabled True
+AlternateSpawnEntityData 459ee451-95c0-4153-a7ad-03827b2ceb72
+	$::SpatialEntityData
+		$::EntityData
+			$::GameObjectData
+				$::DataBusPeer
+					$::GameDataContainer
+						$::DataContainer
+					Flags 100663296
+		Transform::LinearTransform
+			right::Vec3
+				x 0.8479138612747192
+				y 0.0
+				z -0.5301340222358704
+			up::Vec3
+				x 0.0
+				y 1.0
+				z 0.0
+			forward::Vec3
+				x 0.5301340222358704
+				y 0.0
+				z 0.8479138612747192
+			trans::Vec3
+				x -176.88697814941406
+				y 69.11042785644531
+				z -599.2814331054688
+	Team Team1
+	Priority 1.0
+	Enabled True
+AlternateSpawnEntityData 505a0753-8036-48a6-9334-718640e98afb
+	$::SpatialEntityData
+		$::EntityData
+			$::GameObjectData
+				$::DataBusPeer
+					$::GameDataContainer
+						$::DataContainer
+					Flags 100663296
+		Transform::LinearTransform
+			right::Vec3
+				x -0.9008575677871704
+				y 0.0
+				z 0.43411484360694885
+			up::Vec3
+				x 0.0
+				y 1.0
+				z 0.0
+			forward::Vec3
+				x -0.43411484360694885
+				y 0.0
+				z -0.9008575677871704
+			trans::Vec3
+				x 45.42931365966797
+				y 66.05892944335938
+				z -367.1505432128906
+	Team Team2
+	Priority 1.0
+	Enabled True
+AlternateSpawnEntityData 584ebb41-a50c-4b3a-a05c-323cca3ae428
+	$::SpatialEntityData
+		$::EntityData
+			$::GameObjectData
+				$::DataBusPeer
+					$::GameDataContainer
+						$::DataContainer
+					Flags 100663296
+		Transform::LinearTransform
+			right::Vec3
+				x 0.8479138612747192
+				y 0.0
+				z -0.5301340222358704
+			up::Vec3
+				x 0.0
+				y 1.0
+				z 0.0
+			forward::Vec3
+				x 0.5301340222358704
+				y 0.0
+				z 0.8479138612747192
+			trans::Vec3
+				x -196.01695251464844
+				y 67.20441436767578
+				z -591.9635009765625
+	Team Team1
+	Priority 1.0
+	Enabled True
+AlternateSpawnEntityData 69dd9040-e38e-4ec2-a09f-552ad73712fc
+	$::SpatialEntityData
+		$::EntityData
+			$::GameObjectData
+				$::DataBusPeer
+					$::GameDataContainer
+						$::DataContainer
+					Flags 100663296
+		Transform::LinearTransform
+			right::Vec3
+				x 0.8479138612747192
+				y 0.0
+				z -0.5301340222358704
+			up::Vec3
+				x 0.0
+				y 1.0
+				z 0.0
+			forward::Vec3
+				x 0.5301340222358704
+				y 0.0
+				z 0.8479138612747192
+			trans::Vec3
+				x -177.15093994140625
+				y 69.11042785644531
+				z -607.89404296875
+	Team Team1
+	Priority 1.0
+	Enabled True
+VolumeVectorShapeData 78572339-353b-4612-83ea-8e305643d132
+	$::VectorShapeData
+		$::BaseShapeData
+			$::GameObjectData
+				$::DataBusPeer
+					$::GameDataContainer
+						$::DataContainer
+					Flags 100663296
+		Points::array
+			member(0)::Vec3
+				x -222.79884338378906
+				y 68.8270034790039
+				z -393.724853515625
+			member(1)::Vec3
+				x -268.85089111328125
+				y 68.8270034790039
+				z -455.6815490722656
+			member(2)::Vec3
+				x -289.0074768066406
+				y 68.8270034790039
+				z -493.7899475097656
+			member(3)::Vec3
+				x -299.95013427734375
+				y 68.8270034790039
+				z -529.2606811523438
+			member(4)::Vec3
+				x -299.95294189453125
+				y 68.8270034790039
+				z -568.9232177734375
+			member(5)::Vec3
+				x -286.12677001953125
+				y 68.8270034790039
+				z -601.82421875
+			member(6)::Vec3
+				x -260.66302490234375
+				y 68.8270034790039
+				z -629.1610107421875
+			member(7)::Vec3
+				x -206.94131469726562
+				y 68.8270034790039
+				z -639.4841918945312
+			member(8)::Vec3
+				x -170.3137969970703
+				y 68.8270034790039
+				z -652.5033569335938
+			member(9)::Vec3
+				x -166.75106811523438
+				y 68.8270034790039
+				z -637.4110717773438
+			member(10)::Vec3
+				x -114.54271697998047
+				y 68.8270034790039
+				z -544.7603759765625
+			member(11)::Vec3
+				x -90.95263671875
+				y 68.8270034790039
+				z -525.09033203125
+			member(12)::Vec3
+				x -61.51090621948242
+				y 68.8270034790039
+				z -517.388916015625
+			member(13)::Vec3
+				x 13.478917121887207
+				y 68.8270034790039
+				z -531.3358154296875
+			member(14)::Vec3
+				x 30.365381240844727
+				y 68.8270034790039
+				z -491.6517028808594
+			member(15)::Vec3
+				x 30.40910530090332
+				y 68.8270034790039
+				z -373.36358642578125
+			member(16)::Vec3
+				x 29.386363983154297
+				y 68.8270034790039
+				z -368.1178894042969
+			member(17)::Vec3
+				x 3.3540525436401367
+				y 68.8270034790039
+				z -374.4883728027344
+			member(18)::Vec3
+				x -15.003061294555664
+				y 68.8270034790039
+				z -377.4195556640625
+			member(19)::Vec3
+				x -47.006324768066406
+				y 68.8270034790039
+				z -377.9267272949219
+			member(20)::Vec3
+				x -49.58612823486328
+				y 68.8270034790039
+				z -362.62762451171875
+			member(21)::Vec3
+				x -55.329811096191406
+				y 68.8270034790039
+				z -345.56787109375
+			member(22)::Vec3
+				x -73.5636215209961
+				y 68.8270034790039
+				z -333.7695617675781
+			member(23)::Vec3
+				x -103.51002502441406
+				y 68.8270034790039
+				z -327.9369812011719
+			member(24)::Vec3
+				x -174.54754638671875
+				y 68.8270034790039
+				z -352.486328125
+		Tension 0.0
+		IsClosed True
+		AllowRoll False
+	Height 0.0
+AlternateSpawnEntityData 88bd95d6-8003-4d60-a2fb-403a29715483
+	$::SpatialEntityData
+		$::EntityData
+			$::GameObjectData
+				$::DataBusPeer
+					$::GameDataContainer
+						$::DataContainer
+					Flags 100663296
+		Transform::LinearTransform
+			right::Vec3
+				x 0.969110906124115
+				y 0.0
+				z 0.24662548303604126
+			up::Vec3
+				x 0.0
+				y 1.0
+				z 0.0
+			forward::Vec3
+				x -0.24662548303604126
+				y 0.0
+				z 0.969110906124115
+			trans::Vec3
+				x -192.03475952148438
+				y 69.15219116210938
+				z -540.1719970703125
+	Team Team1
+	Priority 1.0
+	Enabled True
+ReferenceObjectData 8d9f6c67-ad82-4ddf-939a-72ec2ed23d7c
+	$::GameObjectData
+		$::DataBusPeer
+			$::GameDataContainer
+				$::DataContainer
+			Flags 429878375
+	Blueprint Gameplay/VehicleSpawnerPrefabs/SpawnerPrefab_Static_AT/1cc0c3a9-ebb5-460e-addc-32de2fb8b0c2
+	BlueprintTransform::LinearTransform
+		right::Vec3
+			x 0.00798683613538742
+			y 0.0
+			z 0.9999680519104004
+		up::Vec3
+			x 0.0
+			y 1.0
+			z 0.0
+		forward::Vec3
+			x -0.9999680519104004
+			y 0.0
+			z 0.00798683613538742
+		trans::Vec3
+			x 34.44633483886719
+			y 69.24934387207031
+			z -493.064697265625
+	ObjectVariation *nullGuid*
+	StreamRealm StreamRealm_None
+	RadiosityTypeOverride RadiosityTypeOverride_None
+	CastSunShadowEnable True
+	CastReflectionEnable False
+	Excluded False
+ReferenceObjectData 929e5ecc-74f5-4dc3-b333-782c6d4734a7
+	$::GameObjectData
+		$::DataBusPeer
+			$::GameDataContainer
+				$::DataContainer
+			Flags 413032140
+	Blueprint Gameplay/GameModes/Rush/LevelSetups/LevelSetupComponents/Rush_CustomCamera/d504c1d6-4106-a3df-0366-c51ac1030965
+	BlueprintTransform::LinearTransform
+		right::Vec3
+			x -0.8883241415023804
+			y 1.6987323760986328e-06
+			z 0.4592171907424927
+		up::Vec3
+			x 0.29604625701904297
+			y 0.7644580602645874
+			z 0.5726783275604248
+		forward::Vec3
+			x -0.35105133056640625
+			y 0.6446734666824341
+			z -0.6790871620178223
+		trans::Vec3
+			x -213.09674072265625
+			y 112.21036529541016
+			z -658.3276977539062
+	ObjectVariation *nullGuid*
+	StreamRealm StreamRealm_None
+	RadiosityTypeOverride RadiosityTypeOverride_None
+	CastSunShadowEnable True
+	CastReflectionEnable True
+	Excluded False
+ReferenceObjectData 94651d53-aca8-4311-9422-0c552c805e51
+	$::GameObjectData
+		$::DataBusPeer
+			$::GameDataContainer
+				$::DataContainer
+			Flags 509943123
+	Blueprint Gameplay/vehiclespawnerprefabs/SpawnerPrefab_Car_Heavy/00caf290-6cb8-4c1e-8e41-372ec8d3bcca
+	BlueprintTransform::LinearTransform
+		right::Vec3
+			x 0.8778650760650635
+			y 0.0
+			z -0.47890812158584595
+		up::Vec3
+			x 0.0
+			y 1.0
+			z 0.0
+		forward::Vec3
+			x 0.47890812158584595
+			y 0.0
+			z 0.8778650760650635
+		trans::Vec3
+			x -177.8989715576172
+			y 69.11044311523438
+			z -595.564208984375
+	ObjectVariation *nullGuid*
+	StreamRealm StreamRealm_None
+	RadiosityTypeOverride RadiosityTypeOverride_None
+	CastSunShadowEnable True
+	CastReflectionEnable True
+	Excluded False
+AlternateSpawnEntityData 9489dfa9-d39b-47bc-8484-b765e83da26b
+	$::SpatialEntityData
+		$::EntityData
+			$::GameObjectData
+				$::DataBusPeer
+					$::GameDataContainer
+						$::DataContainer
+					Flags 100663296
+		Transform::LinearTransform
+			right::Vec3
+				x -0.9437734484672546
+				y 0.0
+				z 0.3305931091308594
+			up::Vec3
+				x 0.0
+				y 1.0
+				z 0.0
+			forward::Vec3
+				x -0.3305931091308594
+				y 0.0
+				z -0.9437734484672546
+			trans::Vec3
+				x 61.380645751953125
+				y 69.25003051757812
+				z -382.2514343261719
+	Team Team2
+	Priority 1.0
+	Enabled True
+ReferenceObjectData 954244be-9cc8-4fa9-8c01-8de26d21a128
+	$::GameObjectData
+		$::DataBusPeer
+			$::GameDataContainer
+				$::DataContainer
+			Flags 524436670
+	Blueprint Gameplay/vehiclespawnerprefabs/SpawnerPrefab_Car_Heavy/00caf290-6cb8-4c1e-8e41-372ec8d3bcca
+	BlueprintTransform::LinearTransform
+		right::Vec3
+			x 0.8790988326072693
+			y 1.8038785754015407e-07
+			z -0.4766395688056946
+		up::Vec3
+			x -1.9350873969870008e-07
+			y 1.0
+			z 2.1556228801955513e-08
+		forward::Vec3
+			x 0.4766395688056946
+			y 7.328399931338936e-08
+			z 0.8790988326072693
+		trans::Vec3
+			x -168.2843017578125
+			y 69.1104507446289
+			z -597.9945068359375
+	ObjectVariation *nullGuid*
+	StreamRealm StreamRealm_None
+	RadiosityTypeOverride RadiosityTypeOverride_None
+	CastSunShadowEnable True
+	CastReflectionEnable True
+	Excluded False
+AlternateSpawnEntityData 956a0a74-d725-4ede-a451-9e863ebe421e
+	$::SpatialEntityData
+		$::EntityData
+			$::GameObjectData
+				$::DataBusPeer
+					$::GameDataContainer
+						$::DataContainer
+					Flags 100663296
+		Transform::LinearTransform
+			right::Vec3
+				x 0.8479138612747192
+				y 0.0
+				z -0.5301340222358704
+			up::Vec3
+				x 0.0
+				y 1.0
+				z 0.0
+			forward::Vec3
+				x 0.5301340222358704
+				y 0.0
+				z 0.8479138612747192
+			trans::Vec3
+				x -189.65025329589844
+				y 69.11043548583984
+				z -618.9619750976562
+	Team Team1
+	Priority 1.0
+	Enabled True
+ReferenceObjectData 95fa3641-b9ca-4744-9585-d945f58746b5
+	$::GameObjectData
+		$::DataBusPeer
+			$::GameDataContainer
+				$::DataContainer
+			Flags 536491585
+	Blueprint gameplay/vehiclespawnerprefabs/SpawnerPrefab_Tank_MBT/bbad7662-a310-4dbe-8a17-cc76af3b2a10
+	BlueprintTransform::LinearTransform
+		right::Vec3
+			x 0.8660102486610413
+			y 1.455425363561247e-11
+			z -0.5000262260437012
+		up::Vec3
+			x -2.6022227327420476e-18
+			y 1.0
+			z 2.9106991122906933e-11
+		forward::Vec3
+			x 0.500026285648346
+			y -2.520695804864026e-11
+			z 0.8660102486610413
+		trans::Vec3
+			x -181.32057189941406
+			y 69.11042785644531
+			z -614.3905029296875
+	ObjectVariation *nullGuid*
+	StreamRealm StreamRealm_None
+	RadiosityTypeOverride RadiosityTypeOverride_None
+	CastSunShadowEnable True
+	CastReflectionEnable True
+	Excluded False
+AlternateSpawnEntityData b2c1e421-1fca-4b93-81b0-3e4100435470
+	$::SpatialEntityData
+		$::EntityData
+			$::GameObjectData
+				$::DataBusPeer
+					$::GameDataContainer
+						$::DataContainer
+					Flags 100663296
+		Transform::LinearTransform
+			right::Vec3
+				x 0.23394012451171875
+				y 0.0
+				z -0.9722509980201721
+			up::Vec3
+				x 0.0
+				y 1.0
+				z 0.0
+			forward::Vec3
+				x 0.9722509980201721
+				y 0.0
+				z 0.23394012451171875
+			trans::Vec3
+				x -185.6370391845703
+				y 69.15218353271484
+				z -570.1976318359375
+	Team Team1
+	Priority 1.0
+	Enabled True
+AlternateSpawnEntityData b62c9194-cb7c-49f2-ad6b-f91af574b14f
+	$::SpatialEntityData
+		$::EntityData
+			$::GameObjectData
+				$::DataBusPeer
+					$::GameDataContainer
+						$::DataContainer
+					Flags 100663296
+		Transform::LinearTransform
+			right::Vec3
+				x -0.8606967926025391
+				y 0.0
+				z 0.5091181993484497
+			up::Vec3
+				x 0.0
+				y 1.0
+				z 0.0
+			forward::Vec3
+				x -0.5091181993484497
+				y 0.0
+				z -0.8606967926025391
+			trans::Vec3
+				x 62.352516174316406
+				y 69.2500228881836
+				z -389.3352966308594
+	Team Team2
+	Priority 1.0
+	Enabled True
+VolumeVectorShapeData bc241dc3-9f70-4db7-be4d-615a129a9ba3
+	$::VectorShapeData
+		$::BaseShapeData
+			$::GameObjectData
+				$::DataBusPeer
+					$::GameDataContainer
+						$::DataContainer
+					Flags 100663296
+		Points::array
+			member(0)::Vec3
+				x -86.66545104980469
+				y 61.07958984375
+				z -410.01055908203125
+			member(1)::Vec3
+				x -81.11161041259766
+				y 61.07958984375
+				z -447.2375183105469
+			member(2)::Vec3
+				x -74.34882354736328
+				y 61.07958984375
+				z -466.3363037109375
+			member(3)::Vec3
+				x -61.51090621948242
+				y 61.07958984375
+				z -517.388916015625
+			member(4)::Vec3
+				x 13.478917121887207
+				y 61.07958984375
+				z -531.3358154296875
+			member(5)::Vec3
+				x 14.180482864379883
+				y 61.07958984375
+				z -546.6771240234375
+			member(6)::Vec3
+				x 59.08039855957031
+				y 61.07958984375
+				z -547.542236328125
+			member(7)::Vec3
+				x 59.042396545410156
+				y 61.07958984375
+				z -539.7135620117188
+			member(8)::Vec3
+				x 113.82815551757812
+				y 61.07958984375
+				z -539.2869262695312
+			member(9)::Vec3
+				x 113.82508850097656
+				y 61.07958984375
+				z -526.323974609375
+			member(10)::Vec3
+				x 124.22969818115234
+				y 61.07958984375
+				z -453.0758056640625
+			member(11)::Vec3
+				x 124.26355743408203
+				y 61.07958984375
+				z -437.259765625
+			member(12)::Vec3
+				x 129.67825317382812
+				y 61.07958984375
+				z -414.0625
+			member(13)::Vec3
+				x 129.60250854492188
+				y 61.07958984375
+				z -353.0332336425781
+			member(14)::Vec3
+				x 132.26669311523438
+				y 61.07958984375
+				z -340.12774658203125
+			member(15)::Vec3
+				x 119.46340942382812
+				y 61.07958984375
+				z -317.3042297363281
+			member(16)::Vec3
+				x 95.08978271484375
+				y 61.07958984375
+				z -305.4612731933594
+			member(17)::Vec3
+				x 60.53601837158203
+				y 61.07958984375
+				z -310.8456115722656
+			member(18)::Vec3
+				x 24.583293914794922
+				y 61.07958984375
+				z -320.85968017578125
+			member(19)::Vec3
+				x -9.066619873046875
+				y 61.07958984375
+				z -325.33941650390625
+			member(20)::Vec3
+				x -57.60955810546875
+				y 61.07958984375
+				z -326.6905822753906
+			member(21)::Vec3
+				x -80.0636978149414
+				y 61.07958984375
+				z -333.1419677734375
+			member(22)::Vec3
+				x -94.57048797607422
+				y 61.07958984375
+				z -347.8502502441406
+			member(23)::Vec3
+				x -99.20540618896484
+				y 61.07958984375
+				z -367.824462890625
+			member(24)::Vec3
+				x -94.20274353027344
+				y 61.07958984375
+				z -391.0038146972656
+		Tension 0.0
+		IsClosed True
+		AllowRoll False
+	Height 0.0
+AlternateSpawnEntityData d299227a-4943-4ff7-8441-85665b84a55b
+	$::SpatialEntityData
+		$::EntityData
+			$::GameObjectData
+				$::DataBusPeer
+					$::GameDataContainer
+						$::DataContainer
+					Flags 100663296
+		Transform::LinearTransform
+			right::Vec3
+				x -0.6708319187164307
+				y 0.0
+				z 0.7416094541549683
+			up::Vec3
+				x 0.0
+				y 1.0
+				z 0.0
+			forward::Vec3
+				x -0.7416094541549683
+				y 0.0
+				z -0.6708319187164307
+			trans::Vec3
+				x 78.50049591064453
+				y 69.24933624267578
+				z -403.4416198730469
+	Team Team1
+	Priority 1.0
+	Enabled True

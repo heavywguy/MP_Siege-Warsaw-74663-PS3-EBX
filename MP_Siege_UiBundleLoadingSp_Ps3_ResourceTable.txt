@@ -1,0 +1,6 @@
+58112818-aabd-02eb-8961-9101350b4269
+UIResourceTable 58112818-aabd-02eb-8961-9101350b4269
+	$::Asset
+		$::DataContainer
+		Name Levels/MP/MP_Siege/MP_Siege_UiBundleLoadingSp_Ps3_ResourceTable
+	Entries *nullArray*

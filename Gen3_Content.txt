@@ -1,0 +1,5697 @@
+8a9b0a23-e2bd-4de9-a2ed-6c0ecd7f8b96
+SubWorldData 362854eb-f6bb-417e-b281-dd36ae421369
+	$::SpatialPrefabBlueprint
+		$::PrefabBlueprint
+			$::Blueprint
+				$::EntityBusData
+					$::DataBusData
+						$::Asset
+							$::DataContainer
+							Name Levels/MP/MP_Siege/Gen3_Content
+						PropertyConnections::array
+							member(0)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance16
+								SourceFieldId 955833207
+								TargetFieldId 955833207
+								ShouldNetworkValue False
+							member(1)::PropertyConnection
+								Source Levels/MP/MP_Siege/LevolutionGen3/9baabf91-da38-4bec-83f9-9acc69e62328
+								Target Levels/MP/MP_Siege/LevolutionGen3/1bbd3b94-815c-4a7a-b996-d11e192e0338
+								SourceFieldId 193453899
+								TargetFieldId 5862146
+								ShouldNetworkValue False
+							member(2)::PropertyConnection
+								Source Levels/MP/MP_Siege/LevolutionGen3/9baabf91-da38-4bec-83f9-9acc69e62328
+								Target Levels/MP/MP_Siege/Technical_Gen3/30e4fee8-9c17-410e-961f-bb896d4fff54
+								SourceFieldId 193453899
+								TargetFieldId 2662400
+								ShouldNetworkValue False
+							member(3)::PropertyConnection
+								Source Levels/MP/MP_Siege/LevolutionGen3/1bbd3b94-815c-4a7a-b996-d11e192e0338
+								Target Levels/MP/MP_Siege/Technical_Gen3/094e28ae-c6e0-4867-89e7-022e24daa84f
+								SourceFieldId 193453899
+								TargetFieldId 2662400
+								ShouldNetworkValue False
+							member(4)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 1000
+								TargetFieldId -16777032
+								ShouldNetworkValue False
+							member(5)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 1001
+								TargetFieldId -16777212
+								ShouldNetworkValue False
+							member(6)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 955833207
+								TargetFieldId -16760824
+								ShouldNetworkValue False
+							member(7)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 1001
+								TargetFieldId -16769020
+								ShouldNetworkValue False
+							member(8)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 1001
+								TargetFieldId -16760828
+								ShouldNetworkValue False
+							member(9)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 1001
+								TargetFieldId -16752636
+								ShouldNetworkValue False
+							member(10)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 955833207
+								TargetFieldId -16752632
+								ShouldNetworkValue False
+							member(11)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 955833207
+								TargetFieldId -16744440
+								ShouldNetworkValue False
+							member(12)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 955833207
+								TargetFieldId -16736248
+								ShouldNetworkValue False
+							member(13)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 955833207
+								TargetFieldId -16777204
+								ShouldNetworkValue False
+							member(14)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 955833207
+								TargetFieldId -16769012
+								ShouldNetworkValue False
+							member(15)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 955833207
+								TargetFieldId -16760820
+								ShouldNetworkValue False
+							member(16)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 955833207
+								TargetFieldId -16752628
+								ShouldNetworkValue False
+							member(17)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 955833207
+								TargetFieldId -16744436
+								ShouldNetworkValue False
+							member(18)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 955833207
+								TargetFieldId -16736244
+								ShouldNetworkValue False
+							member(19)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 955833207
+								TargetFieldId -16728052
+								ShouldNetworkValue False
+							member(20)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 955833207
+								TargetFieldId -16719860
+								ShouldNetworkValue False
+							member(21)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 955833207
+								TargetFieldId -16711668
+								ShouldNetworkValue False
+							member(22)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 955833207
+								TargetFieldId -16703476
+								ShouldNetworkValue False
+							member(23)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 955833207
+								TargetFieldId -16695284
+								ShouldNetworkValue False
+							member(24)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 955833207
+								TargetFieldId -16687092
+								ShouldNetworkValue False
+							member(25)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 955833207
+								TargetFieldId -16678900
+								ShouldNetworkValue False
+							member(26)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 955833207
+								TargetFieldId -16670708
+								ShouldNetworkValue False
+							member(27)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 955833207
+								TargetFieldId -16662516
+								ShouldNetworkValue False
+							member(28)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 955833207
+								TargetFieldId -16654324
+								ShouldNetworkValue False
+							member(29)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 1001
+								TargetFieldId -16777200
+								ShouldNetworkValue False
+							member(30)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 1001
+								TargetFieldId -16777188
+								ShouldNetworkValue False
+							member(31)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 1001
+								TargetFieldId -16768996
+								ShouldNetworkValue False
+							member(32)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 1001
+								TargetFieldId -16760804
+								ShouldNetworkValue False
+							member(33)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 1001
+								TargetFieldId -16752612
+								ShouldNetworkValue False
+							member(34)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 1001
+								TargetFieldId -16777048
+								ShouldNetworkValue False
+							member(35)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 1001
+								TargetFieldId -16777044
+								ShouldNetworkValue False
+							member(36)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 1001
+								TargetFieldId -16777036
+								ShouldNetworkValue False
+							member(37)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 1001
+								TargetFieldId -16768844
+								ShouldNetworkValue False
+							member(38)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 1001
+								TargetFieldId -16760652
+								ShouldNetworkValue False
+							member(39)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 1001
+								TargetFieldId -16752460
+								ShouldNetworkValue False
+							member(40)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 1001
+								TargetFieldId -16744268
+								ShouldNetworkValue False
+							member(41)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 1001
+								TargetFieldId -16736076
+								ShouldNetworkValue False
+							member(42)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 1001
+								TargetFieldId -16727884
+								ShouldNetworkValue False
+							member(43)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 1001
+								TargetFieldId -16719692
+								ShouldNetworkValue False
+							member(44)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 1001
+								TargetFieldId -16777028
+								ShouldNetworkValue False
+							member(45)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 1001
+								TargetFieldId -16768836
+								ShouldNetworkValue False
+							member(46)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 1001
+								TargetFieldId -16777020
+								ShouldNetworkValue False
+							member(47)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 1001
+								TargetFieldId -16768828
+								ShouldNetworkValue False
+							member(48)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 1001
+								TargetFieldId -16760636
+								ShouldNetworkValue False
+							member(49)::PropertyConnection
+								Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+								Target Instance2
+								SourceFieldId 1001
+								TargetFieldId -16752444
+								ShouldNetworkValue False
+						LinkConnections *nullArray*
+						Interface Instance16
+						Flags 3
+					EventConnections::array
+						member(0)::EventConnection
+							Source Instance16
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -1242628357
+							TargetEvent::EventSpec
+								Id -1242628357
+							TargetType EventConnectionTargetType_NetworkedClientAndServer
+						member(1)::EventConnection
+							Source Instance16
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -800532665
+							TargetEvent::EventSpec
+								Id -1242628357
+							TargetType EventConnectionTargetType_NetworkedClientAndServer
+						member(2)::EventConnection
+							Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							Target Instance16
+							SourceEvent::EventSpec
+								Id 1491172248
+							TargetEvent::EventSpec
+								Id 1491172248
+							TargetType EventConnectionTargetType_Server
+						member(3)::EventConnection
+							Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							Target Instance16
+							SourceEvent::EventSpec
+								Id -1232897795
+							TargetEvent::EventSpec
+								Id -1232897795
+							TargetType EventConnectionTargetType_Server
+						member(4)::EventConnection
+							Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							Target Instance16
+							SourceEvent::EventSpec
+								Id 1422578556
+							TargetEvent::EventSpec
+								Id 1422578556
+							TargetType EventConnectionTargetType_Server
+						member(5)::EventConnection
+							Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							Target Instance16
+							SourceEvent::EventSpec
+								Id -1208985144
+							TargetEvent::EventSpec
+								Id -1208985144
+							TargetType EventConnectionTargetType_Server
+						member(6)::EventConnection
+							Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							Target Instance16
+							SourceEvent::EventSpec
+								Id 123310251
+							TargetEvent::EventSpec
+								Id -1572973313
+							TargetType EventConnectionTargetType_Server
+						member(7)::EventConnection
+							Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							Target Instance16
+							SourceEvent::EventSpec
+								Id 1178226501
+							TargetEvent::EventSpec
+								Id 1178226501
+							TargetType EventConnectionTargetType_Server
+						member(8)::EventConnection
+							Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							Target Levels/MP/MP_Siege/LevolutionGen3/9baabf91-da38-4bec-83f9-9acc69e62328
+							SourceEvent::EventSpec
+								Id 1422578556
+							TargetEvent::EventSpec
+								Id 668205626
+							TargetType EventConnectionTargetType_Server
+						member(9)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16777188
+							TargetEvent::EventSpec
+								Id 1000
+							TargetType EventConnectionTargetType_Server
+						member(10)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16777188
+							TargetEvent::EventSpec
+								Id 1002
+							TargetType EventConnectionTargetType_Client
+						member(11)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16777188
+							TargetEvent::EventSpec
+								Id 1003
+							TargetType EventConnectionTargetType_Server
+						member(12)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16777188
+							TargetEvent::EventSpec
+								Id 1005
+							TargetType EventConnectionTargetType_Server
+						member(13)::EventConnection
+							Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							Target Instance2
+							SourceEvent::EventSpec
+								Id 1001
+							TargetEvent::EventSpec
+								Id -16777188
+							TargetType EventConnectionTargetType_Server
+						member(14)::EventConnection
+							Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							Target Instance2
+							SourceEvent::EventSpec
+								Id 1004
+							TargetEvent::EventSpec
+								Id -16777188
+							TargetType EventConnectionTargetType_Server
+						member(15)::EventConnection
+							Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							Target Instance2
+							SourceEvent::EventSpec
+								Id 1006
+							TargetEvent::EventSpec
+								Id -16760653
+							TargetType EventConnectionTargetType_Server
+						member(16)::EventConnection
+							Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							Target Instance2
+							SourceEvent::EventSpec
+								Id 1007
+							TargetEvent::EventSpec
+								Id -16777037
+							TargetType EventConnectionTargetType_Server
+						member(17)::EventConnection
+							Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							Target Instance2
+							SourceEvent::EventSpec
+								Id 1008
+							TargetEvent::EventSpec
+								Id -16768845
+							TargetType EventConnectionTargetType_Server
+						member(18)::EventConnection
+							Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							Target Instance2
+							SourceEvent::EventSpec
+								Id 1001
+							TargetEvent::EventSpec
+								Id -16768996
+							TargetType EventConnectionTargetType_Server
+						member(19)::EventConnection
+							Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							Target Instance2
+							SourceEvent::EventSpec
+								Id 1004
+							TargetEvent::EventSpec
+								Id -16768996
+							TargetType EventConnectionTargetType_Server
+						member(20)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16768996
+							TargetEvent::EventSpec
+								Id 1000
+							TargetType EventConnectionTargetType_Server
+						member(21)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16768996
+							TargetEvent::EventSpec
+								Id 1003
+							TargetType EventConnectionTargetType_Server
+						member(22)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16768996
+							TargetEvent::EventSpec
+								Id 1005
+							TargetType EventConnectionTargetType_Server
+						member(23)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16768996
+							TargetEvent::EventSpec
+								Id 1002
+							TargetType EventConnectionTargetType_Client
+						member(24)::EventConnection
+							Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							Target Instance2
+							SourceEvent::EventSpec
+								Id 1001
+							TargetEvent::EventSpec
+								Id -16760804
+							TargetType EventConnectionTargetType_Server
+						member(25)::EventConnection
+							Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							Target Instance2
+							SourceEvent::EventSpec
+								Id 1004
+							TargetEvent::EventSpec
+								Id -16760804
+							TargetType EventConnectionTargetType_Server
+						member(26)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16760804
+							TargetEvent::EventSpec
+								Id 1002
+							TargetType EventConnectionTargetType_Client
+						member(27)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16760804
+							TargetEvent::EventSpec
+								Id 1005
+							TargetType EventConnectionTargetType_Server
+						member(28)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16760804
+							TargetEvent::EventSpec
+								Id 1003
+							TargetType EventConnectionTargetType_Server
+						member(29)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16760804
+							TargetEvent::EventSpec
+								Id 1000
+							TargetType EventConnectionTargetType_Server
+						member(30)::EventConnection
+							Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							Target Instance2
+							SourceEvent::EventSpec
+								Id 1001
+							TargetEvent::EventSpec
+								Id -16752612
+							TargetType EventConnectionTargetType_Server
+						member(31)::EventConnection
+							Source Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							Target Instance2
+							SourceEvent::EventSpec
+								Id 1004
+							TargetEvent::EventSpec
+								Id -16752612
+							TargetType EventConnectionTargetType_Server
+						member(32)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16752612
+							TargetEvent::EventSpec
+								Id 1000
+							TargetType EventConnectionTargetType_Server
+						member(33)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16752612
+							TargetEvent::EventSpec
+								Id 1003
+							TargetType EventConnectionTargetType_Server
+						member(34)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16752612
+							TargetEvent::EventSpec
+								Id 1005
+							TargetType EventConnectionTargetType_Server
+						member(35)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16752612
+							TargetEvent::EventSpec
+								Id 1002
+							TargetType EventConnectionTargetType_Client
+						member(36)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16777036
+							TargetEvent::EventSpec
+								Id 1000
+							TargetType EventConnectionTargetType_Server
+						member(37)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16777036
+							TargetEvent::EventSpec
+								Id 1003
+							TargetType EventConnectionTargetType_Server
+						member(38)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16777036
+							TargetEvent::EventSpec
+								Id 1005
+							TargetType EventConnectionTargetType_Server
+						member(39)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16777036
+							TargetEvent::EventSpec
+								Id 1002
+							TargetType EventConnectionTargetType_Client
+						member(40)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16768844
+							TargetEvent::EventSpec
+								Id 1000
+							TargetType EventConnectionTargetType_Server
+						member(41)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16768844
+							TargetEvent::EventSpec
+								Id 1003
+							TargetType EventConnectionTargetType_Server
+						member(42)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16768844
+							TargetEvent::EventSpec
+								Id 1005
+							TargetType EventConnectionTargetType_Server
+						member(43)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16768844
+							TargetEvent::EventSpec
+								Id 1002
+							TargetType EventConnectionTargetType_Client
+						member(44)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16760652
+							TargetEvent::EventSpec
+								Id 1000
+							TargetType EventConnectionTargetType_Server
+						member(45)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16760652
+							TargetEvent::EventSpec
+								Id 1003
+							TargetType EventConnectionTargetType_Server
+						member(46)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16760652
+							TargetEvent::EventSpec
+								Id 1005
+							TargetType EventConnectionTargetType_Server
+						member(47)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16760652
+							TargetEvent::EventSpec
+								Id 1002
+							TargetType EventConnectionTargetType_Client
+						member(48)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16752460
+							TargetEvent::EventSpec
+								Id 1000
+							TargetType EventConnectionTargetType_Server
+						member(49)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16752460
+							TargetEvent::EventSpec
+								Id 1003
+							TargetType EventConnectionTargetType_Server
+						member(50)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16752460
+							TargetEvent::EventSpec
+								Id 1005
+							TargetType EventConnectionTargetType_Server
+						member(51)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16752460
+							TargetEvent::EventSpec
+								Id 1002
+							TargetType EventConnectionTargetType_Client
+						member(52)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16744268
+							TargetEvent::EventSpec
+								Id 1000
+							TargetType EventConnectionTargetType_Server
+						member(53)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16744268
+							TargetEvent::EventSpec
+								Id 1003
+							TargetType EventConnectionTargetType_Server
+						member(54)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16744268
+							TargetEvent::EventSpec
+								Id 1005
+							TargetType EventConnectionTargetType_Server
+						member(55)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16744268
+							TargetEvent::EventSpec
+								Id 1002
+							TargetType EventConnectionTargetType_Client
+						member(56)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16736076
+							TargetEvent::EventSpec
+								Id 1000
+							TargetType EventConnectionTargetType_Server
+						member(57)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16736076
+							TargetEvent::EventSpec
+								Id 1003
+							TargetType EventConnectionTargetType_Server
+						member(58)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16736076
+							TargetEvent::EventSpec
+								Id 1005
+							TargetType EventConnectionTargetType_Server
+						member(59)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16736076
+							TargetEvent::EventSpec
+								Id 1002
+							TargetType EventConnectionTargetType_Client
+						member(60)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16727884
+							TargetEvent::EventSpec
+								Id 1000
+							TargetType EventConnectionTargetType_Server
+						member(61)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16727884
+							TargetEvent::EventSpec
+								Id 1003
+							TargetType EventConnectionTargetType_Server
+						member(62)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16727884
+							TargetEvent::EventSpec
+								Id 1005
+							TargetType EventConnectionTargetType_Server
+						member(63)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16727884
+							TargetEvent::EventSpec
+								Id 1002
+							TargetType EventConnectionTargetType_Client
+						member(64)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16719692
+							TargetEvent::EventSpec
+								Id 1000
+							TargetType EventConnectionTargetType_Server
+						member(65)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16719692
+							TargetEvent::EventSpec
+								Id 1003
+							TargetType EventConnectionTargetType_Server
+						member(66)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16719692
+							TargetEvent::EventSpec
+								Id 1005
+							TargetType EventConnectionTargetType_Server
+						member(67)::EventConnection
+							Source Instance2
+							Target Levels/MP/MP_Siege/Base4_Gen3/79d06682-11a5-4ab6-a35e-1331645caa38
+							SourceEvent::EventSpec
+								Id -16719692
+							TargetEvent::EventSpec
+								Id 1002
+							TargetType EventConnectionTargetType_Client
+			Objects::array
+				member(0) Instance13
+				member(1) Instance12
+				member(2) Instance15
+				member(3) Instance17
+				member(4) Instance8
+				member(5) Instance9
+				member(6) Instance5
+				member(7) Instance6
+				member(8) Instance11
+				member(9) Instance7
+				member(10) Instance10
+				member(11) Instance2
+	RuntimeMaterialGrid *nullGuid*
+	IsWin32SubLevel False
+	IsXenonSubLevel True
+	IsPs3SubLevel True
+	IsGen4aSubLevel False
+	IsGen4bSubLevel False
+	RememberStateOnStreamOut False
+PhysicsEntityData Instance0
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 0
+	Asset Instance14
+	InertiaModifier::Vec3
+		x 1.0
+		y 1.0
+		z 1.0
+	RigidBodies::array
+		member(0) Instance1
+	FloatPhysics *nullGuid*
+	Mass -1.0
+	Friction -1.0
+	Restitution -1.0
+	AngularVelocityDamping -1.0
+	LinearVelocityDamping -1.0
+	Proximity *nullGuid*
+	Constraints *nullArray*
+	MovableParts False
+	IsComposite False
+RigidBodyData Instance1
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 0
+	RigidBodyType RBTypeGroup
+	InertiaModifier::Vec3
+		x 1.0
+		y 1.0
+		z 1.0
+	Transform::LinearTransform
+		right::Vec3
+			x 1.0
+			y 0.0
+			z 0.0
+		up::Vec3
+			x 0.0
+			y 1.0
+			z 0.0
+		forward::Vec3
+			x 0.0
+			y 0.0
+			z 1.0
+		trans::Vec3
+			x 0.0
+			y 0.0
+			z 0.0
+	KeyframeTransform::LinearTransform
+		right::Vec3
+			x 1.0
+			y 0.0
+			z 0.0
+		up::Vec3
+			x 0.0
+			y 1.0
+			z 0.0
+		forward::Vec3
+			x 0.0
+			y 0.0
+			z 1.0
+		trans::Vec3
+			x 0.0
+			y 0.0
+			z 0.0
+	Mass 0.0
+	Friction 0.5
+	Restitution 0.4000000059604645
+	AngularVelocityDamping -1.0
+	LinearVelocityDamping -1.0
+	InteractionToolkitCollisionVolumeId 0
+	MotionType RigidBodyMotionType_Invalid
+	QualityType RigidBodyQualityType_Invalid
+	CollisionLayer RigidBodyCollisionLayer_Invalid
+	PartIndices *nullArray*
+	FloatPhysics *nullGuid*
+	IsRootController True
+StaticModelGroupEntityData Instance2
+	$::GamePhysicsEntityData
+		$::GameComponentEntityData
+			$::ComponentEntityData
+				$::SpatialEntityData
+					$::EntityData
+						$::GameObjectData
+							$::DataBusPeer
+								$::GameDataContainer
+									$::DataContainer
+								Flags 486061829
+					Transform::LinearTransform
+						right::Vec3
+							x 1.0
+							y 0.0
+							z 0.0
+						up::Vec3
+							x 0.0
+							y 1.0
+							z 0.0
+						forward::Vec3
+							x 0.0
+							y 0.0
+							z 1.0
+						trans::Vec3
+							x 0.0
+							y 0.0
+							z 0.0
+				Components::array
+					member(0) Instance4
+					member(1) Instance3
+				ClientRuntimeComponentCount 2
+				ServerRuntimeComponentCount 2
+				ClientRuntimeTransformationCount 0
+				ServerRuntimeTransformationCount 0
+			Enabled True
+		PhysicsData Instance0
+	MemberDatas::array
+		member(0)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection::array
+				member(0) False
+				member(1) False
+				member(2) False
+				member(3) False
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/BenchModern_01/BenchModern_01_Reflections/84a77e01-41f8-4d49-b50f-1b146db28ccd
+			MeshAsset objects/props/benchmodern_01/benchmodern_01_reflections_Mesh/b40a9320-e143-42de-8d12-364193c5a684
+			InstanceCount 4
+			HealthStateEntityManagerId 0
+			PhysicsPartRange::IndexRange
+				First 0
+				Last 27
+			PhysicsPartCountPerInstance 7
+			NetworkIdRange::IndexRange
+				First 0
+				Last 27
+			NetworkIdCountPerInstance 7
+			PartComponentCount 7
+		member(1)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation::array
+				member(0) 3908962166
+				member(1) 3908962166
+				member(2) 1096050282
+				member(3) 1096050282
+				member(4) 1096050282
+				member(5) 1096050282
+				member(6) 1096050282
+				member(7) 1096050282
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/VideoWall_01/VideoWall_01/a58f2c06-2985-11e2-b226-d3b27c6be98e
+			MeshAsset objects/props/videowall_01/videowall_01_Mesh/7dabcc95-bb0c-dce5-d725-52510a68331d
+			InstanceCount 8
+			HealthStateEntityManagerId 1
+			PhysicsPartRange::IndexRange
+				First 28
+				Last 51
+			PhysicsPartCountPerInstance 3
+			NetworkIdRange::IndexRange
+				First 28
+				Last 51
+			NetworkIdCountPerInstance 3
+			PartComponentCount 2
+		member(2)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Lights/SpotlightCircular_01/SpotLightCircular_01/25bd6924-f284-11e1-9f6f-a6fbc051fadc
+			MeshAsset objects/lights/spotlightcircular_01/spotlightcircular_01_Mesh/88f75ec1-88de-1f87-5dbd-f3f876c3c14f
+			InstanceCount 16
+			HealthStateEntityManagerId 2
+			PhysicsPartRange::IndexRange
+				First 52
+				Last 83
+			PhysicsPartCountPerInstance 2
+			NetworkIdRange::IndexRange
+				First 52
+				Last 83
+			NetworkIdCountPerInstance 2
+			PartComponentCount 1
+		member(3)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Levels/MP/MP_Siege/Architecture/MP_Siege_Skyscraper_01/MP_Siege_SkyScraper_01_Entrance_Windows/3acd2833-7533-11e2-a8c9-d785b2742436
+			MeshAsset levels/mp/mp_siege/architecture/mp_siege_skyscraper_01/mp_siege_skyscraper_01_entrance_windows_Mesh/4acfbb89-99a8-3185-b870-49cef19e93bd
+			InstanceCount 1
+			HealthStateEntityManagerId 3
+			PhysicsPartRange::IndexRange
+				First 84
+				Last 117
+			PhysicsPartCountPerInstance 34
+			NetworkIdRange::IndexRange
+				First 84
+				Last 117
+			NetworkIdCountPerInstance 34
+			PartComponentCount 34
+		member(4)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation::array
+				member(0) 1782716902
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Architecture/MP_Siege_Plaza_01/MP_Siege_Plaza_Corner_01/0ddcd344-3c9f-11e2-baf8-e5bc44dca21e
+			MeshAsset objects/architecture/mp_siege_plaza_01/mp_siege_plaza_corner_01_Mesh/6ebfe44e-f380-482c-4690-d698db034409
+			InstanceCount 1
+			HealthStateEntityManagerId 4
+			PhysicsPartRange::IndexRange
+				First 118
+				Last 118
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(5)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation::array
+				member(0) 3042095646
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Architecture/Skyscraper_Waterfront_02/Skyscraper_Waterfront_02/beab6e51-022c-4388-8bc2-eb2f736370dc
+			MeshAsset objects/architecture/skyscraper_waterfront_02/skyscraper_waterfront_02_Mesh/2ce56311-3e71-d64a-ec3c-aef2cb9a5967
+			InstanceCount 1
+			HealthStateEntityManagerId 5
+			PhysicsPartRange::IndexRange
+				First 119
+				Last 119
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(6)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Levels/MP/MP_Siege/Architecture/MP_Siege_Skyscraper_01/MP_Siege_SkyScraper_01_Pillar_Destruction/f1318a51-9e42-f5ea-4ddd-c0154ce4383b
+			MeshAsset levels/mp/mp_siege/architecture/mp_siege_skyscraper_01/mp_siege_skyscraper_01_pillar_destruction_Mesh/2883830f-418e-7cc5-2c51-d25f91b879c9
+			InstanceCount 4
+			HealthStateEntityManagerId 6
+			PhysicsPartRange::IndexRange
+				First 120
+				Last 131
+			PhysicsPartCountPerInstance 3
+			NetworkIdRange::IndexRange
+				First 118
+				Last 125
+			NetworkIdCountPerInstance 2
+			PartComponentCount 1
+		member(7)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation::array
+				member(0) 455156139
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/VideoScreen_Arcade_01/VideoScreen_Arcade_01/75149a51-8e7f-df95-8760-9b7f3d05ddc9
+			MeshAsset objects/props/videoscreen_arcade_01/videoscreen_arcade_01_Mesh/e17cdb5b-6b6d-93a8-e265-f6f83023a20e
+			InstanceCount 1
+			HealthStateEntityManagerId 7
+			PhysicsPartRange::IndexRange
+				First 132
+				Last 148
+			PhysicsPartCountPerInstance 17
+			NetworkIdRange::IndexRange
+				First 126
+				Last 133
+			NetworkIdCountPerInstance 8
+			PartComponentCount 9
+		member(8)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_Base_04_Sidewalk_Part_A/dc72c151-f0a3-ef67-512a-a22b9e0e1877
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_base_04_sidewalk_part_a_Mesh/570c78aa-070e-edc6-89f3-1e975a82e586
+			InstanceCount 1
+			HealthStateEntityManagerId 8
+			PhysicsPartRange::IndexRange
+				First 149
+				Last 149
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(9)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_Base_04_Sidewalk_Part_B/cb90c151-f0a3-036b-512a-a22b9e0e1877
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_base_04_sidewalk_part_b_Mesh/561ee1f6-6320-6bdd-019a-f11eb5a2070c
+			InstanceCount 1
+			HealthStateEntityManagerId 9
+			PhysicsPartRange::IndexRange
+				First 150
+				Last 150
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(10)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_Base_04_Sidewalk_Part_C/3791c151-f0a3-146e-512a-a22b9e0e1877
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_base_04_sidewalk_part_c_Mesh/9e901ec2-dc8e-4c25-4dd6-684364065a8e
+			InstanceCount 1
+			HealthStateEntityManagerId 10
+			PhysicsPartRange::IndexRange
+				First 151
+				Last 151
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(11)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_Base_04_Sidewalk_Part_D/0e93c151-f0a3-4b71-512a-a22b9e0e1877
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_base_04_sidewalk_part_d_Mesh/8904b4b2-6515-ed43-00ca-589a75034d67
+			InstanceCount 1
+			HealthStateEntityManagerId 11
+			PhysicsPartRange::IndexRange
+				First 152
+				Last 152
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(12)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_Base_04_Sidewalk_Part_E/8993c151-f0a3-f675-512a-a22b9e0e1877
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_base_04_sidewalk_part_e_Mesh/a810085e-0fa2-5a75-622c-4b574c28cc8f
+			InstanceCount 1
+			HealthStateEntityManagerId 12
+			PhysicsPartRange::IndexRange
+				First 153
+				Last 153
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(13)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_Base_04_Sidewalk_Part_F/b193c151-f0a3-c478-512a-a22b9e0e1877
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_base_04_sidewalk_part_f_Mesh/19638b34-1180-d0ce-9975-61eed12ecd6c
+			InstanceCount 1
+			HealthStateEntityManagerId 13
+			PhysicsPartRange::IndexRange
+				First 154
+				Last 154
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(14)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_Base_04_Sidewalk_Part_G/d493c151-f0a3-917b-512a-a22b9e0e1877
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_base_04_sidewalk_part_g_Mesh/e8ab1e8a-692b-5bf0-42f3-57bf75abb297
+			InstanceCount 1
+			HealthStateEntityManagerId 14
+			PhysicsPartRange::IndexRange
+				First 155
+				Last 155
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(15)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_Base_04_Sidewalk_Part_H/f593c151-f0a3-5b7e-512a-a22b9e0e1877
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_base_04_sidewalk_part_h_Mesh/4a7159cd-f9bd-dbee-b0e1-219aa392e725
+			InstanceCount 1
+			HealthStateEntityManagerId 15
+			PhysicsPartRange::IndexRange
+				First 156
+				Last 156
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(16)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_Base_02_Sidewalk_Part_A/569bc951-319c-b9b3-f725-e7829432ba53
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_base_02_sidewalk_part_a_Mesh/685a1f82-3e30-adb4-63f7-bb7704e9a854
+			InstanceCount 1
+			HealthStateEntityManagerId 16
+			PhysicsPartRange::IndexRange
+				First 157
+				Last 157
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(17)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_Base_02_Sidewalk_Part_B/b89dc951-319c-1dd3-f725-e7829432ba53
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_base_02_sidewalk_part_b_Mesh/2d8f6377-19ce-7f13-1f65-2f4512a0803d
+			InstanceCount 1
+			HealthStateEntityManagerId 17
+			PhysicsPartRange::IndexRange
+				First 158
+				Last 158
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(18)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_Base_02_Sidewalk_Part_C/149ec951-319c-1bda-f725-e7829432ba53
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_base_02_sidewalk_part_c_Mesh/19fe2b75-3e4d-5448-7f10-b5f2769c26eb
+			InstanceCount 1
+			HealthStateEntityManagerId 18
+			PhysicsPartRange::IndexRange
+				First 159
+				Last 159
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(19)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_Base_02_Sidewalk_Part_D/389ec951-319c-ebe0-f725-e7829432ba53
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_base_02_sidewalk_part_d_Mesh/63abd9f5-d1bf-5d35-723a-cbfd1ad399bc
+			InstanceCount 1
+			HealthStateEntityManagerId 19
+			PhysicsPartRange::IndexRange
+				First 160
+				Last 160
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(20)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_Base_02_Sidewalk_Part_E/569ec951-319c-bde7-f725-e7829432ba53
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_base_02_sidewalk_part_e_Mesh/98f8e16e-7b1b-4369-62b4-83f50282f1a2
+			InstanceCount 1
+			HealthStateEntityManagerId 20
+			PhysicsPartRange::IndexRange
+				First 161
+				Last 161
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(21)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_Base_02_Sidewalk_Part_F/119fc951-319c-ebee-f725-e7829432ba53
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_base_02_sidewalk_part_f_Mesh/ea4baa13-6b67-43b3-6a40-1f1558a373ad
+			InstanceCount 1
+			HealthStateEntityManagerId 21
+			PhysicsPartRange::IndexRange
+				First 162
+				Last 162
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(22)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_Base_02_Sidewalk_Part_G/929fc951-319c-ddf5-f725-e7829432ba53
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_base_02_sidewalk_part_g_Mesh/9d77e3fe-651e-b844-241a-c0cbc8a8e867
+			InstanceCount 1
+			HealthStateEntityManagerId 22
+			PhysicsPartRange::IndexRange
+				First 163
+				Last 163
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(23)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_Base_02_Sidewalk_Part_H/cc9fc951-319c-d1fc-f725-e7829432ba53
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_base_02_sidewalk_part_h_Mesh/43e3af60-dfde-8901-b24d-31983f1fb2ad
+			InstanceCount 1
+			HealthStateEntityManagerId 23
+			PhysicsPartRange::IndexRange
+				First 164
+				Last 164
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(24)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_HomeBase_CH_Sidewalk_Part_A/8f4fd151-c350-48b0-a4e0-1d25b68def42
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_homebase_ch_sidewalk_part_a_Mesh/e133926b-ef61-de14-3990-7102f796ee3d
+			InstanceCount 1
+			HealthStateEntityManagerId 24
+			PhysicsPartRange::IndexRange
+				First 165
+				Last 165
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(25)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_HomeBase_CH_Sidewalk_Part_B/d94fd151-c350-9abd-a4e0-1d25b68def42
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_homebase_ch_sidewalk_part_b_Mesh/d93f5ab7-f82a-268b-82ef-753b18c1be62
+			InstanceCount 1
+			HealthStateEntityManagerId 25
+			PhysicsPartRange::IndexRange
+				First 166
+				Last 166
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(26)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_HomeBase_CH_Sidewalk_Part_C/0450d151-c350-bdca-a4e0-1d25b68def42
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_homebase_ch_sidewalk_part_c_Mesh/f951b9dd-f014-47e0-b1f3-ad4cacf6eed0
+			InstanceCount 1
+			HealthStateEntityManagerId 26
+			PhysicsPartRange::IndexRange
+				First 167
+				Last 167
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(27)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_HomeBase_CH_Sidewalk_Part_D/2b50d151-c350-e1d7-a4e0-1d25b68def42
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_homebase_ch_sidewalk_part_d_Mesh/a1d1e42c-61a5-3bcd-6cf8-7daeef9a7c93
+			InstanceCount 1
+			HealthStateEntityManagerId 27
+			PhysicsPartRange::IndexRange
+				First 168
+				Last 168
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(28)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_HomeBase_CH_Sidewalk_Part_E/5950d151-c350-04e5-a4e0-1d25b68def42
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_homebase_ch_sidewalk_part_e_Mesh/48516efd-9db6-bd4b-481b-939577a3fa8b
+			InstanceCount 1
+			HealthStateEntityManagerId 28
+			PhysicsPartRange::IndexRange
+				First 169
+				Last 169
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(29)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_HomeBase_CH_Sidewalk_Part_F/7750d151-c350-26f2-a4e0-1d25b68def42
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_homebase_ch_sidewalk_part_f_Mesh/ec19e6ca-5714-f407-c8cd-9fa5d70a69ec
+			InstanceCount 1
+			HealthStateEntityManagerId 29
+			PhysicsPartRange::IndexRange
+				First 170
+				Last 170
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(30)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_HomeBase_CH_Sidewalk_Part_G/9950d151-c350-48ff-a4e0-1d25b68def42
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_homebase_ch_sidewalk_part_g_Mesh/59326e1e-f048-8afc-4d3d-4428b8d801dd
+			InstanceCount 1
+			HealthStateEntityManagerId 30
+			PhysicsPartRange::IndexRange
+				First 171
+				Last 171
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(31)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_HomeBase_CH_Sidewalk_Part_H/ff50d151-c450-6b0c-a4e0-1d25b68def42
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_homebase_ch_sidewalk_part_h_Mesh/91885458-5ced-902f-e2fa-e65996c9b236
+			InstanceCount 1
+			HealthStateEntityManagerId 31
+			PhysicsPartRange::IndexRange
+				First 172
+				Last 172
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(32)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_Base_03_SideWalk_B_Part_A/5436d451-16be-8025-232b-8f4475d553d9
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_base_03_sidewalk_b_part_a_Mesh/0d75b490-69e7-467f-411e-6823efc0ac32
+			InstanceCount 1
+			HealthStateEntityManagerId 32
+			PhysicsPartRange::IndexRange
+				First 173
+				Last 173
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(33)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_Base_03_SideWalk_B_Part_B/544ed451-16be-8d36-232b-8f4475d553d9
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_base_03_sidewalk_b_part_b_Mesh/9c1390be-4edf-38c8-250b-0a4ed7c8d0a4
+			InstanceCount 1
+			HealthStateEntityManagerId 33
+			PhysicsPartRange::IndexRange
+				First 174
+				Last 174
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(34)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_Base_03_SideWalk_B_Part_C/bb5bd451-16be-0649-232b-8f4475d553d9
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_base_03_sidewalk_b_part_c_Mesh/b85de10b-e9cb-cfd2-406d-03484f5e52f9
+			InstanceCount 1
+			HealthStateEntityManagerId 34
+			PhysicsPartRange::IndexRange
+				First 175
+				Last 175
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(35)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_Base_03_SideWalk_B_Part_D/5038d551-16be-d961-232b-8f4475d553d9
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_base_03_sidewalk_b_part_d_Mesh/56475536-8a26-2b64-54f4-e056ab9f1231
+			InstanceCount 1
+			HealthStateEntityManagerId 35
+			PhysicsPartRange::IndexRange
+				First 176
+				Last 176
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(36)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_Base_03_SideWalk_B_Part_E/783ed551-16be-9f7c-232b-8f4475d553d9
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_base_03_sidewalk_b_part_e_Mesh/3b8c885c-b9b2-91e3-bdf9-c0bba463ab6b
+			InstanceCount 1
+			HealthStateEntityManagerId 36
+			PhysicsPartRange::IndexRange
+				First 177
+				Last 177
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(37)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_Base_03_SideWalk_B_Part_F/0b45d551-16be-9992-232b-8f4475d553d9
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_base_03_sidewalk_b_part_f_Mesh/36297554-3214-6524-7e35-e65db7c0fda1
+			InstanceCount 1
+			HealthStateEntityManagerId 37
+			PhysicsPartRange::IndexRange
+				First 178
+				Last 178
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(38)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_Base_03_SideWalk_B_Part_G/5248d551-16be-a6a9-232b-8f4475d553d9
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_base_03_sidewalk_b_part_g_Mesh/4516ffd1-44fc-a961-4d41-3e93098800b5
+			InstanceCount 1
+			HealthStateEntityManagerId 38
+			PhysicsPartRange::IndexRange
+				First 179
+				Last 179
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(39)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_Base_03_SideWalk_B_Part_H/274cd551-16be-18bd-232b-8f4475d553d9
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_base_03_sidewalk_b_part_h_Mesh/619d17cc-374b-51e3-0ede-4f3dc4f1c426
+			InstanceCount 1
+			HealthStateEntityManagerId 39
+			PhysicsPartRange::IndexRange
+				First 180
+				Last 180
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(40)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/WaterLandscaping_01/WL_MP_Siege/WL_MP_Siege_Base_03_SideWalk_B_Part_I/fd4cd551-16be-30c7-232b-8f4475d553d9
+			MeshAsset objects/props/waterlandscaping_01/wl_mp_siege/wl_mp_siege_base_03_sidewalk_b_part_i_Mesh/50349171-0eba-fd99-95d3-82b75ac6f076
+			InstanceCount 1
+			HealthStateEntityManagerId 40
+			PhysicsPartRange::IndexRange
+				First 181
+				Last 181
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(41)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/StatueSiege_01/StatueSiege_01_Destruction/273b1e52-2991-761e-7fde-fd3258d56cf7
+			MeshAsset objects/props/statuesiege_01/statuesiege_01_destruction_Mesh/31bfaf51-8ac3-d98a-ee9a-65ee9d8f3f48
+			InstanceCount 1
+			HealthStateEntityManagerId 41
+			PhysicsPartRange::IndexRange
+				First 182
+				Last 203
+			PhysicsPartCountPerInstance 22
+			NetworkIdRange::IndexRange
+				First 134
+				Last 153
+			NetworkIdCountPerInstance 20
+			PartComponentCount 21
+		member(42)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Levels/MP/MP_Siege/Architecture/MP_Siege_Skyscraper_01/MP_siege_SkyScraper_WindowBoard_01/b9f26952-8001-11e2-acef-f98a50fba477
+			MeshAsset levels/mp/mp_siege/architecture/mp_siege_skyscraper_01/mp_siege_skyscraper_windowboard_01_Mesh/729ff8c6-4fe6-fbe9-a8de-fc14680c82a8
+			InstanceCount 1
+			HealthStateEntityManagerId 42
+			PhysicsPartRange::IndexRange
+				First 204
+				Last 204
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(43)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/Sprinkler_01/Sprinkler_01/d2f39859-0bca-11e2-a402-b933ba0026ca
+			MeshAsset objects/props/sprinkler_01/sprinkler_01_Mesh/eb490bb0-e964-88e9-ace4-75d6e2ae3b09
+			InstanceCount 3
+			HealthStateEntityManagerId 43
+			PhysicsPartRange::IndexRange
+				First 205
+				Last 207
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 154
+				Last 156
+			NetworkIdCountPerInstance 1
+			PartComponentCount 1
+		member(44)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Levels/MP/MP_Siege/Architecture/MP_Siege_Skyscraper_01/MP_Siege_SkyScraper_01_Pillar/fed818a4-4500-11e2-b882-8dd810bb1133
+			MeshAsset levels/mp/mp_siege/architecture/mp_siege_skyscraper_01/mp_siege_skyscraper_01_pillar_Mesh/b769036b-9057-4600-694c-f4fdad872221
+			InstanceCount 8
+			HealthStateEntityManagerId 44
+			PhysicsPartRange::IndexRange
+				First 208
+				Last 215
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(45)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Levels/MP/MP_Siege/Architecture/MP_Siege_Skyscraper_01/MP_Siege_SkyScraper_01_Entrance/6da0f0bd-447f-11e2-990a-ed59bb6d5429
+			MeshAsset levels/mp/mp_siege/architecture/mp_siege_skyscraper_01/mp_siege_skyscraper_01_entrance_Mesh/1553d6ad-dec1-edef-1104-b6cd69766281
+			InstanceCount 1
+			HealthStateEntityManagerId 45
+			PhysicsPartRange::IndexRange
+				First 216
+				Last 216
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(46)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Levels/MP/MP_Siege/Architecture/MP_Siege_Skyscraper_01/SkyscraperAwning_01/4aee6ec6-49e3-11e2-87a1-a9977f582721
+			MeshAsset levels/mp/mp_siege/architecture/mp_siege_skyscraper_01/skyscraperawning_01_Mesh/a525e691-621d-87c1-3062-24143557bec7
+			InstanceCount 2
+			HealthStateEntityManagerId 46
+			PhysicsPartRange::IndexRange
+				First 217
+				Last 218
+			PhysicsPartCountPerInstance 1
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(47)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation::array
+				member(0) 2934044999
+			InstanceCastSunShadow::array
+				member(0) False
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/VideoScreen_M_01/VideoScreen_M_03/73d6cfd7-cc5d-4e34-aef8-f46ae227189c
+			MeshAsset objects/props/videoscreen_m_01/videoscreen_m_03_Mesh/18f075b9-8fd2-48d7-bd3c-c91e3427a69c
+			InstanceCount 1
+			HealthStateEntityManagerId 47
+			PhysicsPartRange::IndexRange
+				First 219
+				Last 227
+			PhysicsPartCountPerInstance 9
+			NetworkIdRange::IndexRange
+				First 157
+				Last 160
+			NetworkIdCountPerInstance 4
+			PartComponentCount 5
+		member(48)::StaticModelGroupMemberData
+			InstanceTransforms *nullArray*
+			InstanceObjectVariation::array
+				member(0) 2371525166
+				member(1) 2371525166
+				member(2) 2371525166
+				member(3) 2371525166
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Architecture/Datacenter_01/Datacenter_01_Window_Shutter_2x3/2b125ef2-9c76-4aaa-87d8-27d41a7c0e71
+			MeshAsset objects/architecture/datacenter_01/datacenter_01_window_shutter_2x3_Mesh/9c0b71bf-1020-43be-bb30-31ce8cd18607
+			InstanceCount 4
+			HealthStateEntityManagerId 48
+			PhysicsPartRange::IndexRange
+				First 228
+				Last 255
+			PhysicsPartCountPerInstance 7
+			NetworkIdRange::IndexRange
+				First 161
+				Last 184
+			NetworkIdCountPerInstance 6
+			PartComponentCount 7
+		member(49)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1607.961181640625
+						y 65.75894927978516
+						z -124.31135559082031
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow::array
+				member(0) False
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Planes_Part02/f9711600-6ac0-11e2-9ead-992c5781c83e
+			MeshAsset objects/props/siegeskyline/backdrop_planes_part02_Mesh/d8188918-d254-8f3d-9b42-35aa86269a4a
+			InstanceCount 1
+			HealthStateEntityManagerId 49
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(50)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1607.961181640625
+						y 65.75894927978516
+						z -124.31135559082031
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow::array
+				member(0) False
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Ground_Close_Part05/841dec10-6ac3-11e2-9ead-992c5781c83e
+			MeshAsset objects/props/siegeskyline/backdrop_ground_close_part05_Mesh/d94eb467-d75c-f2ef-8b74-624d2c4e391c
+			InstanceCount 1
+			HealthStateEntityManagerId 50
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(51)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1607.961181640625
+						y 65.75894927978516
+						z -124.31135559082031
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow::array
+				member(0) False
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Planes_Part05/1f55c04f-6ac3-11e2-9ead-992c5781c83e
+			MeshAsset objects/props/siegeskyline/backdrop_planes_part05_Mesh/77b3c9f3-b8e0-0414-1689-c1a6b14a5372
+			InstanceCount 1
+			HealthStateEntityManagerId 51
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(52)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1607.961181640625
+						y 65.75894927978516
+						z -124.31135559082031
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow::array
+				member(0) False
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Ground_Close_Part04/e537d24f-6ac2-11e2-9ead-992c5781c83e
+			MeshAsset objects/props/siegeskyline/backdrop_ground_close_part04_Mesh/4f0c5185-3a1e-8877-3ea4-49e62fe18d78
+			InstanceCount 1
+			HealthStateEntityManagerId 52
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(53)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1579.17822265625
+						y 65.75894927978516
+						z -124.31135559082031
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow::array
+				member(0) False
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Trees_Part01/a8707451-6ac0-11e2-9ead-992c5781c83e
+			MeshAsset objects/props/siegeskyline/backdrop_trees_part01_Mesh/d57599b3-34d4-110b-5a07-937d18cc2f6f
+			InstanceCount 1
+			HealthStateEntityManagerId 53
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(54)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1607.961181640625
+						y 65.75894927978516
+						z -124.31135559082031
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Ground_Close_Part02_new/ddd28c51-7aa9-84c7-e95a-fd0d88e407a1
+			MeshAsset objects/props/siegeskyline/backdrop_ground_close_part02_new_Mesh/924e1b48-18f0-0063-851a-ef216aaee6cb
+			InstanceCount 1
+			HealthStateEntityManagerId 54
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(55)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x -193.19296264648438
+						y 0.0
+						z -73.90637969970703
+					up::Vec3
+						x 0.0
+						y 206.8469696044922
+						z 0.0
+					forward::Vec3
+						x 73.90637969970703
+						y 0.0
+						z -193.19296264648438
+					trans::Vec3
+						x 2717.283447265625
+						y 83.27848052978516
+						z 330.22088623046875
+				member(1)::LinearTransform
+					right::Vec3
+						x 11.310483932495117
+						y 0.0
+						z -82.49134063720703
+					up::Vec3
+						x 0.0
+						y 83.26313018798828
+						z 0.0
+					forward::Vec3
+						x 82.49134063720703
+						y 0.0
+						z 11.310483932495117
+					trans::Vec3
+						x 223.935302734375
+						y 53.852577209472656
+						z 529.0245971679688
+				member(2)::LinearTransform
+					right::Vec3
+						x -19.725807189941406
+						y 8.495638847351074
+						z -61.03345489501953
+					up::Vec3
+						x 7.071633338928223
+						y 63.972999572753906
+						z 6.619293212890625
+					forward::Vec3
+						x 61.21479415893555
+						y -4.652627944946289
+						z -20.432050704956055
+					trans::Vec3
+						x 668.170654296875
+						y 74.31047058105469
+						z 450.01116943359375
+				member(3)::LinearTransform
+					right::Vec3
+						x -52.2111701965332
+						y 0.0
+						z -200.1491241455078
+					up::Vec3
+						x 0.0
+						y 206.8469696044922
+						z 0.0
+					forward::Vec3
+						x 200.1491241455078
+						y 0.0
+						z -52.2111701965332
+					trans::Vec3
+						x 3927.432861328125
+						y 83.27848052978516
+						z 2487.04833984375
+				member(4)::LinearTransform
+					right::Vec3
+						x 1.7135825157165527
+						y 0.0
+						z -69.75640869140625
+					up::Vec3
+						x 0.0
+						y 69.7774429321289
+						z 0.0
+					forward::Vec3
+						x 69.75640869140625
+						y 0.0
+						z 1.7135825157165527
+					trans::Vec3
+						x 55.2257080078125
+						y 58.545936584472656
+						z -1149.9984130859375
+				member(5)::LinearTransform
+					right::Vec3
+						x -113.24005126953125
+						y 0.0
+						z -10.698314666748047
+					up::Vec3
+						x 0.0
+						y 113.7442855834961
+						z 0.0
+					forward::Vec3
+						x 10.698314666748047
+						y 0.0
+						z -113.24005126953125
+					trans::Vec3
+						x -2116.513427734375
+						y 298.2130432128906
+						z -824.9501342773438
+				member(6)::LinearTransform
+					right::Vec3
+						x -84.10575103759766
+						y 0.0
+						z 13.333148956298828
+					up::Vec3
+						x 0.0
+						y 85.1560287475586
+						z 0.0
+					forward::Vec3
+						x -13.333148956298828
+						y 0.0
+						z -84.10575103759766
+					trans::Vec3
+						x -1347.5682373046875
+						y 42.849830627441406
+						z -477.0953369140625
+			InstanceObjectVariation::array
+				member(0) 338298088
+				member(1) 338298088
+				member(2) 338298088
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Levels/MP/MP_Siege/Objects/MP_Siege_BackdropSmokePlume_01/63649f51-21b1-1da7-8b09-514beb4d707d
+			MeshAsset levels/mp/mp_siege/objects/mp_siege_backdropsmokeplume_01_Mesh/c33d0dcc-de78-d038-dead-3a968d7c8761
+			InstanceCount 7
+			HealthStateEntityManagerId 55
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(56)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x -160.67149353027344
+						y 0.0
+						z -130.27029418945312
+					up::Vec3
+						x 0.0
+						y 206.8470001220703
+						z 0.0
+					forward::Vec3
+						x 130.27029418945312
+						y 0.0
+						z -160.67149353027344
+					trans::Vec3
+						x 1491.006591796875
+						y 83.27848052978516
+						z 496.5953369140625
+				member(1)::LinearTransform
+					right::Vec3
+						x 26.156248092651367
+						y 0.0
+						z -36.836429595947266
+					up::Vec3
+						x 0.0
+						y 45.17822265625
+						z 0.0
+					forward::Vec3
+						x 36.836429595947266
+						y 0.0
+						z 26.156248092651367
+					trans::Vec3
+						x 955.172607421875
+						y 83.27848052978516
+						z -1130.4964599609375
+				member(2)::LinearTransform
+					right::Vec3
+						x 122.67501831054688
+						y 0.0
+						z -374.75616455078125
+					up::Vec3
+						x 0.0
+						y 394.3238525390625
+						z 0.0
+					forward::Vec3
+						x 374.75616455078125
+						y 0.0
+						z 122.67501831054688
+					trans::Vec3
+						x 1072.478759765625
+						y 67.53946685791016
+						z -2481.48095703125
+				member(3)::LinearTransform
+					right::Vec3
+						x -13.201103210449219
+						y 0.0
+						z -115.76627349853516
+					up::Vec3
+						x 0.0
+						y 116.51653289794922
+						z 0.0
+					forward::Vec3
+						x 115.76627349853516
+						y 0.0
+						z -13.201103210449219
+					trans::Vec3
+						x 908.7626953125
+						y 83.27848052978516
+						z 1273.1170654296875
+				member(4)::LinearTransform
+					right::Vec3
+						x 133.55657958984375
+						y 0.0
+						z -157.95033264160156
+					up::Vec3
+						x 0.0
+						y 206.8470001220703
+						z 0.0
+					forward::Vec3
+						x 157.95033264160156
+						y 0.0
+						z 133.55657958984375
+					trans::Vec3
+						x 1774.872802734375
+						y 83.27848052978516
+						z -1436.9180908203125
+				member(5)::LinearTransform
+					right::Vec3
+						x -5.4125518798828125
+						y 0.0
+						z -80.49139404296875
+					up::Vec3
+						x 0.0
+						y 80.67316436767578
+						z 0.0
+					forward::Vec3
+						x 80.49139404296875
+						y 0.0
+						z -5.4125518798828125
+					trans::Vec3
+						x -107.1337890625
+						y 83.27848052978516
+						z -922.7501831054688
+				member(6)::LinearTransform
+					right::Vec3
+						x -97.62506103515625
+						y 0.0
+						z -105.40519714355469
+					up::Vec3
+						x 0.0
+						y 143.66946411132812
+						z 0.0
+					forward::Vec3
+						x 105.40519714355469
+						y 0.0
+						z -97.62506103515625
+					trans::Vec3
+						x -3423.988525390625
+						y 83.27848052978516
+						z -1467.7894287109375
+				member(7)::LinearTransform
+					right::Vec3
+						x -206.83984375
+						y 0.0
+						z 1.7196044921875
+					up::Vec3
+						x 0.0
+						y 206.8470001220703
+						z 0.0
+					forward::Vec3
+						x -1.7196044921875
+						y 0.0
+						z -206.83984375
+					trans::Vec3
+						x -1864.53369140625
+						y 83.27848052978516
+						z -1.546783447265625
+			InstanceObjectVariation::array
+				member(0) 3763937451
+				member(1) 3950851641
+				member(2) 3950851641
+				member(3) 0
+				member(4) 3950851641
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Levels/MP/MP_Siege/Objects/MP_Siege_BackdropSmokePlume_02/84649f51-21b1-d0a7-8b09-514beb4d707d
+			MeshAsset levels/mp/mp_siege/objects/mp_siege_backdropsmokeplume_02_Mesh/e253b3fb-bba3-f2e0-dfa4-cc3773b7ecb0
+			InstanceCount 8
+			HealthStateEntityManagerId 56
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(57)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x -186.87144470214844
+						y 0.0
+						z -151.5128936767578
+					up::Vec3
+						x 0.0
+						y 240.57659912109375
+						z 0.0
+					forward::Vec3
+						x 151.5128936767578
+						y 0.0
+						z -186.87144470214844
+					trans::Vec3
+						x 1553.728759765625
+						y 83.27848052978516
+						z 1172.2559814453125
+				member(1)::LinearTransform
+					right::Vec3
+						x -186.87144470214844
+						y 0.0
+						z -151.5128936767578
+					up::Vec3
+						x 0.0
+						y 240.57659912109375
+						z 0.0
+					forward::Vec3
+						x 151.5128936767578
+						y 0.0
+						z -186.87144470214844
+					trans::Vec3
+						x 431.698486328125
+						y 83.27848052978516
+						z 1131.4049072265625
+				member(2)::LinearTransform
+					right::Vec3
+						x -74.53085327148438
+						y -80.0951156616211
+						z -214.2592315673828
+					up::Vec3
+						x -26.314760208129883
+						y 226.8520965576172
+						z -75.64894104003906
+					forward::Vec3
+						x 227.22186279296875
+						y 0.0
+						z -79.03995513916016
+					trans::Vec3
+						x 718.697021484375
+						y 83.27848052978516
+						z -4357.5556640625
+				member(3)::LinearTransform
+					right::Vec3
+						x -84.35176086425781
+						y 0.0
+						z -68.39126586914062
+					up::Vec3
+						x 0.0
+						y 108.59366607666016
+						z 0.0
+					forward::Vec3
+						x 68.39126586914062
+						y 0.0
+						z -84.35176086425781
+					trans::Vec3
+						x 1001.215087890625
+						y 83.27848052978516
+						z 44.80674743652344
+				member(4)::LinearTransform
+					right::Vec3
+						x 99.29722595214844
+						y 0.0
+						z -93.97417449951172
+					up::Vec3
+						x 0.0
+						y 136.71534729003906
+						z 0.0
+					forward::Vec3
+						x 93.97417449951172
+						y 0.0
+						z 99.29722595214844
+					trans::Vec3
+						x 1602.9013671875
+						y 83.27848052978516
+						z -1839.4310302734375
+				member(5)::LinearTransform
+					right::Vec3
+						x 76.24134063720703
+						y 9.5367431640625e-07
+						z -228.17611694335938
+					up::Vec3
+						x 40.859554290771484
+						y 236.68798828125
+						z 13.652555465698242
+					forward::Vec3
+						x 224.4879608154297
+						y -43.080101013183594
+						z 75.00899505615234
+					trans::Vec3
+						x 544.276611328125
+						y 27.765953063964844
+						z 4398.4658203125
+			InstanceObjectVariation::array
+				member(0) 1817795562
+				member(1) 1817795562
+				member(2) 4152678680
+				member(3) 1817795562
+				member(4) 4152678680
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Levels/MP/MP_Siege/Objects/MP_Siege_BackdropSmokePlume_03/a1649f51-21b1-83a8-8b09-514beb4d707d
+			MeshAsset levels/mp/mp_siege/objects/mp_siege_backdropsmokeplume_03_Mesh/cbf51925-f039-b125-61d7-69704158c9ee
+			InstanceCount 6
+			HealthStateEntityManagerId 57
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(58)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x -101.27857971191406
+						y 0.0
+						z -218.219482421875
+					up::Vec3
+						x 0.0
+						y 240.57659912109375
+						z 0.0
+					forward::Vec3
+						x 218.219482421875
+						y 0.0
+						z -101.27857971191406
+					trans::Vec3
+						x 955.7890625
+						y 83.27848052978516
+						z 1598.5274658203125
+				member(1)::LinearTransform
+					right::Vec3
+						x -232.83636474609375
+						y 0.0
+						z 60.53358459472656
+					up::Vec3
+						x 0.0
+						y 240.57659912109375
+						z 0.0
+					forward::Vec3
+						x -60.53358459472656
+						y 0.0
+						z -232.83636474609375
+					trans::Vec3
+						x -1458.105712890625
+						y 83.27848052978516
+						z -351.371337890625
+				member(2)::LinearTransform
+					right::Vec3
+						x -73.37086486816406
+						y 0.0
+						z -92.64197540283203
+					up::Vec3
+						x 0.0
+						y 118.17707061767578
+						z 0.0
+					forward::Vec3
+						x 92.64197540283203
+						y 0.0
+						z -73.37086486816406
+					trans::Vec3
+						x -86.6982421875
+						y 83.27848052978516
+						z -1840.032958984375
+				member(3)::LinearTransform
+					right::Vec3
+						x -196.0905303955078
+						y 0.0
+						z -322.7840576171875
+					up::Vec3
+						x 0.0
+						y 377.6784973144531
+						z 0.0
+					forward::Vec3
+						x 322.7840576171875
+						y 0.0
+						z -196.0905303955078
+					trans::Vec3
+						x 1749.301513671875
+						y 83.27848052978516
+						z 2032.5653076171875
+				member(4)::LinearTransform
+					right::Vec3
+						x 189.08175659179688
+						y 0.0
+						z -148.745361328125
+					up::Vec3
+						x 0.0
+						y 240.57659912109375
+						z 0.0
+					forward::Vec3
+						x 148.745361328125
+						y 0.0
+						z 189.08175659179688
+					trans::Vec3
+						x 2005.920166015625
+						y 83.27848052978516
+						z -1716.2288818359375
+				member(5)::LinearTransform
+					right::Vec3
+						x -64.11737060546875
+						y 0.0
+						z -55.81747817993164
+					up::Vec3
+						x 0.0
+						y 85.00957489013672
+						z 0.0
+					forward::Vec3
+						x 55.81747817993164
+						y 0.0
+						z -64.11737060546875
+					trans::Vec3
+						x 984.700439453125
+						y 41.396888732910156
+						z 169.6773223876953
+				member(6)::LinearTransform
+					right::Vec3
+						x -49.05931854248047
+						y 0.0
+						z -42.7086296081543
+					up::Vec3
+						x 0.0
+						y 65.04493713378906
+						z 0.0
+					forward::Vec3
+						x 42.7086296081543
+						y 0.0
+						z -49.05931854248047
+					trans::Vec3
+						x 614.9208984375
+						y 59.420448303222656
+						z 941.9555053710938
+				member(7)::LinearTransform
+					right::Vec3
+						x -189.72134399414062
+						y 0.0
+						z -31.82805061340332
+					up::Vec3
+						x 0.0
+						y 192.3726043701172
+						z 0.0
+					forward::Vec3
+						x 31.82805061340332
+						y 0.0
+						z -189.72134399414062
+					trans::Vec3
+						x -1244.79248046875
+						y 26.353187561035156
+						z -458.55267333984375
+				member(8)::LinearTransform
+					right::Vec3
+						x -240.01239013671875
+						y 0.0
+						z -16.466232299804688
+					up::Vec3
+						x 6.314778804779053
+						y 222.1824493408203
+						z -92.04444122314453
+					forward::Vec3
+						x 15.207247734069824
+						y -92.26078796386719
+						z -221.661376953125
+					trans::Vec3
+						x -2289.71484375
+						y -36.25653839111328
+						z 438.03192138671875
+				member(9)::LinearTransform
+					right::Vec3
+						x -0.9992851614952087
+						y 0.0
+						z -0.03780399635434151
+					up::Vec3
+						x 0.0
+						y 0.9999999403953552
+						z 0.0
+					forward::Vec3
+						x 0.03780399635434151
+						y 0.0
+						z -0.9992851614952087
+					trans::Vec3
+						x -1131.8974609375
+						y 85.96451568603516
+						z -767.3782958984375
+			InstanceObjectVariation::array
+				member(0) 4012660653
+				member(1) 0
+				member(2) 0
+				member(3) 4012660653
+				member(4) 3568782719
+				member(5) 4012660653
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Levels/MP/MP_Siege/Objects/MP_Siege_BackdropSmokePlume_04/b5649f51-21b1-36a9-8b09-514beb4d707d
+			MeshAsset levels/mp/mp_siege/objects/mp_siege_backdropsmokeplume_04_Mesh/eb2c2086-78bf-ef17-0e4d-f81e5b80ecda
+			InstanceCount 10
+			HealthStateEntityManagerId 58
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(59)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1607.961181640625
+						y 65.75894927978516
+						z -124.31135559082031
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Buildings_Part01_Gen3/68f2d251-95be-386d-6b71-aecaecbf3589
+			MeshAsset objects/props/siegeskyline/backdrop_buildings_part01_gen3_Mesh/7586e791-de7c-d463-bd91-f89cf6a37b3c
+			InstanceCount 1
+			HealthStateEntityManagerId 59
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(60)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1607.961181640625
+						y 65.75894927978516
+						z -124.31135559082031
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Buildings_Part02_Gen3/1ef5d251-95be-0a88-6b71-aecaecbf3589
+			MeshAsset objects/props/siegeskyline/backdrop_buildings_part02_gen3_Mesh/f2b45a83-463f-375f-ab92-091af267a603
+			InstanceCount 1
+			HealthStateEntityManagerId 60
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(61)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1607.961181640625
+						y 65.75894927978516
+						z -124.31135559082031
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Buildings_Part03_Gen3/60f7d251-95be-dc9d-6b71-aecaecbf3589
+			MeshAsset objects/props/siegeskyline/backdrop_buildings_part03_gen3_Mesh/bf3aa012-43c0-0f3c-84cb-c98497758441
+			InstanceCount 1
+			HealthStateEntityManagerId 61
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(62)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1607.961181640625
+						y 65.75894927978516
+						z -124.31135559082031
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Buildings_Part04_Gen3/eff9d251-95be-ddaf-6b71-aecaecbf3589
+			MeshAsset objects/props/siegeskyline/backdrop_buildings_part04_gen3_Mesh/ff594965-e0a3-d1cc-7f37-c16c0a22b699
+			InstanceCount 1
+			HealthStateEntityManagerId 62
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(63)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1607.961181640625
+						y 65.75894927978516
+						z -124.31135559082031
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Buildings_Part05_Gen3/d9fbd251-95be-22c2-6b71-aecaecbf3589
+			MeshAsset objects/props/siegeskyline/backdrop_buildings_part05_gen3_Mesh/c66213bc-fb55-0259-2239-d856d61618ff
+			InstanceCount 1
+			HealthStateEntityManagerId 63
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(64)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1607.961181640625
+						y 65.75894927978516
+						z -124.31135559082031
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow::array
+				member(0) False
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Buildings_Close_Part02_MP_Gen3/1afd2e52-73d9-8d85-0be6-b9f127546d26
+			MeshAsset objects/props/siegeskyline/backdrop_buildings_close_part02_mp_gen3_Mesh/325387e1-d1d9-a9ad-be1b-d81246d491a2
+			InstanceCount 1
+			HealthStateEntityManagerId 64
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(65)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1607.961181640625
+						y 65.75894927978516
+						z -124.31135559082031
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow::array
+				member(0) False
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Buildings_Close_Part03_MP_Gen3/92fd2e52-73d9-f188-0be6-b9f127546d26
+			MeshAsset objects/props/siegeskyline/backdrop_buildings_close_part03_mp_gen3_Mesh/519a3124-6dc8-ebdb-9fe1-bca731dee1e8
+			InstanceCount 1
+			HealthStateEntityManagerId 65
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(66)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1607.961181640625
+						y 65.75894927978516
+						z -124.31135559082031
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow::array
+				member(0) False
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Buildings_Close_Part04_MP_Gen3/0dfe2e52-73d9-538c-0be6-b9f127546d26
+			MeshAsset objects/props/siegeskyline/backdrop_buildings_close_part04_mp_gen3_Mesh/31c6fbd7-6692-e9cd-9c96-fd394b8449ce
+			InstanceCount 1
+			HealthStateEntityManagerId 66
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(67)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1607.961181640625
+						y 65.75894927978516
+						z -124.31135559082031
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow::array
+				member(0) False
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Buildings_Close_Part05_MP_Gen3/4cfe2e52-73d9-758f-0be6-b9f127546d26
+			MeshAsset objects/props/siegeskyline/backdrop_buildings_close_part05_mp_gen3_Mesh/19e86747-c84c-e521-106c-eec707b84418
+			InstanceCount 1
+			HealthStateEntityManagerId 67
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(68)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1607.961181640625
+						y 65.75894927978516
+						z -124.31135559082031
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Trees_Part05/00771260-6ac3-11e2-9ead-992c5781c83e
+			MeshAsset objects/props/siegeskyline/backdrop_trees_part05_Mesh/5d5c1948-3860-f597-67de-6f567e4951a8
+			InstanceCount 1
+			HealthStateEntityManagerId 68
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(69)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1607.961181640625
+						y 65.75894927978516
+						z -124.31135559082031
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow::array
+				member(0) False
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Ground_Part05/5f42cd6f-6ac3-11e2-9ead-992c5781c83e
+			MeshAsset objects/props/siegeskyline/backdrop_ground_part05_Mesh/c8946cab-1e2e-9f38-150f-956cb3004f27
+			InstanceCount 1
+			HealthStateEntityManagerId 69
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(70)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1607.961181640625
+						y 65.75894927978516
+						z -124.31135559082031
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow::array
+				member(0) False
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Ground_Part04/190e8070-6ac2-11e2-9ead-992c5781c83e
+			MeshAsset objects/props/siegeskyline/backdrop_ground_part04_Mesh/21f40518-039a-1f59-393e-418a836b3988
+			InstanceCount 1
+			HealthStateEntityManagerId 70
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(71)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1607.961181640625
+						y 65.75894927978516
+						z -124.31135559082031
+				member(1)::LinearTransform
+					right::Vec3
+						x -0.5427007675170898
+						y 0.0
+						z -0.8399261236190796
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.8399261236190796
+						y 0.0
+						z -0.5427007675170898
+					trans::Vec3
+						x 1208.064453125
+						y 65.75894927978516
+						z 1135.330078125
+				member(2)::LinearTransform
+					right::Vec3
+						x 0.19880759716033936
+						y 0.0
+						z -0.9800385236740112
+					up::Vec3
+						x 0.0
+						y 0.7747516632080078
+						z 0.0
+					forward::Vec3
+						x 0.7583669424057007
+						y 0.0
+						z 0.15383997559547424
+					trans::Vec3
+						x -479.657958984375
+						y 65.75894927978516
+						z 2833.079345703125
+				member(3)::LinearTransform
+					right::Vec3
+						x -0.2757534086704254
+						y 0.0
+						z -0.9612283706665039
+					up::Vec3
+						x 0.0
+						y 1.0835039615631104
+						z 0.0
+					forward::Vec3
+						x 0.9612283706665039
+						y 0.0
+						z -0.2757534086704254
+					trans::Vec3
+						x 805.55859375
+						y 65.75894927978516
+						z 2350.825439453125
+				member(4)::LinearTransform
+					right::Vec3
+						x -0.5593528151512146
+						y 0.0
+						z -0.8289295434951782
+					up::Vec3
+						x 0.0
+						y 0.5695554614067078
+						z 0.0
+					forward::Vec3
+						x 0.5447980761528015
+						y 0.0
+						z -0.367623895406723
+					trans::Vec3
+						x 1025.5361328125
+						y 65.75894927978516
+						z 1387.845703125
+				member(5)::LinearTransform
+					right::Vec3
+						x -0.5604010224342346
+						y 0.0
+						z -0.8282213807106018
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.6615744829177856
+						y 0.0
+						z -0.44764241576194763
+					trans::Vec3
+						x 831.01025390625
+						y 66.74034118652344
+						z 863.9053344726562
+				member(6)::LinearTransform
+					right::Vec3
+						x -0.18181473016738892
+						y 0.0
+						z -0.9833327531814575
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.9833327531814575
+						y 0.0
+						z -0.18181473016738892
+					trans::Vec3
+						x 29.1407470703125
+						y 69.24808502197266
+						z 1201.7537841796875
+				member(7)::LinearTransform
+					right::Vec3
+						x -0.7189230918884277
+						y 0.0
+						z -0.9736300706863403
+					up::Vec3
+						x 0.0
+						y 1.2102916240692139
+						z 0.0
+					forward::Vec3
+						x 0.9736300706863403
+						y 0.0
+						z -0.7189230918884277
+					trans::Vec3
+						x 1063.752197265625
+						y 65.75894927978516
+						z 263.12200927734375
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow::array
+				member(0) False
+				member(1) False
+				member(2) False
+				member(3) False
+				member(4) False
+				member(5) False
+				member(6) False
+				member(7) False
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Trees_Part03/05228e7f-6ac2-11e2-9ead-992c5781c83e
+			MeshAsset objects/props/siegeskyline/backdrop_trees_part03_Mesh/5d6fe0d8-4cd5-5637-d749-a6f6eeb8da76
+			InstanceCount 8
+			HealthStateEntityManagerId 71
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(72)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1607.961181640625
+						y 65.75894927978516
+						z -124.31135559082031
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow *nullArray*
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Planes_Part04/bd3b7680-6ac2-11e2-9ead-992c5781c83e
+			MeshAsset objects/props/siegeskyline/backdrop_planes_part04_Mesh/fa3c0a6b-2d46-d208-5c97-8c62917604eb
+			InstanceCount 1
+			HealthStateEntityManagerId 72
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(73)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1607.961181640625
+						y 65.75894927978516
+						z -124.31135559082031
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow::array
+				member(0) False
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Ground_Close_Part03/b180f885-6ac1-11e2-9ead-992c5781c83e
+			MeshAsset objects/props/siegeskyline/backdrop_ground_close_part03_Mesh/e30c89e7-a180-7f81-8e0d-53a05736bd52
+			InstanceCount 1
+			HealthStateEntityManagerId 73
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(74)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1607.961181640625
+						y 65.75894927978516
+						z -124.31135559082031
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow::array
+				member(0) False
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Ground_Part01/bb566e99-6ac0-11e2-9ead-992c5781c83e
+			MeshAsset objects/props/siegeskyline/backdrop_ground_part01_Mesh/bcb8ae32-33d0-596e-fe2d-ed35b31af04f
+			InstanceCount 1
+			HealthStateEntityManagerId 74
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(75)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1607.961181640625
+						y 65.75894927978516
+						z -124.31135559082031
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow::array
+				member(0) False
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Ground_Part03/e2c047ac-6ac1-11e2-9ead-992c5781c83e
+			MeshAsset objects/props/siegeskyline/backdrop_ground_part03_Mesh/10b4e921-23d9-1a6e-0c12-d4f208c04273
+			InstanceCount 1
+			HealthStateEntityManagerId 75
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(76)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1607.961181640625
+						y 65.75894927978516
+						z -124.31135559082031
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow::array
+				member(0) False
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Ground_Part02/e5ff2bd4-6ac0-11e2-9ead-992c5781c83e
+			MeshAsset objects/props/siegeskyline/backdrop_ground_part02_Mesh/e5e45a78-3448-970a-da46-c6cdf5d02fb8
+			InstanceCount 1
+			HealthStateEntityManagerId 76
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(77)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1607.961181640625
+						y 65.75894927978516
+						z -124.31135559082031
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow::array
+				member(0) False
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Trees_Part02/276d80d7-6ac1-11e2-9ead-992c5781c83e
+			MeshAsset objects/props/siegeskyline/backdrop_trees_part02_Mesh/672333b9-b9d2-c0be-9024-e32f28a6fdbc
+			InstanceCount 1
+			HealthStateEntityManagerId 77
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(78)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1607.961181640625
+						y 65.75894927978516
+						z -124.31135559082031
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow::array
+				member(0) False
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Planes_Part03/8a1be2ef-6ac1-11e2-9ead-992c5781c83e
+			MeshAsset objects/props/siegeskyline/backdrop_planes_part03_Mesh/26c71e70-03a2-e239-ad52-9a02cfd2b397
+			InstanceCount 1
+			HealthStateEntityManagerId 78
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+		member(79)::StaticModelGroupMemberData
+			InstanceTransforms::array
+				member(0)::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x -1607.961181640625
+						y 65.75894927978516
+						z -124.31135559082031
+			InstanceObjectVariation *nullArray*
+			InstanceCastSunShadow::array
+				member(0) False
+			InstanceCastReflection *nullArray*
+			InstanceRadiosityTypeOverride *nullArray*
+			InstanceEnabled *nullArray*
+			InstanceTerrainShaderNodesEnable *nullArray*
+			MemberType Objects/Props/SiegeSkyline/Backdrop_Planes_Part01/90dab5f4-6ac0-11e2-9ead-992c5781c83e
+			MeshAsset objects/props/siegeskyline/backdrop_planes_part01_Mesh/a857b479-b361-56b0-0dec-5adf4b4d9729
+			InstanceCount 1
+			HealthStateEntityManagerId 79
+			PhysicsPartRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			PhysicsPartCountPerInstance 0
+			NetworkIdRange::IndexRange
+				First 4294967295
+				Last 4294967295
+			NetworkIdCountPerInstance 0
+			PartComponentCount 1
+	NetworkIdCount 185
+	HackToSolveRealTimeTweakingIssue 642286c6-eef3-19e7-57d0-85c19e25091f
+StaticModelGroupHealthComponentData Instance3
+	$::GameHealthComponentData
+		$::HealthComponentData
+			$::ComponentData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 0
+				Components *nullArray*
+				Transform::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x 0.0
+						y 0.0
+						z 0.0
+				Excluded False
+StaticModelGroupPhysicsComponentData Instance4
+	$::GamePhysicsComponentData
+		$::PhysicsComponentData
+			$::ComponentData
+				$::GameObjectData
+					$::DataBusPeer
+						$::GameDataContainer
+							$::DataContainer
+						Flags 0
+				Components *nullArray*
+				Transform::LinearTransform
+					right::Vec3
+						x 1.0
+						y 0.0
+						z 0.0
+					up::Vec3
+						x 0.0
+						y 1.0
+						z 0.0
+					forward::Vec3
+						x 0.0
+						y 0.0
+						z 1.0
+					trans::Vec3
+						x 0.0
+						y 0.0
+						z 0.0
+				Excluded False
+		Realm Realm_ClientAndServer
+		EffectParameters *nullArray*
+WorldPartReferenceObjectData Instance5
+	$::ReferenceObjectData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 15472424
+		Blueprint Levels/MP/MP_Siege/Base_02_Gen3/9c120ff0-046f-4258-aaf8-52651e3b7992
+		BlueprintTransform::LinearTransform
+			right::Vec3
+				x 1.0
+				y 0.0
+				z 0.0
+			up::Vec3
+				x 0.0
+				y 1.0
+				z 0.0
+			forward::Vec3
+				x 0.0
+				y 0.0
+				z 1.0
+			trans::Vec3
+				x 0.0
+				y 0.0
+				z 0.0
+		ObjectVariation *nullGuid*
+		StreamRealm StreamRealm_None
+		RadiosityTypeOverride RadiosityTypeOverride_None
+		CastSunShadowEnable False
+		CastReflectionEnable False
+		Excluded False
+WorldPartReferenceObjectData Instance6
+	$::ReferenceObjectData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 22074014
+		Blueprint Levels/MP/MP_Siege/Homebase_CH_Gen3/a198dd7c-c6db-4782-997c-16f84f71f10d
+		BlueprintTransform::LinearTransform
+			right::Vec3
+				x 1.0
+				y 0.0
+				z 0.0
+			up::Vec3
+				x 0.0
+				y 1.0
+				z 0.0
+			forward::Vec3
+				x 0.0
+				y 0.0
+				z 1.0
+			trans::Vec3
+				x 0.0
+				y 0.0
+				z 0.0
+		ObjectVariation *nullGuid*
+		StreamRealm StreamRealm_None
+		RadiosityTypeOverride RadiosityTypeOverride_None
+		CastSunShadowEnable False
+		CastReflectionEnable False
+		Excluded False
+WorldPartReferenceObjectData Instance7
+	$::ReferenceObjectData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 26065818
+		Blueprint Levels/MP/MP_Siege/Backdrop_Gen3/f9a97220-33dd-4950-926a-4d081e06f6b2
+		BlueprintTransform::LinearTransform
+			right::Vec3
+				x 1.0
+				y 0.0
+				z 0.0
+			up::Vec3
+				x 0.0
+				y 1.0
+				z 0.0
+			forward::Vec3
+				x 0.0
+				y 0.0
+				z 1.0
+			trans::Vec3
+				x 0.0
+				y 0.0
+				z 0.0
+		ObjectVariation *nullGuid*
+		StreamRealm StreamRealm_None
+		RadiosityTypeOverride RadiosityTypeOverride_None
+		CastSunShadowEnable False
+		CastReflectionEnable False
+		Excluded False
+WorldPartReferenceObjectData Instance8
+	$::ReferenceObjectData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 30569191
+		Blueprint Levels/MP/MP_Siege/Technical_Gen3/923f5be8-5a81-4a59-b834-4310ff255b0b
+		BlueprintTransform::LinearTransform
+			right::Vec3
+				x 1.0
+				y 0.0
+				z 0.0
+			up::Vec3
+				x 0.0
+				y 1.0
+				z 0.0
+			forward::Vec3
+				x 0.0
+				y 0.0
+				z 1.0
+			trans::Vec3
+				x 0.0
+				y 0.0
+				z 0.0
+		ObjectVariation *nullGuid*
+		StreamRealm StreamRealm_None
+		RadiosityTypeOverride RadiosityTypeOverride_None
+		CastSunShadowEnable False
+		CastReflectionEnable False
+		Excluded False
+WorldPartReferenceObjectData Instance9
+	$::ReferenceObjectData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 1377266
+		Blueprint Levels/MP/MP_Siege/Base_04_Gen3/5d768817-0517-42b4-98f0-30e29982c5e5
+		BlueprintTransform::LinearTransform
+			right::Vec3
+				x 1.0
+				y 0.0
+				z 0.0
+			up::Vec3
+				x 0.0
+				y 1.0
+				z 0.0
+			forward::Vec3
+				x 0.0
+				y 0.0
+				z 1.0
+			trans::Vec3
+				x 0.0
+				y 0.0
+				z 0.0
+		ObjectVariation *nullGuid*
+		StreamRealm StreamRealm_None
+		RadiosityTypeOverride RadiosityTypeOverride_None
+		CastSunShadowEnable False
+		CastReflectionEnable False
+		Excluded False
+WorldPartReferenceObjectData Instance10
+	$::ReferenceObjectData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 7158309
+		Blueprint Levels/MP/MP_Siege/Lights_Gen3/37929acd-5599-4049-834f-6429336a8324
+		BlueprintTransform::LinearTransform
+			right::Vec3
+				x 1.0
+				y 0.0
+				z 0.0
+			up::Vec3
+				x 0.0
+				y 1.0
+				z 0.0
+			forward::Vec3
+				x 0.0
+				y 0.0
+				z 1.0
+			trans::Vec3
+				x 0.0
+				y 0.0
+				z 0.0
+		ObjectVariation *nullGuid*
+		StreamRealm StreamRealm_None
+		RadiosityTypeOverride RadiosityTypeOverride_None
+		CastSunShadowEnable False
+		CastReflectionEnable False
+		Excluded False
+WorldPartReferenceObjectData Instance11
+	$::ReferenceObjectData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 3525781
+		Blueprint Levels/MP/MP_Siege/Base_03_Gen3/9774b785-62d1-47ad-b741-451974931a38
+		BlueprintTransform::LinearTransform
+			right::Vec3
+				x 1.0
+				y 0.0
+				z 0.0
+			up::Vec3
+				x 0.0
+				y 1.0
+				z 0.0
+			forward::Vec3
+				x 0.0
+				y 0.0
+				z 1.0
+			trans::Vec3
+				x 0.0
+				y 0.0
+				z 0.0
+		ObjectVariation *nullGuid*
+		StreamRealm StreamRealm_None
+		RadiosityTypeOverride RadiosityTypeOverride_None
+		CastSunShadowEnable False
+		CastReflectionEnable False
+		Excluded False
+WorldPartReferenceObjectData Instance12
+	$::ReferenceObjectData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 4723814
+		Blueprint Levels/MP/MP_Siege/LevolutionGen3/c809a088-3170-49ea-85a6-468efd56c445
+		BlueprintTransform::LinearTransform
+			right::Vec3
+				x 1.0
+				y 0.0
+				z 0.0
+			up::Vec3
+				x 0.0
+				y 1.0
+				z 0.0
+			forward::Vec3
+				x 0.0
+				y 0.0
+				z 1.0
+			trans::Vec3
+				x 0.0
+				y 0.0
+				z 0.0
+		ObjectVariation *nullGuid*
+		StreamRealm StreamRealm_None
+		RadiosityTypeOverride RadiosityTypeOverride_None
+		CastSunShadowEnable False
+		CastReflectionEnable False
+		Excluded False
+WorldPartReferenceObjectData Instance13
+	$::ReferenceObjectData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 13807384
+		Blueprint Levels/MP/MP_Siege/Base4_Gen3/bef1c337-6be3-45da-81c3-6d253e390422
+		BlueprintTransform::LinearTransform
+			right::Vec3
+				x 1.0
+				y 0.0
+				z 0.0
+			up::Vec3
+				x 0.0
+				y 1.0
+				z 0.0
+			forward::Vec3
+				x 0.0
+				y 0.0
+				z 1.0
+			trans::Vec3
+				x 0.0
+				y 0.0
+				z 0.0
+		ObjectVariation *nullGuid*
+		StreamRealm StreamRealm_None
+		RadiosityTypeOverride RadiosityTypeOverride_None
+		CastSunShadowEnable False
+		CastReflectionEnable False
+		Excluded False
+GroupHavokAsset Instance14
+	$::HavokAsset
+		$::Asset
+			$::DataContainer
+			Name Levels/MP/MP_Siege/Gen3_Content/StaticModelGroup_Physics_Ps3
+		NumShapeKeysInContactPointProperties::array
+			member(0) 3
+		Resource 1392878638854325251 #levels/mp/mp_siege/gen3_content/staticmodelgroup_physics_ps3
+		ExternalAssets::array
+			member(0) Objects/Props/BenchModern_01/BenchModern_01_Reflections/b6ea5346-f125-4b8c-91f5-e63798732fca
+			member(1) Objects/Props/VideoWall_01/VideoWall_01/0a206d04-ccf4-dee6-e143-f233013e202c
+			member(2) *nullGuid*
+			member(3) *nullGuid*
+			member(4) *nullGuid*
+			member(5) Objects/Architecture/Skyscraper_Waterfront_02/Skyscraper_Waterfront_02/4458aca5-755f-287c-85dc-100a129a04e9
+			member(6) *nullGuid*
+			member(7) *nullGuid*
+			member(8) *nullGuid*
+			member(9) *nullGuid*
+			member(10) *nullGuid*
+			member(11) *nullGuid*
+			member(12) *nullGuid*
+			member(13) *nullGuid*
+			member(14) *nullGuid*
+			member(15) *nullGuid*
+			member(16) *nullGuid*
+			member(17) *nullGuid*
+			member(18) *nullGuid*
+			member(19) *nullGuid*
+			member(20) *nullGuid*
+			member(21) *nullGuid*
+			member(22) *nullGuid*
+			member(23) *nullGuid*
+			member(24) *nullGuid*
+			member(25) *nullGuid*
+			member(26) *nullGuid*
+			member(27) *nullGuid*
+			member(28) *nullGuid*
+			member(29) *nullGuid*
+			member(30) *nullGuid*
+			member(31) *nullGuid*
+			member(32) *nullGuid*
+			member(33) *nullGuid*
+			member(34) *nullGuid*
+			member(35) *nullGuid*
+			member(36) *nullGuid*
+			member(37) *nullGuid*
+			member(38) *nullGuid*
+			member(39) *nullGuid*
+			member(40) *nullGuid*
+			member(41) Objects/Props/StatueSiege_01/StatueSiege_01_Destruction/b429c784-61dc-e972-085e-27936801445a
+			member(42) *nullGuid*
+			member(43) *nullGuid*
+			member(44) *nullGuid*
+			member(45) *nullGuid*
+			member(46) Levels/MP/MP_Siege/Architecture/MP_Siege_Skyscraper_01/SkyscraperAwning_01/8bfd9748-2889-e43a-6f80-59d3889708fa
+			member(47) *nullGuid*
+			member(48) *nullGuid*
+	Aabb::array
+		member(0)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -0.3768760561943054
+						y 0.0
+						z -1.2190316915512085
+					max::Vec3
+						x 0.3567431569099426
+						y 1.0035043954849243
+						z 1.2190316915512085
+				member(1)::AxisAlignedBox
+					min::Vec3
+						x -0.3107692003250122
+						y 0.44824516773223877
+						z 0.35512420535087585
+					max::Vec3
+						x -0.11038640141487122
+						y 0.9955545663833618
+						z 1.155394434928894
+				member(2)::AxisAlignedBox
+					min::Vec3
+						x -0.3107692003250122
+						y 0.44886359572410583
+						z -0.5271410942077637
+					max::Vec3
+						x -0.1104404479265213
+						y 0.9955545663833618
+						z 0.5392880439758301
+				member(3)::AxisAlignedBox
+					min::Vec3
+						x -0.3107692003250122
+						y 0.44957900047302246
+						z -1.1554111242294312
+					max::Vec3
+						x -0.11050286889076233
+						y 0.9955545663833618
+						z -0.3075380325317383
+				member(4)::AxisAlignedBox
+					min::Vec3
+						x -0.09802119433879852
+						y 0.41787201166152954
+						z 0.32854166626930237
+					max::Vec3
+						x 0.3456454277038574
+						y 0.4569116234779358
+						z 1.1553943157196045
+				member(5)::AxisAlignedBox
+					min::Vec3
+						x -0.09803089499473572
+						y 0.41787201166152954
+						z -0.6185968518257141
+					max::Vec3
+						x 0.3456454575061798
+						y 0.4576139450073242
+						z 0.5366625189781189
+				member(6)::AxisAlignedBox
+					min::Vec3
+						x -0.09803789854049683
+						y 0.41787201166152954
+						z -1.1554111242294312
+					max::Vec3
+						x 0.3456454575061798
+						y 0.45811453461647034
+						z -0.28304481506347656
+		member(1)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -2.366386651992798
+						y -1.2812384366989136
+						z -0.044218748807907104
+					max::Vec3
+						x 2.366386651992798
+						y 1.2812377214431763
+						z 0.0
+				member(1)::AxisAlignedBox
+					min::Vec3
+						x -2.219973087310791
+						y -1.1428277492523193
+						z 0.0
+					max::Vec3
+						x 2.2296948432922363
+						y 1.1513662338256836
+						z 0.0
+				member(2)::AxisAlignedBox
+					min::Vec3
+						x -2.219973087310791
+						y -1.1428277492523193
+						z 0.0
+					max::Vec3
+						x 2.2296948432922363
+						y 1.1513662338256836
+						z 0.0
+		member(2)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -0.14228448271751404
+						y -0.028817065060138702
+						z -0.14228451251983643
+					max::Vec3
+						x 0.14228442311286926
+						y 0.017025545239448547
+						z 0.14228445291519165
+				member(1)::AxisAlignedBox
+					min::Vec3
+						x -0.14228448271751404
+						y -0.028817065060138702
+						z -0.14228451251983643
+					max::Vec3
+						x 0.14228442311286926
+						y 0.017025545239448547
+						z 0.14228445291519165
+		member(3)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -22.944318771362305
+						y 0.13779830932617188
+						z 29.415172576904297
+					max::Vec3
+						x -18.076709747314453
+						y 15.381068229675293
+						z 29.459379196166992
+				member(1)::AxisAlignedBox
+					min::Vec3
+						x -13.891929626464844
+						y 0.0009050369262695312
+						z 29.417028427124023
+					max::Vec3
+						x -9.910082817077637
+						y 15.381068229675293
+						z 29.46047019958496
+				member(2)::AxisAlignedBox
+					min::Vec3
+						x -9.745635032653809
+						y -0.029069900512695312
+						z 29.41860580444336
+					max::Vec3
+						x -5.788969039916992
+						y 15.381068229675293
+						z 29.462026596069336
+				member(3)::AxisAlignedBox
+					min::Vec3
+						x -0.33400464057922363
+						y 1.284144401550293
+						z 29.41557502746582
+					max::Vec3
+						x 3.2676968574523926
+						y 15.381068229675293
+						z 29.458690643310547
+				member(4)::AxisAlignedBox
+					min::Vec3
+						x 3.440114736557007
+						y 1.28541898727417
+						z 29.414888381958008
+					max::Vec3
+						x 7.876791954040527
+						y 15.381067276000977
+						z 29.458721160888672
+				member(5)::AxisAlignedBox
+					min::Vec3
+						x 12.071693420410156
+						y 1.279101848602295
+						z 29.416555404663086
+					max::Vec3
+						x 16.452342987060547
+						y 15.381067276000977
+						z 29.46034049987793
+				member(6)::AxisAlignedBox
+					min::Vec3
+						x 16.589763641357422
+						y 2.5673303604125977
+						z 29.413972854614258
+					max::Vec3
+						x 22.25309181213379
+						y 15.381068229675293
+						z 29.458866119384766
+				member(7)::AxisAlignedBox
+					min::Vec3
+						x -5.626678466796875
+						y 4.475985527038574
+						z 29.4152774810791
+					max::Vec3
+						x -0.5071744918823242
+						y 15.381068229675293
+						z 29.520965576171875
+				member(8)::AxisAlignedBox
+					min::Vec3
+						x 20.11522674560547
+						y 2.5673303604125977
+						z -29.459928512573242
+					max::Vec3
+						x 25.256389617919922
+						y 15.381068229675293
+						z -29.415483474731445
+				member(9)::AxisAlignedBox
+					min::Vec3
+						x -21.576955795288086
+						y 0.13779830932617188
+						z -29.457271575927734
+					max::Vec3
+						x -15.974981307983398
+						y 15.381068229675293
+						z -29.412429809570312
+				member(10)::AxisAlignedBox
+					min::Vec3
+						x 28.97634506225586
+						y 2.5199103355407715
+						z 17.856691360473633
+					max::Vec3
+						x 31.142831802368164
+						y 17.3382568359375
+						z 25.35798454284668
+				member(11)::AxisAlignedBox
+					min::Vec3
+						x -15.804919242858887
+						y 0.13779830932617188
+						z -29.457216262817383
+					max::Vec3
+						x -11.961671829223633
+						y 15.381068229675293
+						z -29.413896560668945
+				member(12)::AxisAlignedBox
+					min::Vec3
+						x -7.847600936889648
+						y 0.1581401824951172
+						z -29.4647216796875
+					max::Vec3
+						x -4.009415626525879
+						y 15.381068229675293
+						z -29.421403884887695
+				member(13)::AxisAlignedBox
+					min::Vec3
+						x -3.832615375518799
+						y 0.1664896011352539
+						z -29.4635009765625
+					max::Vec3
+						x -0.7779386043548584
+						y 15.381068229675293
+						z -29.420862197875977
+				member(14)::AxisAlignedBox
+					min::Vec3
+						x -0.6116873025894165
+						y 4.475985527038574
+						z -29.524736404418945
+					max::Vec3
+						x 4.496788501739502
+						y 15.381068229675293
+						z -29.419889450073242
+				member(15)::AxisAlignedBox
+					min::Vec3
+						x 4.669515132904053
+						y 1.284144401550293
+						z -29.464155197143555
+					max::Vec3
+						x 7.965426445007324
+						y 15.381068229675293
+						z -29.421306610107422
+				member(16)::AxisAlignedBox
+					min::Vec3
+						x 8.138909339904785
+						y 1.28541898727417
+						z -29.464197158813477
+					max::Vec3
+						x 11.989498138427734
+						y 15.381067276000977
+						z -29.420869827270508
+				member(17)::AxisAlignedBox
+					min::Vec3
+						x 16.097076416015625
+						y 1.2638540267944336
+						z -29.459440231323242
+					max::Vec3
+						x 19.947391510009766
+						y 15.381068229675293
+						z -29.416112899780273
+				member(18)::AxisAlignedBox
+					min::Vec3
+						x -29.59168815612793
+						y 9.5367431640625e-07
+						z -18.999977111816406
+					max::Vec3
+						x -28.150697708129883
+						y 15.388567924499512
+						z -14.61619758605957
+				member(19)::AxisAlignedBox
+					min::Vec3
+						x -31.511648178100586
+						y 1.430511474609375e-06
+						z -10.680874824523926
+					max::Vec3
+						x -30.520597457885742
+						y 15.388568878173828
+						z -6.464629173278809
+				member(20)::AxisAlignedBox
+					min::Vec3
+						x -31.91203498840332
+						y 9.5367431640625e-07
+						z -6.2894158363342285
+					max::Vec3
+						x -31.461008071899414
+						y 15.388567924499512
+						z -4.27967643737793
+				member(21)::AxisAlignedBox
+					min::Vec3
+						x 31.6446533203125
+						y 2.4787750244140625
+						z 6.339494705200195
+					max::Vec3
+						x 32.403778076171875
+						y 17.3382568359375
+						z 13.828615188598633
+				member(22)::AxisAlignedBox
+					min::Vec3
+						x -33.18571853637695
+						y 4.250569820404053
+						z -3.9767348766326904
+					max::Vec3
+						x -31.930498123168945
+						y 15.388568878173828
+						z 3.6107943058013916
+				member(23)::AxisAlignedBox
+					min::Vec3
+						x -33.553524017333984
+						y 1.430511474609375e-06
+						z 3.889657974243164
+					max::Vec3
+						x -32.91804885864258
+						y 15.388568878173828
+						z 6.476160049438477
+				member(24)::AxisAlignedBox
+					min::Vec3
+						x -34.07842254638672
+						y 9.5367431640625e-07
+						z 6.47615909576416
+					max::Vec3
+						x -33.481781005859375
+						y 15.388567924499512
+						z 10.832828521728516
+				member(25)::AxisAlignedBox
+					min::Vec3
+						x -34.10053253173828
+						y 9.5367431640625e-07
+						z 14.769432067871094
+					max::Vec3
+						x -34.02070236206055
+						y 15.388567924499512
+						z 19.200576782226562
+				member(26)::AxisAlignedBox
+					min::Vec3
+						x -34.069522857666016
+						y 9.5367431640625e-07
+						z 19.20057487487793
+					max::Vec3
+						x -33.69668960571289
+						y 15.388567924499512
+						z 25.47116470336914
+				member(27)::AxisAlignedBox
+					min::Vec3
+						x 32.351829528808594
+						y 2.4787750244140625
+						z 3.898887872695923
+					max::Vec3
+						x 32.44972229003906
+						y 17.3382568359375
+						z 6.339494705200195
+				member(28)::AxisAlignedBox
+					min::Vec3
+						x 32.407470703125
+						y 6.585054874420166
+						z -4.049919128417969
+					max::Vec3
+						x 32.524845123291016
+						y 17.3382568359375
+						z 3.898888111114502
+				member(29)::AxisAlignedBox
+					min::Vec3
+						x 32.3524169921875
+						y 2.571338653564453
+						z -6.339497089385986
+					max::Vec3
+						x 32.47047424316406
+						y 17.3382568359375
+						z -4.049919128417969
+				member(30)::AxisAlignedBox
+					min::Vec3
+						x 31.62944984436035
+						y 2.571338653564453
+						z -13.950876235961914
+					max::Vec3
+						x 32.403526306152344
+						y 17.3382568359375
+						z -6.339496612548828
+				member(31)::AxisAlignedBox
+					min::Vec3
+						x 29.750263214111328
+						y 2.5158653259277344
+						z -25.53078842163086
+					max::Vec3
+						x 31.152435302734375
+						y 15.181966781616211
+						z -17.746601104736328
+				member(32)::AxisAlignedBox
+					min::Vec3
+						x -28.191940307617188
+						y 9.5367431640625e-07
+						z -24.964271545410156
+					max::Vec3
+						x -25.74478530883789
+						y 15.388567924499512
+						z -19.179826736450195
+				member(33)::AxisAlignedBox
+					min::Vec3
+						x -29.437461853027344
+						y 0.13779830932617188
+						z 29.419519424438477
+					max::Vec3
+						x -23.10731315612793
+						y 15.381068229675293
+						z 29.464990615844727
+		member(4)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -1.9206637144088745
+						y -0.0005136108375154436
+						z -15.35974407196045
+					max::Vec3
+						x 59.89426803588867
+						y 25.6002254486084
+						z 22.463993072509766
+		member(5)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -22.58436393737793
+						y 3.3092517852783203
+						z -20.55862808227539
+					max::Vec3
+						x 22.22941780090332
+						y 153.38424682617188
+						z 32.75163650512695
+		member(6)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -1.891517996788025
+						y 0.0
+						z -1.8915172815322876
+					max::Vec3
+						x 1.8915187120437622
+						y 16.516237258911133
+						z 1.891518473625183
+				member(1)::AxisAlignedBox
+					min::Vec3
+						x -1.951935887336731
+						y 0.0
+						z -1.959574580192566
+					max::Vec3
+						x 1.929582953453064
+						y 16.516237258911133
+						z 1.9595738649368286
+				member(2)::AxisAlignedBox
+					min::Vec3
+						x -1.951935887336731
+						y 0.0
+						z -1.959574580192566
+					max::Vec3
+						x 1.929582953453064
+						y 10.461943626403809
+						z 1.9595738649368286
+		member(7)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -6.188202857971191
+						y 5.4836273193359375e-06
+						z -0.23838135600090027
+					max::Vec3
+						x 9.5367431640625e-07
+						y 4.824955940246582
+						z -0.1463354527950287
+				member(1)::AxisAlignedBox
+					min::Vec3
+						x -6.188202857971191
+						y 5.4836273193359375e-06
+						z -0.23838135600090027
+					max::Vec3
+						x 9.5367431640625e-07
+						y 4.824955940246582
+						z -0.1463354527950287
+				member(2)::AxisAlignedBox
+					min::Vec3
+						x -12.376405715942383
+						y 5.7220458984375e-06
+						z -0.2383715808391571
+					max::Vec3
+						x -6.187172889709473
+						y 4.82495641708374
+						z -0.1463354527950287
+				member(3)::AxisAlignedBox
+					min::Vec3
+						x -12.376405715942383
+						y 5.7220458984375e-06
+						z -0.2383715808391571
+					max::Vec3
+						x -6.187172889709473
+						y 4.82495641708374
+						z -0.1463354527950287
+				member(4)::AxisAlignedBox
+					min::Vec3
+						x -18.56460952758789
+						y 5.7220458984375e-06
+						z -0.23836058378219604
+					max::Vec3
+						x -12.374347686767578
+						y 4.82495641708374
+						z -0.1463354378938675
+				member(5)::AxisAlignedBox
+					min::Vec3
+						x -18.56460952758789
+						y 5.7220458984375e-06
+						z -0.23836058378219604
+					max::Vec3
+						x -12.374347686767578
+						y 4.82495641708374
+						z -0.1463354378938675
+				member(6)::AxisAlignedBox
+					min::Vec3
+						x -24.7528133392334
+						y 5.7220458984375e-06
+						z -0.23834961652755737
+					max::Vec3
+						x -18.561521530151367
+						y 4.82495641708374
+						z -0.1463354527950287
+				member(7)::AxisAlignedBox
+					min::Vec3
+						x -24.7528133392334
+						y 5.7220458984375e-06
+						z -0.23834961652755737
+					max::Vec3
+						x -18.561521530151367
+						y 4.82495641708374
+						z -0.1463354527950287
+				member(8)::AxisAlignedBox
+					min::Vec3
+						x -30.410268783569336
+						y 2.86102294921875e-06
+						z -0.23833990097045898
+					max::Vec3
+						x -24.748695373535156
+						y 4.824958801269531
+						z 2.09423828125
+				member(9)::AxisAlignedBox
+					min::Vec3
+						x -30.410268783569336
+						y 2.86102294921875e-06
+						z -0.23833990097045898
+					max::Vec3
+						x -24.748695373535156
+						y 4.824958801269531
+						z 2.09423828125
+				member(10)::AxisAlignedBox
+					min::Vec3
+						x -32.672481536865234
+						y 1.6689300537109375e-06
+						z 2.0295286178588867
+					max::Vec3
+						x -30.345020294189453
+						y 4.824959754943848
+						z 7.48089599609375
+				member(11)::AxisAlignedBox
+					min::Vec3
+						x -32.672481536865234
+						y 1.6689300537109375e-06
+						z 2.0295286178588867
+					max::Vec3
+						x -30.345020294189453
+						y 4.824959754943848
+						z 7.48089599609375
+				member(12)::AxisAlignedBox
+					min::Vec3
+						x -32.672481536865234
+						y 1.6689300537109375e-06
+						z 7.475618362426758
+					max::Vec3
+						x -32.577796936035156
+						y 4.824959754943848
+						z 14.03976821899414
+				member(13)::AxisAlignedBox
+					min::Vec3
+						x -32.672481536865234
+						y 1.6689300537109375e-06
+						z 7.475618362426758
+					max::Vec3
+						x -32.577796936035156
+						y 4.824959754943848
+						z 14.03976821899414
+				member(14)::AxisAlignedBox
+					min::Vec3
+						x -32.669761657714844
+						y 2.6226043701171875e-06
+						z 14.037125587463379
+					max::Vec3
+						x -32.57502746582031
+						y 4.824959754943848
+						z 20.59864044189453
+				member(15)::AxisAlignedBox
+					min::Vec3
+						x -32.669761657714844
+						y 2.6226043701171875e-06
+						z 14.037125587463379
+					max::Vec3
+						x -32.57502746582031
+						y 4.824959754943848
+						z 20.59864044189453
+				member(16)::AxisAlignedBox
+					min::Vec3
+						x -32.575164794921875
+						y 0.0
+						z -0.14633560180664062
+					max::Vec3
+						x 0.0
+						y 4.824960231781006
+						z 20.59864044189453
+		member(8)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -45.176368713378906
+						y -2.637638807296753
+						z -52.41523742675781
+					max::Vec3
+						x 45.17637634277344
+						y 2.6376383304595947
+						z 52.41523742675781
+		member(9)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -50.15080261230469
+						y -0.23515518009662628
+						z -49.79829406738281
+					max::Vec3
+						x 50.15080261230469
+						y 0.23515518009662628
+						z 49.80970764160156
+		member(10)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -49.61955261230469
+						y -2.8495049476623535
+						z -33.624366760253906
+					max::Vec3
+						x 49.641571044921875
+						y 2.8495049476623535
+						z 33.624366760253906
+		member(11)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -49.820899963378906
+						y -0.7101443409919739
+						z -48.07060241699219
+					max::Vec3
+						x 49.80235290527344
+						y 0.7101439833641052
+						z 44.841224670410156
+		member(12)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -55.204261779785156
+						y -2.6357762813568115
+						z -42.1877326965332
+					max::Vec3
+						x 55.14783477783203
+						y 2.6357762813568115
+						z 42.1877326965332
+		member(13)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -52.52521896362305
+						y -2.5999999046325684
+						z -46.92637634277344
+					max::Vec3
+						x 52.52522659301758
+						y 2.5999999046325684
+						z 46.92637634277344
+		member(14)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -60.83454895019531
+						y -0.25280043482780457
+						z -21.237123489379883
+					max::Vec3
+						x 60.83454895019531
+						y 0.25280043482780457
+						z 21.237123489379883
+		member(15)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -37.800907135009766
+						y -2.5999999046325684
+						z -48.3134880065918
+					max::Vec3
+						x 37.8009147644043
+						y 2.5999999046325684
+						z 48.3134880065918
+		member(16)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -50.10166549682617
+						y -2.5999999046325684
+						z -30.45040512084961
+					max::Vec3
+						x 50.10166549682617
+						y 2.5999999046325684
+						z 30.45040512084961
+		member(17)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -18.725522994995117
+						y -2.5999999046325684
+						z -12.115151405334473
+					max::Vec3
+						x 18.725522994995117
+						y 2.5999999046325684
+						z 12.115151405334473
+		member(18)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -48.9045295715332
+						y -0.23444031178951263
+						z -33.36432647705078
+					max::Vec3
+						x 48.9045295715332
+						y 0.23444031178951263
+						z 33.36432647705078
+		member(19)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -46.11050796508789
+						y -2.833765983581543
+						z -29.179424285888672
+					max::Vec3
+						x 46.11050796508789
+						y 2.833765983581543
+						z 29.12824249267578
+		member(20)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -45.20962905883789
+						y -0.5088497996330261
+						z -38.088661193847656
+					max::Vec3
+						x 45.20962905883789
+						y 0.5088497996330261
+						z 38.088661193847656
+		member(21)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -44.431182861328125
+						y -3.909907341003418
+						z -46.16177749633789
+					max::Vec3
+						x 44.413909912109375
+						y 3.909907341003418
+						z 46.16178512573242
+		member(22)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -45.20814514160156
+						y -3.6350152492523193
+						z -40.12009811401367
+					max::Vec3
+						x 45.17695617675781
+						y 3.6350152492523193
+						z 40.12009048461914
+		member(23)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -46.96287155151367
+						y -2.5999999046325684
+						z -19.437782287597656
+					max::Vec3
+						x 46.96287155151367
+						y 2.5999999046325684
+						z 19.437774658203125
+		member(24)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -54.011619567871094
+						y -0.4689260721206665
+						z -43.520294189453125
+					max::Vec3
+						x 54.011619567871094
+						y 0.4689260721206665
+						z 43.520294189453125
+		member(25)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -45.27082061767578
+						y -3.550618886947632
+						z -42.87580871582031
+					max::Vec3
+						x 45.27082824707031
+						y 3.550618886947632
+						z 42.87580871582031
+		member(26)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -54.59773254394531
+						y -5.424088954925537
+						z -36.39988327026367
+					max::Vec3
+						x 54.597740173339844
+						y 5.424088954925537
+						z 36.3998908996582
+		member(27)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -47.33567810058594
+						y -5.4201178550720215
+						z -51.81375503540039
+					max::Vec3
+						x 47.33567810058594
+						y 5.4201178550720215
+						z 51.81376266479492
+		member(28)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -43.756744384765625
+						y -2.6000072956085205
+						z -43.73982238769531
+					max::Vec3
+						x 43.756744384765625
+						y 2.6000072956085205
+						z 43.73982238769531
+		member(29)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -44.32835388183594
+						y -2.6000003814697266
+						z -47.360984802246094
+					max::Vec3
+						x 44.32835388183594
+						y 2.5999999046325684
+						z 47.360984802246094
+		member(30)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -57.06666946411133
+						y -5.647757530212402
+						z -53.474639892578125
+					max::Vec3
+						x 57.06666946411133
+						y 5.647757530212402
+						z 53.474632263183594
+		member(31)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -62.454017639160156
+						y -3.148512840270996
+						z -61.60334396362305
+					max::Vec3
+						x 62.454017639160156
+						y 3.148512840270996
+						z 61.60335159301758
+		member(32)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -43.84444808959961
+						y -4.987783432006836
+						z -45.44444274902344
+					max::Vec3
+						x 43.84445571899414
+						y 4.987783432006836
+						z 45.44444274902344
+		member(33)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -46.24421691894531
+						y -3.7087149620056152
+						z -46.8345832824707
+					max::Vec3
+						x 46.16307067871094
+						y 3.7074484825134277
+						z 46.87185287475586
+		member(34)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -48.23460388183594
+						y -4.347989559173584
+						z -47.571170806884766
+					max::Vec3
+						x 48.22724914550781
+						y 4.347989559173584
+						z 47.57180404663086
+		member(35)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -44.75530242919922
+						y -5.55952262878418
+						z -35.906131744384766
+					max::Vec3
+						x 44.75530242919922
+						y 5.55952262878418
+						z 35.906131744384766
+		member(36)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -46.139259338378906
+						y -5.381671905517578
+						z -31.79500961303711
+					max::Vec3
+						x 46.13926696777344
+						y 5.381671905517578
+						z 31.78500747680664
+		member(37)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -46.15571594238281
+						y -4.860772132873535
+						z -46.75493240356445
+					max::Vec3
+						x 46.15447235107422
+						y 4.860772132873535
+						z 46.74958419799805
+		member(38)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -39.85647201538086
+						y -0.016209570690989494
+						z -62.30772018432617
+					max::Vec3
+						x 39.808536529541016
+						y 0.005910644307732582
+						z 62.30350112915039
+		member(39)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -45.838497161865234
+						y -4.34892463684082
+						z -32.110687255859375
+					max::Vec3
+						x 45.838497161865234
+						y 4.34892463684082
+						z 32.110687255859375
+		member(40)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -38.26691436767578
+						y -4.34892463684082
+						z -37.23379898071289
+					max::Vec3
+						x 38.26692199707031
+						y 4.34892463684082
+						z 37.23379135131836
+		member(41)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -2.559999942779541
+						y -1.2799999713897705
+						z -2.5599987506866455
+					max::Vec3
+						x 2.559999942779541
+						y 0.0
+						z 2.5600011348724365
+				member(1)::AxisAlignedBox
+					min::Vec3
+						x -2.6174492835998535
+						y -0.06499814987182617
+						z -2.530771017074585
+					max::Vec3
+						x 2.608278274536133
+						y 13.196735382080078
+						z 2.5793616771698
+				member(2)::AxisAlignedBox
+					min::Vec3
+						x -1.0855242013931274
+						y 6.2623677253723145
+						z -0.9661484360694885
+					max::Vec3
+						x 1.0763529539108276
+						y 6.8693695068359375
+						z 1.0147390365600586
+				member(3)::AxisAlignedBox
+					min::Vec3
+						x -1.2702816724777222
+						y 0.4950192868709564
+						z -1.2728540897369385
+					max::Vec3
+						x 1.818912386894226
+						y 1.3606289625167847
+						z 1.4068777561187744
+				member(4)::AxisAlignedBox
+					min::Vec3
+						x -2.2411346435546875
+						y 0.8484997153282166
+						z 0.9201841354370117
+					max::Vec3
+						x 0.17437505722045898
+						y 2.5862812995910645
+						z 1.9049856662750244
+				member(5)::AxisAlignedBox
+					min::Vec3
+						x -1.3320140838623047
+						y 0.8130781650543213
+						z -2.440885543823242
+					max::Vec3
+						x 0.3000645637512207
+						y 2.2941195964813232
+						z -0.3009047508239746
+				member(6)::AxisAlignedBox
+					min::Vec3
+						x 1.588193416595459
+						y 1.098017930984497
+						z -0.4280165433883667
+					max::Vec3
+						x 2.0913031101226807
+						y 1.611779808998108
+						z 0.43600982427597046
+				member(7)::AxisAlignedBox
+					min::Vec3
+						x 1.6959294080734253
+						y 1.4069724082946777
+						z -0.15199631452560425
+					max::Vec3
+						x 2.603809356689453
+						y 3.1609444618225098
+						z 1.7410266399383545
+				member(8)::AxisAlignedBox
+					min::Vec3
+						x 0.9609978795051575
+						y 2.274289608001709
+						z 0.07800436019897461
+					max::Vec3
+						x 2.6256113052368164
+						y 5.278156280517578
+						z 2.3936479091644287
+				member(9)::AxisAlignedBox
+					min::Vec3
+						x 2.272429943084717
+						y 3.4694948196411133
+						z -0.6944919228553772
+					max::Vec3
+						x 2.6344587802886963
+						y 4.830820083618164
+						z 0.6383659243583679
+				member(10)::AxisAlignedBox
+					min::Vec3
+						x 2.4435484409332275
+						y 3.1243066787719727
+						z -0.6562550663948059
+					max::Vec3
+						x 2.640002965927124
+						y 3.7226603031158447
+						z 0.35560375452041626
+				member(11)::AxisAlignedBox
+					min::Vec3
+						x 1.824584722518921
+						y 2.82578706741333
+						z -1.838277816772461
+					max::Vec3
+						x 2.578171968460083
+						y 5.267431735992432
+						z -0.4190964698791504
+				member(12)::AxisAlignedBox
+					min::Vec3
+						x -1.642482876777649
+						y 1.9890209436416626
+						z -2.638216018676758
+					max::Vec3
+						x 2.1411046981811523
+						y 5.448170185089111
+						z -1.0010273456573486
+				member(13)::AxisAlignedBox
+					min::Vec3
+						x -2.2092034816741943
+						y 2.999537944793701
+						z -2.1147212982177734
+					max::Vec3
+						x -1.5502880811691284
+						y 4.571903705596924
+						z -1.220183253288269
+				member(14)::AxisAlignedBox
+					min::Vec3
+						x -2.639192819595337
+						y 2.5374021530151367
+						z -1.5564466714859009
+					max::Vec3
+						x -2.0775880813598633
+						y 3.922337293624878
+						z 0.19798433780670166
+				member(15)::AxisAlignedBox
+					min::Vec3
+						x -2.6392569541931152
+						y 2.140599012374878
+						z 0.03792774677276611
+					max::Vec3
+						x -1.150688886642456
+						y 4.514128684997559
+						z 2.296238422393799
+				member(16)::AxisAlignedBox
+					min::Vec3
+						x -1.718671202659607
+						y 2.6418936252593994
+						z 1.1128666400909424
+					max::Vec3
+						x 2.0867204666137695
+						y 7.773876190185547
+						z 2.638216018676758
+				member(17)::AxisAlignedBox
+					min::Vec3
+						x -1.7473722696304321
+						y 3.423407793045044
+						z -2.5880913734436035
+					max::Vec3
+						x 2.0316171646118164
+						y 6.894144058227539
+						z -1.1120952367782593
+				member(18)::AxisAlignedBox
+					min::Vec3
+						x -0.31434300541877747
+						y 7.591367244720459
+						z 1.2927733659744263
+					max::Vec3
+						x 0.9780417680740356
+						y 9.36379623413086
+						z 1.809168815612793
+				member(19)::AxisAlignedBox
+					min::Vec3
+						x 0.002393960952758789
+						y 9.250601768493652
+						z 0.9878746271133423
+					max::Vec3
+						x 0.5058876276016235
+						y 11.69877815246582
+						z 1.4863148927688599
+				member(20)::AxisAlignedBox
+					min::Vec3
+						x -0.6673742532730103
+						y 6.698871612548828
+						z -2.0315308570861816
+					max::Vec3
+						x 1.4052566289901733
+						y 10.23365592956543
+						z -1.1666736602783203
+				member(21)::AxisAlignedBox
+					min::Vec3
+						x -0.23038733005523682
+						y 10.10635757446289
+						z -1.3347281217575073
+					max::Vec3
+						x 0.4055553674697876
+						y 13.242317199707031
+						z -0.7887901663780212
+		member(42)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -3.475942373275757
+						y -0.020325927063822746
+						z 0.0
+					max::Vec3
+						x 0.07481932640075684
+						y 4.980190277099609
+						z 21.37653160095215
+		member(43)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -0.05877576023340225
+						y -0.08704027533531189
+						z -0.05877576023340225
+					max::Vec3
+						x 0.05877576023340225
+						y 0.000966876745223999
+						z 0.05877576023340225
+		member(44)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -1.8915176391601562
+						y -0.46018943190574646
+						z -1.8915172815322876
+					max::Vec3
+						x 1.8915185928344727
+						y 16.056047439575195
+						z 1.891518473625183
+		member(45)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -37.42842102050781
+						y -0.13134576380252838
+						z -31.722061157226562
+					max::Vec3
+						x 35.570472717285156
+						y 17.462987899780273
+						z 31.55146026611328
+		member(46)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x -7.669642448425293
+						y -1.851845145225525
+						z -32.42368698120117
+					max::Vec3
+						x 10.119412422180176
+						y 4.623447418212891
+						z 33.94740676879883
+		member(47)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x 5.700892232243793e-14
+						y -3.0621461064583855e-06
+						z 0.0
+					max::Vec3
+						x 26.715538024902344
+						y 3.8530683517456055
+						z 0.24833068251609802
+				member(1)::AxisAlignedBox
+					min::Vec3
+						x 0.07674620300531387
+						y 0.092291459441185
+						z 0.15978148579597473
+					max::Vec3
+						x 6.714773654937744
+						y 3.771185874938965
+						z 0.24833068251609802
+				member(2)::AxisAlignedBox
+					min::Vec3
+						x 0.07674620300531387
+						y 0.08493537455797195
+						z 0.15978148579597473
+					max::Vec3
+						x 6.714773654937744
+						y 3.771185874938965
+						z 0.24833068251609802
+				member(3)::AxisAlignedBox
+					min::Vec3
+						x 6.7147722244262695
+						y 0.09228727966547012
+						z 0.15978148579597473
+					max::Vec3
+						x 13.352800369262695
+						y 3.771181583404541
+						z 0.24833068251609802
+				member(4)::AxisAlignedBox
+					min::Vec3
+						x 6.7147722244262695
+						y 0.08493119478225708
+						z 0.15978148579597473
+					max::Vec3
+						x 13.352800369262695
+						y 3.771181583404541
+						z 0.24833068251609802
+				member(5)::AxisAlignedBox
+					min::Vec3
+						x 13.352797508239746
+						y 0.0922822654247284
+						z 0.15978148579597473
+					max::Vec3
+						x 19.990825653076172
+						y 3.771177053451538
+						z 0.24833068251609802
+				member(6)::AxisAlignedBox
+					min::Vec3
+						x 13.352797508239746
+						y 0.08492618054151535
+						z 0.15978148579597473
+					max::Vec3
+						x 19.990825653076172
+						y 3.771177053451538
+						z 0.24833068251609802
+				member(7)::AxisAlignedBox
+					min::Vec3
+						x 19.99082374572754
+						y 0.09227780252695084
+						z 0.15978148579597473
+					max::Vec3
+						x 26.62885093688965
+						y 3.7711730003356934
+						z 0.24833068251609802
+				member(8)::AxisAlignedBox
+					min::Vec3
+						x 19.99082374572754
+						y 0.08492200076580048
+						z 0.15978148579597473
+					max::Vec3
+						x 26.62885093688965
+						y 3.7711730003356934
+						z 0.24833068251609802
+		member(48)::AssetAabbs
+			PartAabb::array
+				member(0)::AxisAlignedBox
+					min::Vec3
+						x 0.570815920829773
+						y -2.69522762298584
+						z -6.376777648925781
+					max::Vec3
+						x 0.9510965347290039
+						y -0.10212826728820801
+						z 0.037235260009765625
+				member(1)::AxisAlignedBox
+					min::Vec3
+						x 0.570815920829773
+						y -2.69522762298584
+						z -12.736777305603027
+					max::Vec3
+						x 0.9510965347290039
+						y -0.10212826728820801
+						z -6.3227643966674805
+				member(2)::AxisAlignedBox
+					min::Vec3
+						x 0.570815920829773
+						y -5.235227584838867
+						z -6.376777648925781
+					max::Vec3
+						x 0.9510965347290039
+						y -2.6421282291412354
+						z 0.037235260009765625
+				member(3)::AxisAlignedBox
+					min::Vec3
+						x 0.570815920829773
+						y -5.235227584838867
+						z -12.736777305603027
+					max::Vec3
+						x 0.9510965347290039
+						y -2.6421282291412354
+						z -6.3227643966674805
+				member(4)::AxisAlignedBox
+					min::Vec3
+						x 0.570815920829773
+						y -7.7752275466918945
+						z -6.376777648925781
+					max::Vec3
+						x 0.9510965347290039
+						y -5.182127952575684
+						z 0.037235260009765625
+				member(5)::AxisAlignedBox
+					min::Vec3
+						x 0.570815920829773
+						y -7.7752275466918945
+						z -12.736777305603027
+					max::Vec3
+						x 0.9510965347290039
+						y -5.182127952575684
+						z -6.3227643966674805
+				member(6)::AxisAlignedBox
+					min::Vec3
+						x 0.0
+						y -7.837309837341309
+						z -12.711464881896973
+					max::Vec3
+						x 0.9510964751243591
+						y -0.041584014892578125
+						z 0.012021064758300781
+DynamicEnlightenEntityData Instance15
+	$::EnlightenEntityData
+		$::EntityData
+			$::GameObjectData
+				$::DataBusPeer
+					$::GameDataContainer
+						$::DataContainer
+					Flags 9858330
+		Priority 3000
+		Realm Realm_Client
+		Enable True
+	EnlightenData Levels/MP/MP_Siege/Lighting/MP_Siege_Enlighten_Gen3/a17604a2-5ccb-1056-bf93-9168c083a83d
+InterfaceDescriptorData Instance16
+	$::DynamicDataContainer
+		$::DataContainer
+		Fields::array
+			member(0)::DataField
+				Value *nullString*
+				ValueRef *nullGuid*
+				Id 955833207
+				AccessType FieldAccessType_Source
+	InputEvents::array
+		member(0)::DynamicEvent
+			Id -1242628357
+		member(1)::DynamicEvent
+			Id -800532665
+	OutputEvents::array
+		member(0)::DynamicEvent
+			Id 1422578556
+		member(1)::DynamicEvent
+			Id -1572973313
+		member(2)::DynamicEvent
+			Id -1208985144
+		member(3)::DynamicEvent
+			Id -1232897795
+		member(4)::DynamicEvent
+			Id 1491172248
+		member(5)::DynamicEvent
+			Id 1178226501
+	InputLinks *nullArray*
+	OutputLinks *nullArray*
+StaticEnlightenEntityData Instance17
+	$::EnlightenEntityData
+		$::EntityData
+			$::GameObjectData
+				$::DataBusPeer
+					$::GameDataContainer
+						$::DataContainer
+					Flags 25722229
+		Priority 2000
+		Realm Realm_Client
+		Enable True
+	EnlightenData Levels/MP/MP_Siege/Lighting/MP_Siege_Static_Gen3/f790e41a-e480-d455-e087-73ad01423f94
+	DynamicEnlightenData Levels/MP/MP_Siege/Lighting/MP_Siege_Enlighten_Gen3/a17604a2-5ccb-1056-bf93-9168c083a83d
+	VisualEnvironment Levels/MP/MP_Siege/Lighting/VE_MP_Siege/192a2ba6-fa6d-48f5-8724-684cc409d84c

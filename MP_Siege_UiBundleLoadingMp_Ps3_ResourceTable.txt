@@ -1,0 +1,6 @@
+585f4035-bd41-666d-ebcc-db87c19ebdcb
+UIResourceTable 585f4035-bd41-666d-ebcc-db87c19ebdcb
+	$::Asset
+		$::DataContainer
+		Name Levels/MP/MP_Siege/MP_Siege_UiBundleLoadingMp_Ps3_ResourceTable
+	Entries *nullArray*

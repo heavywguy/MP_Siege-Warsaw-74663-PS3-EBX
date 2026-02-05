@@ -1,0 +1,29 @@
+29526ee1-b301-40ff-a243-dc7cb819b0ca
+WorldPartData 7c497118-c781-4567-9622-767234b6f7f0
+	$::PrefabBlueprint
+		$::Blueprint
+			$::EntityBusData
+				$::DataBusData
+					$::Asset
+						$::DataContainer
+						Name Levels/MP/MP_Siege/Elimination_Gameplay_Schematic
+					PropertyConnections *nullArray*
+					LinkConnections *nullArray*
+					Interface *nullGuid*
+					Flags 0
+				EventConnections *nullArray*
+		Objects::array
+			member(0) 11511465-3a44-48f4-885c-1612811bc75f
+	HackToSolveRealTimeTweakingIssue *nullGuid*
+	Enabled True
+	UseDeferredEntityCreation False
+IntEntityData 11511465-3a44-48f4-885c-1612811bc75f
+	$::EntityData
+		$::GameObjectData
+			$::DataBusPeer
+				$::GameDataContainer
+					$::DataContainer
+				Flags 22090853
+	Realm Realm_ClientAndServer
+	DefaultValue 3
+	IncDecValue 0

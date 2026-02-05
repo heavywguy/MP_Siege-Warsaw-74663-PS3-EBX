@@ -1,0 +1,7 @@
+0264ef67-160b-0d2b-304c-6e31086365a2
+AntStateAsset 0264ef67-160b-0d2b-304c-6e31086365a2
+	$::Asset
+		$::DataContainer
+		Name levels/mp/mp_siege/obliteration_ps3_antstate
+	StreamingGuid *nullGuid*
+	ChunkSize 0
