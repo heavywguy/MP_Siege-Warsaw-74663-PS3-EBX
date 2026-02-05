@@ -1,0 +1,5 @@
+4301d803-edbc-392c-81fa-5fba95153eae
+TerrainLayerCombinationsData 4301d803-edbc-392c-81fa-5fba95153eae
+	$::Asset
+		$::DataContainer
+		Name Levels/MP/MP_Siege/MP_Siege_Terrain/MP_Siege_Terrain.LayerCombinations_Ps3

@@ -1,0 +1,26 @@
+b0435cc1-2627-50bf-0462-9694de9e4c2c
+TerrainStreamingTreeAsset b0435cc1-2627-50bf-0462-9694de9e4c2c
+	$::Asset
+		$::DataContainer
+		Name Levels/MP/MP_Siege/MP_Siege_Terrain/MP_Siege_Terrain.StreamingTree_Ps3
+TerrainMaskTreeAsset 1873d6e7-35e3-07fa-941b-3789a90a7d81
+	$::RasterTreeAsset
+		$::DataContainer
+DestructionDepthTreeAsset 5c17ee47-7727-9868-cc60-4d9ab3979c7b
+	$::RasterTreeAsset
+		$::DataContainer
+TerrainColorTreeAsset 6ebb8f44-f42f-4ab9-576c-11a3fc9dfba8
+	$::RasterTreeAsset
+		$::DataContainer
+HeightfieldTreeAsset 7085a13d-8b5f-0ebb-f00f-b31103be6f1e
+	$::RasterTreeAsset
+		$::DataContainer
+	MinHeightWidth 1024.0
+	MinHeightSamplesPerSide 64
+EnlightenAlbedoTreeAsset 98e82d23-d729-8fc6-3bed-f9f5b7567e00
+	$::TerrainColorTreeAsset
+		$::RasterTreeAsset
+			$::DataContainer
+TerrainMaterialTreeAsset e73a9ae7-003b-5e84-1033-acd48eb0e66a
+	$::RasterTreeAsset
+		$::DataContainer
